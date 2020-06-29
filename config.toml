@@ -1,58 +1,62 @@
-DefaultContentLanguage = "en"
-author = "Steve Francia"
-baseURL = "https://gohugo.io/"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
-enableInlineShortcodes = true
-footnoteReturnLinkContents = "^"
-languageCode = "en"
-paginate = 3
-theme = "casper3"
-title = "Hugo Themes"
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = 10
-[[menu.main]]
-identifier = "image-credit"
-name = "Image Credit"
-url = "/image-credit/"
-weight = 20
-[[menu.main]]
-identifier = "github-repo-theme"
-name = "Get Theme on Github"
-url = "https://github.com/jonathanjanssens/hugo-casper3"
-weight = 30
-[[menu.main]]
-identifier = "author"
-name = "Author Homepage"
-url = "https://jonathanjanssens.com"
-weight = 40
+baseurl = "/"
+languageCode = "en-us"
+theme = "hello-friend"
+paginate = 10
+
 [params]
-description = "Just a demo site for the Casper3 theme ported to Hugo"
-facebook = "https://facebook.com"
-github = "https://github.com/jonathanjanssens"
-logo = "/images/ghost-transparent.png"
-mainSections = ["post"]
-twitter = "https://twitter.com"
-[privacy.instagram]
-disabled = false
-simple = true
-[privacy.twitter]
-disabled = false
-enableDNT = true
-simple = true
-[privacy.vimeo]
-disabled = false
-simple = true
-[privacy.youtube]
-disabled = false
-privacyEnhanced = true
-[services.instagram]
-disableInlineCSS = true
-[services.twitter]
-disableInlineCSS = true
-[taxonomies]
-category = "categories"
-series = "series"
-tag = "tags"
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  # "light" or "dark"
+  defaultTheme = "light"
+
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
+
+  # Show reading time in minutes for posts
+  showReadingTime = false
+
+  # Show table of contents at the top of your posts (defaults to false)
+  # Alternatively, add this param to post front matter for specific posts
+  # toc = true
+
+  # Show full page content in RSS feed items
+  #(default is Description or Summary metadata in the front matter)
+  # rssFullText = true
+
+[languages]
+  [languages.en]
+    title = "Techquila"
+    subtitle = "blog by ISTE NITC"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+    # leave empty to disable, enter display text to enable
+    # lastModDisplay = ""
+
+    [languages.en.params.logo]
+      logoText = "techquila"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "showcase"
+        name = "Archive"
+        url = "/archive"
