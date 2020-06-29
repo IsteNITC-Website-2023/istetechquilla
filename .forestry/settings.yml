@@ -7,8 +7,8 @@ sections:
 - type: heading
   label: Content
 - type: directory
-  path: content/post
-  label: Post
+  path: content/posts
+  label: Posts
   create: documents
   match: "**/*"
   templates:
@@ -18,16 +18,9 @@ sections:
   label: Pages
   create: all
   match: "*"
-- type: directory
-  path: content/homepage
-  label: Homepage
-  create: all
-  match: "**/*"
 - type: document
   path: config.toml
   label: Site configuration
-- type: heading
-  label: Docs
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
