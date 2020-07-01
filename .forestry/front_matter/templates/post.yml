@@ -16,10 +16,7 @@ fields:
   name: author
   label: author
   default: Hugo Authors
-- name: tags
-  type: tag_list
-  default: []
-  label: tags
 - type: file
-  name: feature_image
-  label: feature_image
+  name: cover
+  label: cover_image
+  description: Cover image for the post
