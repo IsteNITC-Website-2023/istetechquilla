@@ -3,6 +3,7 @@ title: Neuralink
 date: 2019-12-22
 author: Anna
 cover: "/images/neuralink-jashwanth.jpg"
+poster_design_by: M. Jashwanth
 
 ---
 > **The reality of being part human part robot**
