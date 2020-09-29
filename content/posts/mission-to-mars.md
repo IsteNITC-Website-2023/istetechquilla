@@ -3,6 +3,7 @@ title: Mission to Mars
 date: 2020-01-27
 author: Gauri
 cover: "/images/mission-to-mars-ujwal.png"
+poster_design_by: Ujwal Karthikeya
 
 ---
 Elon Musk’s Mission to Mars  
