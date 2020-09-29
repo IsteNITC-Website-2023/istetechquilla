@@ -11,7 +11,7 @@ fields:
 - type: datetime
   name: date
   label: date
-  default: now
+  default: 29/09/2020
   config:
     date_format: DD/MM/YYYY
     time_format: ''
