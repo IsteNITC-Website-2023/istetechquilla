@@ -24,7 +24,7 @@ fields:
 - name: poster
   type: text
   config:
-    required: true
+    required: false
   default: ''
   label: poster
 - type: file
