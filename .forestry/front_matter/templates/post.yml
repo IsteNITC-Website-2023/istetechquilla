@@ -13,8 +13,8 @@ fields:
   label: date
   default: now
   config:
-    date_format: DD/MMM/YYY
-    time_format: "-"
+    date_format: DD MMM YYYY
+    time_format: ''
 - type: text
   name: author
   label: author
