@@ -1,9 +1,10 @@
 ---
-title: "Neuralink"
-date: "2019-12-22"
-author: "Anna"
----
+title: Neuralink
+date: 2019-12-22
+author: Anna
+cover: "/images/neuralink-jashwanth.jpg"
 
+---
 > **The reality of being part human part robot**
 
 Space, construction, finance, vehicles, it seems as though any industry would be left incomplete without the touch of Elon Musk. A recent addition to his playground of companies was made in 2016, Neuralink. While Musk’s views on AI and its negative impact has been making headlines he clearly could not give up on making an investment in this field either.
