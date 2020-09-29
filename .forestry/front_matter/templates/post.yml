@@ -5,6 +5,11 @@ fields:
 - type: text
   name: title
   label: title
+- name: poster_designed_by
+  type: text
+  config:
+    required: false
+  label: poster_designed_by
 - type: text
   name: description
   label: description
@@ -31,8 +36,3 @@ fields:
   name: cover
   label: cover_image
   description: Cover image for the post
-- name: poster_designed_by
-  type: text
-  config:
-    required: false
-  label: poster_designed_by
