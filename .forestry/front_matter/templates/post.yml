@@ -21,13 +21,12 @@ fields:
   name: author
   label: author
   default: Hugo Authors
-- name: poster_by
+- name: poster
   type: text
   config:
     required: false
-  label: poster_by
   default: ''
-  description: Poster by
+  label: poster
 - type: file
   name: cover
   label: cover_image
