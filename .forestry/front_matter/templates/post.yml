@@ -29,12 +29,3 @@ fields:
   name: cover
   label: cover_image
   description: Cover image for the post
-- name: fadsgvvdf
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: fadsgvvdf
