@@ -25,6 +25,7 @@ fields:
   config:
     required: false
   label: poster_design_by
+  default: poster_design_by
 - type: file
   name: cover
   label: cover_image
