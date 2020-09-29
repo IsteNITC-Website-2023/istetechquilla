@@ -3,6 +3,7 @@ title: Living Robots
 date: 2020-01-19
 author: Anna
 cover: "/images/living-robots-adarsh.jpg"
+poster_design_by: Adarsh Tulsyan
 
 ---
 Hello fellow organism!
