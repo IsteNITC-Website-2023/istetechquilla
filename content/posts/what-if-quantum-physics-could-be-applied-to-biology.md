@@ -1,9 +1,11 @@
 ---
-title: "What if quantum physics could be applied to biology?"
-date: "2019-11-10"
-author: "Raidha"
----
+title: What if quantum physics could be applied to biology?
+date: 2019-11-10
+author: Raidha
+poster_design_by: G. Rakesh
+cover: "/images/what-if-quantum-physics-could-be-applied-to-biology_-rakesh.jpg"
 
+---
 Ever since the discovery of quantum physics exploded into our world, and made every simple concept more interesting (and complex), scientists have tried to seek the quantum state everywhere. Even so far as to merge quantum physics with biology.
 
 But it might be easier for Pluto to regain its planetary status. Quantum experiments are done in extreme lab conditions (such as low temperatures), so as to avoid disturbances. This is quite impossible for biological systems, which are a blend of changes happening every five seconds.
