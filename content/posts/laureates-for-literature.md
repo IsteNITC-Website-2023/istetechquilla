@@ -3,6 +3,7 @@ title: Laureates for literature
 date: 2020-01-01
 author: Parvathy
 cover: "/images/laureates-for-literature-neema.jpeg"
+poster_design_by: Neema Biju
 
 ---
 This year, we have been presented with two Nobel laureates for literature - Peter Handke and Olga Tokarczuk. Tokarczuk was awarded the Nobel for the year 2018, ( this was because it was postponed in the year 2018 due to certain unforeseen complications at the Swedish Academy) and Peter Handke for the year 2019. 
