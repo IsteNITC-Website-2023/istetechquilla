@@ -1,10 +1,10 @@
 ---
-title: "Climate Change- A Hoax?"
-date: "2019-12-05"
-author: "Raidha"
-cover: "images/6-climatechange.jpg"
----
+title: Climate Change- A Hoax?
+date: 2019-12-05
+author: Raidha
+cover: "/images/climate-change-a-hoax_-likitha.jpg"
 
+---
 It has been rightly said that change brings ignorance. The recent environmental issues, such as the Amazon rainforest fires, the Dakota pipeline oil spill, and even the extinction of the Spix macaw, which you might recognize as the blue parrot from the movie ‘Rio’, are blaring alarms that our Earth needs saving. In spite of this, there are people who say that the climate crisis is all a hoax.
 
 What, you may wonder, fuels these individuals? Well, one group claims that global warming has no scientific basis (!!). Apparently, fancy words like “greenhouse gases”, “rise in global average temperatures”, “melting of icebergs”, “the end of the world”, are baseless fears. They assert that it is all a part of the natural cycle. According to them, the Earth has been around for 4.5 billion years, and has surely seen a diversity of drastic climates. Nature must be accustomed to dealing with the changes that come and go. But I can assure you, Earth has definitely not seen such scary increases in temperature. According to one study, the warming trend over the last 50 years (about 0.13° C or 0.23° F per decade) is nearly twice that for the last 100 years. Global mean sea level has risen 4 to 10 inches over the last century.
