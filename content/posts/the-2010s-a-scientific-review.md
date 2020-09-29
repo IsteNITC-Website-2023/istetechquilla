@@ -1,9 +1,10 @@
 ---
-title: "The 2010s: A Scientific Review"
-date: "2019-12-25"
-author: "Midhun"
----
+title: 'The 2010s: A Scientific Review'
+date: 2019-12-25
+author: Midhun
+cover: "/images/the-2010s_-a-scientific-review-geetha.png"
 
+---
 Ever since the dawn of the scientific enlightenment in the 15th century humanity’s understanding of the world around us has just grown exponentially. And this growth has not been faster than it has been in the last ten years. The inventions, discoveries and the developments have been coming at us at breakneck speeds. So as we race ahead into another decade this seems to be the apt moment to take a look back at some of the greatest scientific advancements of the 2010s.  
 In July of 2012 the world woke up to the “God Particle”. Although this nickname given to the Higgs Boson is highly unpopular among the discoverers of this subatomic particle, this dramatic name caught the average Joe’s attention. The confirmation of the Higgs Boson was a milestone in the field of particle physics. Prior to its discovery the Standard Model of particle physics had a problem. Predictions of the Standard Model showed that elementary particles called bosons had no mass but practical observations showed that they do. In the 1960’s independent scientists developed multiple theories on how bosons gained mass. But there was no experimental data to back their predictions. All that changed with the observation of the Higgs Boson at CERN’s Large Hadron Collider in 2012. 
 Another revolutionary development this decade was in the field of genetic engineering. CRISPR or Clustered Regularly Interspaced Short Palindromic Repeats is a family of DNA sequences naturally used by bacteria as defense sequences. This could be combined with a guide RNA sequence and an enzyme Cas9 and could be used as a tool for many genetic engineering applications. Researchers believe that CRISPR could be the key to treating cancers and HIV.  
