@@ -1,9 +1,10 @@
 ---
-title: "Living Robots"
-date: "2020-01-19"
-author: "Anna"
----
+title: Living Robots
+date: 2020-01-19
+author: Anna
+cover: "/images/living-robots-adarsh.jpg"
 
+---
 Hello fellow organism!
 
 At the onset of a new year, the scientists in Tufts University have been exhilarated by the outcome of a mind-blowing experiment. Using cells scraped off of an African clawed frog, Xenopus laevis, scientists have created a lifeform that does not exist on Earth so far. According to Michael Levin the Director at the Tufts these are “living, programmable organisms”. About a millimeter-wide, these ‘xenobots’(coined after their scientific name) , despite being crafted from the cells of a frog bear no resemblance to their amphibian lineage.
