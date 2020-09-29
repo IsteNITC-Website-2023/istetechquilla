@@ -19,7 +19,21 @@ fields:
   name: author
   label: author
   default: Hugo Authors
+- name: poster_design_by
+  type: text
+  config:
+    required: false
+  label: poster_design_by
 - type: file
   name: cover
   label: cover_image
   description: Cover image for the post
+- name: fadsgvvdf
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: fadsgvvdf
