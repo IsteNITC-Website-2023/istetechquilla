@@ -11,6 +11,11 @@ fields:
 - type: text
   name: author
   label: author
+- name: poster_designed_by
+  type: text
+  config:
+    required: false
+  label: poster_designed_by
 - type: text
   name: copyright
   label: copyright
