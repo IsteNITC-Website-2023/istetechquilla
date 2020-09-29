@@ -3,6 +3,7 @@ title: 'The 2010s: A Scientific Review'
 date: 2019-12-25
 author: Midhun
 cover: "/images/the-2010s_-a-scientific-review-geetha.png"
+poster_design_by: Geetha
 
 ---
 Ever since the dawn of the scientific enlightenment in the 15th century humanity’s understanding of the world around us has just grown exponentially. And this growth has not been faster than it has been in the last ten years. The inventions, discoveries and the developments have been coming at us at breakneck speeds. So as we race ahead into another decade this seems to be the apt moment to take a look back at some of the greatest scientific advancements of the 2010s.  
