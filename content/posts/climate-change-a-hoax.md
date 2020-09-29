@@ -3,6 +3,7 @@ title: Climate Change- A Hoax?
 date: 2019-12-05
 author: Raidha
 cover: "/images/climate-change-a-hoax_-likitha.jpg"
+poster_design_by: T. Likitha
 
 ---
 It has been rightly said that change brings ignorance. The recent environmental issues, such as the Amazon rainforest fires, the Dakota pipeline oil spill, and even the extinction of the Spix macaw, which you might recognize as the blue parrot from the movie ‘Rio’, are blaring alarms that our Earth needs saving. In spite of this, there are people who say that the climate crisis is all a hoax.
