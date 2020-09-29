@@ -13,9 +13,9 @@ fields:
   label: date
   default: now
   config:
-    date_format: DD MM YYYY
+    date_format: DD-MM-YYYY
     time_format: ''
-    export_format: 'DD MM YYYY '
+    export_format: 'DD-MM-YYYY '
 - type: text
   name: author
   label: author
