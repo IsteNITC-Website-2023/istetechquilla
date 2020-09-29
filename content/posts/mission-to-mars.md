@@ -1,9 +1,10 @@
 ---
-title: "Mission to Mars"
-date: "2020-01-27"
-author: "Gauri"
----
+title: Mission to Mars
+date: 2020-01-27
+author: Gauri
+cover: "/images/mission-to-mars-ujwal.png"
 
+---
 Elon Musk’s Mission to Mars  
 Most of us have probably seen news about trips to Mars and the idea of humans colonizing Mars. The name that surface regularly in this discussion is SpaceX and Elon Musk. Alongside that a lot of questions arise – What is SpaceX? And is it really possible to get humans on Mars?  
 SpaceX, a private spaceflight company which regularly launches cargo to space stations with its Falcon9 rocket will be soon launching astronauts up there and is in the process of creating an interplanetary spacecraft known as Starship, the company's Mars colonization system. Elon Musk, SpaceX’s billionaire founder and CEO has ambitious plans for this rocket space craft combo that will carry about 100 passengers and a lot of cargo to and from Mars.  
