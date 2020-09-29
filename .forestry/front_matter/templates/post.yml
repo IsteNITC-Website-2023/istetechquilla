@@ -27,6 +27,7 @@ fields:
     required: false
   label: poster_designed_by
   default: Hugo Authors
+  description: Poster by
 - type: file
   name: cover
   label: cover_image
