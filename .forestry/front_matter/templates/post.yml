@@ -13,10 +13,10 @@ fields:
   label: date
   default: now
   config:
-    date_format: DD MMM YYYY
+    date_format: DD-MM-YYYY
     time_format: ''
-    export_format: 'DD MMM YYYY '
-    display_utc: false
+    export_format: 'DD-MMM-YYYY '
+    display_utc: true
 - type: text
   name: author
   label: author
