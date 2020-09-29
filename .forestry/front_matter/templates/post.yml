@@ -16,7 +16,7 @@ fields:
     date_format: ''
     time_format: ''
     export_format: 'DD-MM-YYYY '
-    display_utc: false
+    display_utc: true
 - type: text
   name: author
   label: author
