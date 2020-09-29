@@ -21,11 +21,11 @@ fields:
   name: author
   label: author
   default: Hugo Authors
-- name: poster_designed_by
+- name: poster_by
   type: text
   config:
     required: false
-  label: poster_designed_by
+  label: poster_by
   default: ''
   description: Poster by
 - type: file
