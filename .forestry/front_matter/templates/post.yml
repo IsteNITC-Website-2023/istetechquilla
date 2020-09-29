@@ -11,11 +11,11 @@ fields:
 - type: datetime
   name: date
   label: date
-  default: 29/09/2020
+  default: now
   config:
     date_format: DD/MM/YYYY
     time_format: ''
-    export_format: DD/MM/YYYY
+    export_format: 'DD/MM/YYYY '
 - type: text
   name: author
   label: author
