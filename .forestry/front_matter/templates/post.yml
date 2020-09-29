@@ -17,6 +17,10 @@ fields:
     time_format: ''
     export_format: DD/MM/YYYY
     display_utc: true
+- type: text
+  name: author
+  label: author
+  default: Hugo Authors
 - name: poster_designed_by
   type: text
   config:
@@ -24,10 +28,6 @@ fields:
   label: poster_designed_by
   default: ''
   description: Poster by
-- type: text
-  name: author
-  label: author
-  default: Hugo Authors
 - type: file
   name: cover
   label: cover_image
