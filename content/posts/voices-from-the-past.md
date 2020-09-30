@@ -16,7 +16,7 @@ ITK-SNAP, which allows a three-dimensional structural representation of human ti
 
 The ‘in death’ vocal tract acoustic output of Nesyamun has been scientifically synthesised. This acoustic output is for the single sound for the extant vocal tract shape; it does not provide a basis for synthesising running speech. To do so would require knowledge of the relevant vocal tract articulations, phonetics and timing patterns of his language. The synthesised vowel sound based on the precise dimensions of his unique vocal tract is here compared to modern vowels as proof of method and to demonstrate future research potential.
 
-The sound of the 3,000 year old mummified individual has been accurately reproduced as a vowel-like sound based on measurements of the precise dimensions of his extant vocal tract following Computed Tomography (CT) scanning, enabling the creation of a 3-D printed vocal tract. By using the Vocal Tract Organ, which provides a user-controllable artificial larynx sound source, a vowel sound is synthesised which compares favourably with vowels of modern individuals.
+The sound of the 3,000 year old mummified individual has been accurately reproduced as a vowel-like sound based on measurements of the precise dimensions of his extant vocal tract following Computed Tomography (CT) scanning, enabling the creation of a 3-D printed vocal tract. By using the Vocal Tract Organ, which provides a user-controllable artificial larynx sound source, a vowel sound is synthesised which compares favorably with vowels of modern individuals.
 
 ![](/images/IMG-20200212-WA0008.jpg)
 
