@@ -20,4 +20,4 @@ The sound of the 3,000 year old mummified individual has been accurately reprodu
 
 ![](/images/IMG-20200212-WA0008.jpg)
 
-\-Lalitya 
+\- Lalitya Devi
