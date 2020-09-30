@@ -4,9 +4,9 @@ date: 2020-06-30
 tags:
 - sleuth's vision
 - collab
-description: "**The following is a conspiracy theory/original story submitted by the
-  second place winner, LOVE KUSH PRANU (of NIT Calicut) for our event SLEUTH’S VISION,
-  as part of ‘SPECTRUM- An ISTE Collaboration’.**"
+description: "*The following is a conspiracy theory/original story submitted by the
+  second-place winner, LOVE KUSH PRANU (of NIT Calicut) for our event SLEUTH’S VISION,
+  as part of ‘SPECTRUM- An ISTE Collaboration’.*"
 
 ---
 _The following is a string of texts between 3 people who respect social distancing. Please don’t take the percentages to be exact that’s approximate of what I recall to be true numbers._
