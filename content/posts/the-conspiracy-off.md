@@ -74,4 +74,4 @@ What if Conspiracy theorists are part of a conspiracy theory to spread disinform
 
 "_Dave left the group_"
 
-\-Love Kush Pranu, NIT Calicut
+\- Love Kush Pranu, NIT Calicut
