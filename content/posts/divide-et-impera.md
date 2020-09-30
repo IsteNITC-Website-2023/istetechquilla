@@ -4,9 +4,19 @@ date: 2020-06-30
 tags:
 - sleuth's vision
 - collab
-description: The following is a conspiracy theory/original story submitted by the
-  third place winner, SWATHY SURESH B. (of NIT Calicut) for our event SLEUTH’S VISION,
-  as part of ‘SPECTRUM- An ISTE Collaboration’.
+description: "\U0001D413\U0001D421\U0001D41E \U0001D41F\U0001D428\U0001D425\U0001D425\U0001D428\U0001D430\U0001D422\U0001D427\U0001D420
+  \U0001D422\U0001D42C \U0001D41A \U0001D41C\U0001D428\U0001D427\U0001D42C\U0001D429\U0001D422\U0001D42B\U0001D41A\U0001D41C\U0001D432
+  \U0001D42D\U0001D421\U0001D41E\U0001D428\U0001D42B\U0001D432/\U0001D428\U0001D42B\U0001D422\U0001D420\U0001D422\U0001D427\U0001D41A\U0001D425
+  \U0001D42C\U0001D42D\U0001D428\U0001D42B\U0001D432 \U0001D42C\U0001D42E\U0001D41B\U0001D426\U0001D422\U0001D42D\U0001D42D\U0001D41E\U0001D41D
+  \U0001D41B\U0001D432 \U0001D42D\U0001D421\U0001D41E \U0001D42D\U0001D421\U0001D422\U0001D42B\U0001D41D
+  \U0001D429\U0001D425\U0001D41A\U0001D41C\U0001D41E \U0001D430\U0001D422\U0001D427\U0001D427\U0001D41E\U0001D42B,
+  \U0001D412\U0001D416\U0001D400\U0001D413\U0001D407\U0001D418 \U0001D412\U0001D414\U0001D411\U0001D404\U0001D412\U0001D407
+  \U0001D401. (\U0001D428\U0001D41F \U0001D40D\U0001D408\U0001D413 \U0001D402\U0001D41A\U0001D425\U0001D422\U0001D41C\U0001D42E\U0001D42D)
+  \U0001D41F\U0001D428\U0001D42B \U0001D428\U0001D42E\U0001D42B \U0001D41E\U0001D42F\U0001D41E\U0001D427\U0001D42D
+  \U0001D412\U0001D40B\U0001D404\U0001D414\U0001D413\U0001D407’\U0001D412 \U0001D415\U0001D408\U0001D412\U0001D408\U0001D40E\U0001D40D,
+  \U0001D41A\U0001D42C \U0001D429\U0001D41A\U0001D42B\U0001D42D \U0001D428\U0001D41F
+  ‘\U0001D412\U0001D40F\U0001D404\U0001D402\U0001D413\U0001D411\U0001D414\U0001D40C-
+  \U0001D400\U0001D427 \U0001D408\U0001D412\U0001D413\U0001D404 \U0001D402\U0001D428\U0001D425\U0001D425\U0001D41A\U0001D41B\U0001D428\U0001D42B\U0001D41A\U0001D42D\U0001D422\U0001D428\U0001D427’."
 
 ---
 It was a cold and eerie night in the year of 1857. The clouds tried to swallow the moon but the moon fought back valiantly and kept shining more brightly. Even in the quietness of the night ,one could hear the mumble of unrest, frustration and anger. Nevertheless an unknown scent of 'freedom' filled the air. Lord Dalhousie looked out through the window at the moon. Beads of anxiety appeared on his forehead. Some thought seemed to trouble him. He was condemned by the East India Company for failing to notice the signs of the brewing 1857 revolt. He knew that men cannot be kept in shackles forever, sooner or later voices of liberty will solidly arise. If Indians continue fighting for their liberty with the same vigour ,then Britain could not stand in India for so long. Britain's much prized province, India, would slip out of their hands. He turned to the man sitting on the chair and said," Men, women, children without any difference are fighting day and night for their freedom. The Hindus and Muslims have reunited and are fighting side by side and under each other. If this continues, nothing could stop them from attaining their only dream of a 'free state'.
