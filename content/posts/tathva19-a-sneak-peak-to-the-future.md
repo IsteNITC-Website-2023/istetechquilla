@@ -1,10 +1,10 @@
 ---
-title: "Tathva'19: A sneak peak to the future"
-date: "2019-10-27"
-author: "Midhun"
-cover: "/images/tathva.jpeg" 
----
+title: 'Tathva''19: A sneak peak to the future'
+date: 2019-10-27
+author: Midhun
+cover: "/images/tathva.jpeg"
 
+---
 ![](/images/tathva.jpeg)
 
 Encapsulating the essence of the 4th industrial  revolution, Tathva'19, held from the 18th till the 20th of October, redefined all expectations. This Tathva was marked by some enlightening lectures, brilliant workshops, entertaining events, mesmerizing pro shows, and best of all,  monumental participation.  The three days saw a total turnout of over 35,000 eager and enthusiastic people, ranging from school students to college kids to adults lured by the various attractions.
@@ -19,5 +19,4 @@ As for the final day, it had in store lectures by Prof. Deepankar Chaudary and S
 
 Tathva’19 took an idea of a future that we will soon encounter- a future run by machines and driven on the internet. It showed us glimpses of this time, and presented ideas and critiques. Truly, it was a revolutionary Tathva.
 
-\-Midhun Manoj  
-Junior Executive
+\- Midhun Manoj
