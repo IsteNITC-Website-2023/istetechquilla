@@ -55,13 +55,13 @@ something exists they show pictures of the infected organ to show ppl a very goo
 
 **Adam**: “Ok…. well that was an interesting idea…. you need to sleep more, you know.”
 
-**Dave**: “Nah sleeping is for babies and old people. Ok, **Leo**, you're up next, doubt you can follow through after my theory I worked on weeks for, go”
+**Dave**: “Nah sleeping is for babies and old people. Ok, Leo, you're up next, doubt you can follow through after my theory I worked on weeks for, go”
 
 **Leo:** “Ok, so I just thought about this one during your speech. Hope it's not too bad, So here's my theory:  
 What if Conspiracy theorists are part of a conspiracy theory to spread disinformation via conspiracy theories.”
 
 **Adam**: “HE IS THE MESSIAH. I am not following after that you’re the winner… fuck that, I’m going to post this on twitter or Reddit or something. Holy cow you came up with that in 5 mins? Dave, I bet you are going to kill yourself now, lol”
 
-"Dave left the group"
+"_Dave left the group_"
 
 \-Love Kush Pranu, NIT Calicut
