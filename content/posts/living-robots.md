@@ -20,4 +20,4 @@ While the anatomy of these lifeforms are purely biological, the fact that we pro
 
 (To understand more about the algorithm behind this and watch these little bots in action visit https://www.wired.com/story/xenobot/)
 
-\-Anna , Junior Executive
+\-Anna Susan Cherian
