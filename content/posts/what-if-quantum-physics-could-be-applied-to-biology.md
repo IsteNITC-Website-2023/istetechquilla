@@ -18,6 +18,6 @@ For a long time, the most fascinating study was on the European robin. These bir
 
 Though these have been the biggest breakthroughs in the field of quantum biology as of 2019, scientists are optimistic that this emerging field holds substance. After all, who is to say that life is so simple?
 
-Reference- [https://thewire.in/the-sciences/what-is-quantum-biology](https://thewire.in/the-sciences/what-is-quantum-biology)
+Reference- [_https://thewire.in/the-sciences/what-is-quantum-biology_](https://thewire.in/the-sciences/what-is-quantum-biology)
 
-\-Raidha, Junior Executive
+\-Raidha
