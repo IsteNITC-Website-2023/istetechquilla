@@ -20,4 +20,4 @@ All this may seem to have popped up right out of a science fiction movie but itâ
 
 _(You can follow further developments of Neuralink through their website_ [_www.neuralink.com_](http://www.neuralink.com)_. Also if this project fascinates you and you feel as though you could contribute to its development, give it a shot and apply to be a part of the board)_
 
-\-Anna Susan Cherian, Junior Executive
+\- Anna Susan Cherian
