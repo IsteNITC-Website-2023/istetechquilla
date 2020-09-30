@@ -46,4 +46,4 @@ Gravitation and Cosmology: Principles and Applications of general theory of rela
 Edwin F. Taylor, and John Archibald Wheeler. Exploring Black Holes: Introduction to General Relativity  
 “GPS SYSTEMS LITERATURE: INACCURACY FACTORS AND EFFECTIVE SOLUTIONS” by Li Nyen Thin, Lau Ying Ting, Nor Adila Husna and Mohd Heikal Husin International Journal of Computer Networks & Communications (IJCNC) Vol.8, No.2, March 2016 DOI : 10.5121/ijcnc.2016.8211 123_
 
-\-Janvi
+\- Janvi 
