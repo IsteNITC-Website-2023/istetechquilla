@@ -16,4 +16,4 @@ Some economists now suggest that climate change could be fixed by spending just 
 
 The Earth might just have found its Achilles heel- climate change deniers, and those spreading this propaganda. Raising awareness, either as protests or through social media, are vital in not only increasing consciousness to this, but also in bringing humans closer together to take action to save Mother Earth.
 
-\-Raidha, Junior Executive
+\- Raidha Anwar
