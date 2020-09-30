@@ -4,8 +4,7 @@ date: 2020-01-08
 author: Lalitya Devi
 description: January, the biggest motivation to start over. To be more precise it's
   actually the 1st of the month that is the biggest motivation. Yes! We are talking
-  about the new year's resolution. This is one of the funniest things that people
-  do. Because most of the motivations end even before the 31st of January..
+  about the new year's resolution.
 poster_design_by: Dikshant Nemi
 fadsgvvdf: cvsdfhgbhfvbfvsd
 
