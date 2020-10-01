@@ -5,9 +5,8 @@ author: Raidha Anwar
 poster_design_by: G. Rakesh
 cover: "/images/what-if-quantum-physics-could-be-applied-to-biology_-rakesh.jpg"
 description: Ever since the discovery of quantum physics exploded into our world,
-  and made every simple concept more interesting (and complex), scientists have tried
-  to seek the quantum state everywhere. Even so far as to merge quantum physics with
-  biology.
+  scientists have tried to seek the quantum state everywhere- even so far as to merge
+  quantum physics with biology.
 cover_image: "/images/what-if-quantum-physics-could-be-applied-to-biology_-rakesh.jpg"
 poster_designed_by: G Rakesh
 
