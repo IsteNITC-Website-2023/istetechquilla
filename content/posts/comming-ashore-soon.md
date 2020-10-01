@@ -1,8 +1,11 @@
 ---
-title: Coming ashore soon..
-date: 2020-03-11
-author: Anna
+title: Coming Ashore Soon...
+date: 11 Mar 2020
+author: Anna Susan Cherian
 cover: "/images/coming-ashore-soon-rakesh.jpg"
+poster_designed_by: G Rakesh
+description: The coronavirus pandemic seems to be bigger than we originally thought.
+  How worried should we be?
 
 ---
 Within the span of a few days, it seems as though the world has been put on hold. All activities, programs and gatherings have come to a standstill. Across the globe, shops and public places have been deserted and many infected towns have taken on an eerie feel of a ghost town. COVID-19 has hit us with a force we could not have fathomed and the consequences are felt direly in different parts of the world. As lists of Dos and Don’ts are circulated fervently through social media and other platforms, let’s take a step back and look at the evolution and spread of the much feared ‘Corona Virus’.
@@ -15,4 +18,4 @@ How worried should we be? While getting infected is a possibility if precautiona
 
 At the turn of a new decade, yet again we are faced with a new virus that threatens to overpower us. While this too shall pass and become the story of another pandemic, let us not forget the lessons these viruses have left in their wake. Faced with a sudden attack by nature, we humans have been left at the mercy of these new inhabitants. It is during times like these that we realize we might not be as invincible as we hoped. However, nature does not present problems without solutions, therefore, it probably won’t be long before we are prepared to fight this novel virus.
 
-\- Anna Susan Cherian
+_- Anna Susan Cherian_
