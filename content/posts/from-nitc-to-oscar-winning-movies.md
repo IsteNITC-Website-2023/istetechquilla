@@ -4,7 +4,7 @@ cover = "/images/article-poster-min.png"
 date = 2020-09-30T18:30:00Z
 description = "For our first edition of Newton Speaks, our very own NITC alumnus takes us behind the scenes in the making of our favourite animated movies."
 designer = "Raidha Anwar"
-tags = ["#newtonspeaks"]
+tags = ["newtonspeaks"]
 title = "From NITC to Oscar winning movies"
 
 +++
