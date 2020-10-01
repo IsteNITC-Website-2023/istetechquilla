@@ -21,4 +21,4 @@ As for the final day, it had in store lectures by Prof. Deepankar Chaudary and S
 
 Tathva’19 took an idea of a future that we will soon encounter- a future run by machines and driven on the internet. It showed us glimpses of this time, and presented ideas and critiques. Truly, it was a revolutionary Tathva.
 
-_- Midhun Manoj_
+> _- Midhun Manoj_
