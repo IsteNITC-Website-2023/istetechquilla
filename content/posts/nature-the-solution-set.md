@@ -2,13 +2,9 @@
 title: Nature - The Solution Set
 date: 01 Dec 2019
 author: Anna Susan Cherian
-description: When our cutting edge technology fails to resolve the issues around us,
-  we require some mechanism to rise above these obstacles. At such times, inspiration
-  is drawn from the nature around us.
+description: Perhaps all the answers were always around us.
 
 ---
-> Perhaps all the answers were always around us.
-
 Our world is constantly evolving. This evolution brings with it a cluster of problems awaiting solutions. When our cutting edge technology fails to resolve these issues we require some mechanism to rise above these obstacles. At such times inspiration is drawn from the nature around us.
 
 Nature gives us the tools to produce refined and efficient answers to our impending problems. This is what has made biomimicry a forerunner in forging solutions to indeterminate issues. Biomimicry has been around for a long time, just never explicitly mentioned until recent times.
