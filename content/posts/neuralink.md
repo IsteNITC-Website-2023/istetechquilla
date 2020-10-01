@@ -7,7 +7,7 @@ poster_design_by: M. Jashwanth
 poster_designed_by: M Jashwanth
 cover_image: "/images/neuralink-jashwanth.jpg"
 description: Space, construction, finance, vehicles- it seems as though any industry
-  would be left incomplete without the touch of Elon Musk. Neuralink is his latest
+  would be left incomplete without the touch of Elon Musk. Neuralink is the latest
   addition to his vast repertoire.
 
 ---
