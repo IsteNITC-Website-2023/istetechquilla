@@ -2,8 +2,8 @@
 title: The Conspiracy-Off
 date: 30 Jun 2020
 tags:
-- sleuth's vision
-- collab
+- sleuths_vision
+- spectrum_collab
 description: The following is a conspiracy theory/original story submitted by the
   second-place winner, LOVE KUSH PRANU (of NIT Calicut) for our event SLEUTH’S VISION,
   as part of ‘SPECTRUM- An ISTE Collaboration’.
@@ -68,4 +68,4 @@ What if conspiracy theorists are part of a conspiracy theory to spread disinform
 
 _Dave left the group_
 
-_- Love Kush Pranu, NIT Calicut_
+> _- Love Kush Pranu, NIT Calicut_
