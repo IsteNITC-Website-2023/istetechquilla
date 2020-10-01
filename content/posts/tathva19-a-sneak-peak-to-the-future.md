@@ -9,7 +9,7 @@ description: Encapsulating the essence of the 4th industrial revolution, Tathva
 ---
 ![](/images/tathva.jpeg)
 
-Encapsulating the essence of the 4th industrial revolution, Tathva'19, held from the 18th till the 20th of October redefined all expectations. This Tathva was marked by some enlightening lectures, brilliant workshops, entertaining events, mesmerizing pro shows, and best of all,  monumental participation.  The three days saw a total turnout of over 35,000 eager and enthusiastic people, ranging from school students to college kids to adults lured by the various attractions.
+Encapsulating the essence of the 4th industrial revolution, Tathva'19, held from the 18th till the 20th of October, redefined all expectations. This Tathva was marked by some enlightening lectures, brilliant workshops, entertaining events, mesmerizing pro shows, and best of all,  monumental participation.  The three days saw a total turnout of over 35,000 eager and enthusiastic people, ranging from school students to college kids to adults lured by the various attractions.
 
 Tathva’19 kicked off with the inauguration ceremony on the eve of the 18th. In attendance was Dr. Bikash Sinha, former Director of the Saha Institute of Nuclear Physics and Variable Energy Cyclotron Centre, Kolkata, and also India’s first humanoid robot, Mitra.
 
