@@ -59,7 +59,7 @@ Ok let me start by asking you this, have you heard any particular specific name 
 
 **Adam:** Ok…. well that was an interesting idea…. you need to sleep more, you know.
 
-**Dave:** Nah sleeping is for babies and old people. Ok, Leo, you're up next, doubt you can follow through after my theory I worked on weeks for, go
+**Dave:** Nah sleeping is for babies and old people. Ok, Leo, you're up next, doubt you can follow through after my theory I worked on weeks for, go!
 
 **Leo:** Ok, so I just thought about this one during your speech. Hope it's not too bad, So here's my theory:  
 What if conspiracy theorists are part of a conspiracy theory to spread disinformation via conspiracy theories.
