@@ -24,4 +24,4 @@ While the anatomy of these lifeforms is purely biological, the fact that we prog
 
 _(To understand more about the algorithm behind this and watch these little bots in action visit_ [https://www.wired.com/story/xenobot/](https://www.wired.com/story/xenobot/ "https://www.wired.com/story/xenobot/")_)_
 
-_-Anna Susan Cherian_
+_- Anna Susan Cherian_
