@@ -23,3 +23,5 @@ fields:
 - type: file
   name: cover
   label: cover
+pages:
+- content/posts/from-nitc-to-oscar-winning-movies.md
