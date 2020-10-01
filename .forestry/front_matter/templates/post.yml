@@ -14,12 +14,12 @@ fields:
 - type: text
   name: author
   label: author
-- type: textarea
-  name: description
-  label: description
 - type: text
   name: designer
   label: designer
+- type: textarea
+  name: description
+  label: description
 - type: file
   name: cover
   label: cover
