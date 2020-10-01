@@ -3,7 +3,7 @@ title: Voices from the Past
 date: 12 Feb 2020
 author: Lalitya Devi
 description: The remains may be old and decaying, but modern technology lets us discover
-  that which was present thousands of years ago....
+  that which was present thousands of years ago.
 draft: true
 
 ---
