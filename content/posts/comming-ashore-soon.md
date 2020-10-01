@@ -18,4 +18,4 @@ How worried should we be? While getting infected is a possibility if precautiona
 
 At the turn of a new decade, yet again we are faced with a new virus that threatens to overpower us. While this too shall pass and become the story of another pandemic, let us not forget the lessons these viruses have left in their wake. Faced with a sudden attack by nature, we humans have been left at the mercy of these new inhabitants. It is during times like these that we realize we might not be as invincible as we hoped. However, nature does not present problems without solutions, therefore, it probably won’t be long before we are prepared to fight this novel virus.
 
-_- Anna Susan Cherian_
+> _- Anna Susan Cherian_
