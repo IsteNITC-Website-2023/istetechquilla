@@ -2,8 +2,8 @@
 title: Divide et Impera
 date: 30 Jun 2020
 tags:
-- sleuth's vision
-- collab
+- sleuths_vision
+- spectrum_collab
 description: The following is a conspiracy theory/original story submitted by the
   third-place winner, SWATHY SURESH B (of NIT Calicut) for our event SLEUTH’S VISION,
   as part of ‘SPECTRUM- An ISTE Collaboration’.
@@ -22,4 +22,4 @@ Britain began to work under a carefully devised plan made by Lord Canning. The B
 
 The descendants of Lord Canning followed his policy of divide and rule on numerous occasions. This weapon was notoriously used by Lord Curzon in the form of 'Partition of Bengal' which separated the largely eastern Muslim areas from largely western Hindu areas. The British supported Muslim league, gave them separate electorates to choose Muslim candidates for Muslim seats, empowered them and that resulted in the division of India and Pakistan. The British legacy of 'divide and rule' still holds sway in India and Pakistan today. It was the conspiracy started by Lord Curzon which makes us relate terrorists to Pakistanis. We often forget that the people living in Pakistan are human whose blood is red like ours, and who breathe to live. They have nothing to do with terrorism. Even today some politicians use the same strategy to create communal riots in our nation. We, educated Indians should not fall prey into this vicious trap and should treat everyone with empathy without any discriminations of race, religion and country.
 
-_- Swathy Suresh B, NIT Calicut_
+> _- Swathy Suresh B, NIT Calicut_
