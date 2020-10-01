@@ -19,4 +19,4 @@ Hidden within the arms of Mother Earth is an untapped reservoir of knowledge wai
 
 _(If biomimicry fascinates you, here are a few personal favourites to check up on- Armadillo backpacks, Lotus inspired paint and water collection method taught by Stenocara beetle)_
 
-_- Anna Susan Cherian_
+> _- Anna Susan Cherian_
