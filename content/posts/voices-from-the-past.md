@@ -21,4 +21,4 @@ ITK-SNAP, which allows a three-dimensional structural representation of human ti
 
 The ‘in death’ vocal tract acoustic output of Nesyamun has been scientifically synthesised. This acoustic output is for the single sound for the extant vocal tract shape; it does not provide a basis for synthesising running speech. To do so would require knowledge of the relevant vocal tract articulations, phonetics and timing patterns of his language. The synthesised vowel sound based on the precise dimensions of his unique vocal tract is here compared to modern vowels as proof of method and to demonstrate future research potential.
 
-_- Lalitya Devi_
+> _- Lalitya Devi_
