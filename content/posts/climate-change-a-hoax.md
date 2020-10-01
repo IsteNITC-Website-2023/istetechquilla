@@ -1,9 +1,13 @@
 ---
 title: Climate Change- A Hoax?
-date: 2019-12-05
-author: Raidha
+date: 05 Dec 2019
+author: Raidha Anwar
 cover: "/images/climate-change-a-hoax_-likitha.jpg"
 poster_design_by: T. Likitha
+cover_image: "/images/climate-change-a-hoax_-likitha.jpg"
+poster_designed_by: T Likitha
+description: The earth has been giving us warning signals, yet there are people who
+  continue to disbelieve in our global environmental crisis.
 
 ---
 It has been rightly said that change brings ignorance. The recent environmental issues, such as the Amazon rainforest fires, the Dakota pipeline oil spill, and even the extinction of the Spix macaw, which you might recognize as the blue parrot from the movie ‘Rio’, are blaring alarms that our Earth needs saving. In spite of this, there are people who say that the climate crisis is all a hoax.
@@ -16,4 +20,4 @@ Some economists now suggest that climate change could be fixed by spending just 
 
 The Earth might just have found its Achilles heel- climate change deniers, and those spreading this propaganda. Raising awareness, either as protests or through social media, are vital in not only increasing consciousness to this, but also in bringing humans closer together to take action to save Mother Earth.
 
-\- Raidha Anwar
+_- Raidha Anwar_
