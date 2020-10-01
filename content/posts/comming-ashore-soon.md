@@ -2,10 +2,11 @@
 title: Coming Ashore Soon...
 date: 11 Mar 2020
 author: Anna Susan Cherian
-cover: "/images/coming-ashore-soon-rakesh.jpg"
+cover: "/images/coming-ashore-soon-rakesh-min.jpg"
 designer: G Rakesh
 description: The coronavirus pandemic seems to be bigger than we originally thought.
   How worried should we be?
+draft: true
 
 ---
 Within the span of a few days, it seems as though the world has been put on hold. All activities, programs and gatherings have come to a standstill. Across the globe, shops and public places have been deserted and many infected towns have taken on an eerie feel of a ghost town. COVID-19 has hit us with a force we could not have fathomed and the consequences are felt direly in different parts of the world. As lists of Dos and Don’ts are circulated fervently through social media and other platforms, let’s take a step back and look at the evolution and spread of the much feared ‘Corona Virus’.
