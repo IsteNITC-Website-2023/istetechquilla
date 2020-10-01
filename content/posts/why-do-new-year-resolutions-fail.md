@@ -1,6 +1,6 @@
 ---
 title: Why do new year resolutions fail?
-date: 2020-01-08T00:00:00+05:30
+date: 08/Jan/2020
 author: Lalitya Devi
 description: January, the biggest motivation to start over. To be more precise it's
   actually the 1st of the month that is the biggest motivation. Yes! We are talking
