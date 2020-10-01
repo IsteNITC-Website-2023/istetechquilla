@@ -8,8 +8,8 @@ description: The following is a conspiracy theory/original story submitted by th
   third-place winner, SWATHY SURESH B (of NIT Calicut) for our event SLEUTH’S VISION,
   as part of ‘SPECTRUM- An ISTE Collaboration’.
 author: Swathy Suresh
-poster_designed_by: Dikshant Nemi
-cover_image: "/images/divide-et-impera.png"
+designer: Dikshant Nemi
+cover: "/images/divide-et-impera.png"
 
 ---
 > **The following is a conspiracy theory/original story submitted by the third-place winner, SWATHY SURESH B (of NIT Calicut) for our event SLEUTH’S VISION, as part of ‘SPECTRUM- An ISTE Collaboration’.**

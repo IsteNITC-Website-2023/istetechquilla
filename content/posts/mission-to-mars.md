@@ -3,9 +3,7 @@ title: Mission to Mars
 date: 27 Jan 2020
 author: Gauri Nair
 cover: "/images/mission-to-mars-ujwal.png"
-poster_design_by: Ujwal Karthikeya
-poster_designed_by: Ujwal Karthikeya
-cover_image: "/images/mission-to-mars-ujwal.png"
+designer: Ujwal Karthikeya
 description: The sci-fi fantasy of colonizing another planet is closer than we could
   have imagined.
 

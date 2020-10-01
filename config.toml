@@ -38,8 +38,8 @@ paginate = 10
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
     minuteReadingTime = "min read"
-    dateFormatSingle = "2006-01-02"
-    dateFormatList = "2006-01-02"
+    dateFormatSingle = "02 Jan 2006"
+    dateFormatList = "02 Jan 2006"
     # leave empty to disable, enter display text to enable
     # lastModDisplay = ""
 

@@ -8,8 +8,8 @@ description: The following is a conspiracy theory/original story submitted by th
   second-place winner, LOVE KUSH PRANU (of NIT Calicut) for our event SLEUTH’S VISION,
   as part of ‘SPECTRUM- An ISTE Collaboration’.
 author: Love Kush Pranu
-poster_designed_by: M Jashwanth
-cover_image: "/images/the-conspiracy-off-jashwanth-1.jpg"
+designer: M Jashwanth
+cover: "/images/the-conspiracy-off-jashwanth-1.jpg"
 
 ---
 > **The following is a conspiracy theory/original story submitted by the second-place winner, LOVE KUSH PRANU (of NIT Calicut) for our event SLEUTH’S VISION, as part of ‘SPECTRUM- An ISTE Collaboration’.**

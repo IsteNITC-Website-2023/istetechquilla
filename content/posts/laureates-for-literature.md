@@ -3,9 +3,7 @@ title: Laureates for Literature
 date: 15 Jan 2020
 author: Parvathi N
 cover: "/images/laureates-for-literature-neema.jpeg"
-poster_design_by: Neema Biju
-poster_designed_by: Neema Biju
-cover_image: "/images/laureates-for-literature-neema.jpeg"
+designer: Neema Biju
 description: The two Nobel Prizes for Literature in 2019 comment on more than just
   the author's works- it also reflects our world as a whole.
 

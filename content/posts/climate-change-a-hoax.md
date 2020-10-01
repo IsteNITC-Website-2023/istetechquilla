@@ -3,9 +3,7 @@ title: Climate Change- A Hoax?
 date: 05 Dec 2019
 author: Raidha Anwar
 cover: "/images/climate-change-a-hoax_-likitha.jpg"
-poster_design_by: T. Likitha
-cover_image: "/images/climate-change-a-hoax_-likitha.jpg"
-poster_designed_by: T Likitha
+designer: T Likitha
 description: The earth has been giving us warning signals, yet there are people who
   continue to disbelieve in our global environmental crisis.
 

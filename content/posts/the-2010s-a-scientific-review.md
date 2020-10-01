@@ -3,9 +3,7 @@ title: 'The 2010s: A Scientific Review'
 date: 25 Dec 2019
 author: Midhun Manoj
 cover: "/images/the-2010s_-a-scientific-review-geetha.png"
-poster_design_by: Geetha
-poster_designed_by: R Geetha
-cover_image: "/images/the-2010s_-a-scientific-review-geetha.png"
+designer: R Geetha
 description: As we race ahead into another decade, let us look back at some of the
   greatest scientific advancements of the past ten years.
 

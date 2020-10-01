@@ -3,9 +3,7 @@ title: Living Robots
 date: 19 Jan 2020
 author: Anna Susan Cherian
 cover: "/images/living-robots-adarsh.jpg"
-poster_design_by: Adarsh Tulsyan
-poster_designed_by: Adarsh Tulsyan
-cover_image: "/images/living-robots-adarsh.jpg"
+designer: Adarsh Tulsyan
 description: The world of science has had a new breakthrough- Xenobots, or living,
   programmable organisms, essentially creating a new lifeform.
 

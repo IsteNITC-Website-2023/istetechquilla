@@ -3,9 +3,7 @@ title: Neuralink
 date: 22 Dec 2019
 author: Anna Susan Cherian
 cover: "/images/neuralink-jashwanth.jpg"
-poster_design_by: M. Jashwanth
-poster_designed_by: M Jashwanth
-cover_image: "/images/neuralink-jashwanth.jpg"
+designer: M Jashwanth
 description: Space, construction, finance, vehicles- it seems as though any industry
   would be left incomplete without the touch of Elon Musk. Neuralink is the latest
   addition to his vast repertoire.

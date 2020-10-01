@@ -3,10 +3,8 @@ title: Why do new year resolutions fail?
 date: 08/Jan/2020
 author: Lalitya Devi
 description: January, the biggest motivation to start over.
-poster_design_by: Dikshant Nemi
-fadsgvvdf: cvsdfhgbhfvbfvsd
-cover_image: "/images/why-do-new-year-resolutions-fail-_.png"
-poster_designed_by: Dikshant Nemi
+cover: "/images/why-do-new-year-resolutions-fail-_.png"
+designer: Dikshant Nemi
 
 ---
 > Today is your January.
