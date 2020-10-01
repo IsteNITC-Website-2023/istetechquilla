@@ -4,7 +4,6 @@ date: 12 Feb 2020
 author: Lalitya Devi
 description: The remains may be old and decaying, but modern technology lets us discover
   that which was present thousands of years ago .
-draft: true
 
 ---
 The sound of a vocal tract from the past has been synthesized to be heard again in the present. The Egyptian Nesyamun lived during the politically volatile reign of pharaoh Ramses XI (c.1099–1069 BC) over 3000 years ago, working as a scribe and priest at the state temple of Karnak in Thebes (modern Luxor). The restoration of an exact vocal sound requires the perfect preservation of the soft tissues, which is impossible for individuals whose remains are only skeletal. Even where soft tissue does survive, for example in mummified remains, the vocal tract can either be missing or distorted. The process is only feasible when the relevant soft tissue is reasonably intact, as in the case of the 3,000-year-old mummified body of the Egyptian priest Nesyamun.
