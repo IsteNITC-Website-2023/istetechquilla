@@ -7,6 +7,7 @@ designer: M Jashwanth
 description: Space, construction, finance, vehicles- it seems as though any industry
   would be left incomplete without the touch of Elon Musk. Neuralink is the latest
   addition to his vast repertoire.
+draft: true
 
 ---
 > The reality of being part human, part robot
