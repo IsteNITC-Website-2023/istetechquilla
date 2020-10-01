@@ -1,7 +1,7 @@
 +++
 author = "Shaheen Rafiq & Shreya Manoj"
 cover = "/images/article-poster-min.png"
-date = 2020-09-30T18:30:00Z
+date = 2020-09-29T18:30:00Z
 description = "For our first edition of Newton Speaks, our very own NITC alumnus takes us behind the scenes in the making of our favourite animated movies."
 designer = "Raidha Anwar"
 tags = ["newtonspeaks"]
@@ -10,11 +10,13 @@ title = "From NITC to Oscar winning movies"
 +++
 What do Woody, Lightning McQueen, and Wall-E have in common? Apart from the fact that they belong to the Pixar family, all these characters were brought to life by Sajan Skaria, our own alumnus from the 1996 graduate batch.
 
-_On the first edition of Newton Speaks, Sajan Skaria brings us along on his journey to and through Pixar, and takes us on a magical tour in the making of our favourite animated movies._
+> _On the first edition of Newton Speaks, Sajan Skaria brings us along on his journey to and through Pixar, and takes us on a magical tour in the making of our favourite animated movies._
 
 Raised in Trivandrum, Sajan Skaria grew up like a typical 80s kid. He completed his Bachelors in Computer Science Engineering from 1992-96 at “REC” and went on to work for Siemens. While there, his boss’s encouragement propelled him to take the daunting leap of quitting his job and pursue his passion for illustration. He completed his MS in Visualization Sciences at Texas A&M University, United States, after which he got a job at Pixar Animation Studios via campus placement. Sajan hasn’t looked back since.
 
 While recounting his fondest memories of college, he remembers pulling the quintessential all-nighters, hanging out with seniors, the excitement of Ragam, and playing football in the rain. To our surprise, the all-time favourite bread omelette was popular even in the 1990s! As he reminisced about the mini canteen, Kattangal, and even the breezy Rajpath, we took a trip down the memory lane too. He went on to say that college is a critical part of one’s life, and it is then that one must craft his or her direction for the future.
+
+![](/images/classof96cse.jpg "The CSE batch of 1996")
 
 It all started when Sajan was in the 6th grade- he had fractured his leg and was bedridden for three months. His parents used to leave him sheets of paper, and he’d spend his time filling them with his creative ideas. His interest in coding bloomed when he was in 9th grade, and he had always been passionate about Physics and Math. However, it was hard for him to find career opportunities that blended the artistic and technical interests of a person.
 
@@ -32,8 +34,8 @@ Through these stories, Sajan showcases not just Pixar’s meticulous attention t
 
 But Sajan’s favourite movie, and also the one which led to his first major credit on an Academy Award-winning movie, was Inside Out. A blend of intelligence, emotional sensitivity, and creativity, the narrative plays out within the psyche of a girl named Riley and the trials her feelings Joy, Sadness, Fear, Disgust, and Anger go through. The story beautifully depicts how our childhood memories slowly fade away to make room for fresh new ones, and how sorrow is a valuable component of happiness. The team worked for four years on figuring out how the characters should look, bringing them to life, and making a meaningful masterpiece. To Sajan, the movie also held personal value, because it helped his daughter get over her fears and learn to swim.
 
-His second Oscar Award was as part of the team working on Toy Story 4. Recounting the origins of the series, he talks about the creation of Woody and the role he played in making the character, who has become as iconic as Mickey Mouse. He also demystified the myth about perfection- “Each movie was hard to make. Things always go wrong. The best way to succeed is to keep failing.” 
+His second Oscar Award was as part of the team working on Toy Story 4. Recounting the origins of the series, he talks about the creation of Woody and the role he played in making the character, who has become as iconic as Mickey Mouse. He also demystified the myth about perfection- “Each movie was hard to make. Things always go wrong. The best way to succeed is to keep failing.”
 
 It may seem hard to believe that someone who walked down the same Rajpath as us has gone on to have such an impact on our world. But Sajan Skaria found his passion, grasped it tight, and gave our world beautiful stories, showing us the tangibility of possibilities. He teaches us that passion is the energy which fuels our visions, and brings us focus and joy. He leaves us with the lesson that each of us holds immense power and potential within ourselves, just like each of his beloved characters.
 
-_- Shaheen Rafiq & Shreya Manoj_
+> _- Shaheen Rafiq & Shreya Manoj_
