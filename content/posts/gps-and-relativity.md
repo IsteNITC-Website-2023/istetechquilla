@@ -4,6 +4,7 @@ date: 05 Feb 2020
 author: Janvi
 description: Einstein's famous theory and Google Maps- more related than you might
   think.
+cover: "/images/IMG-20200205-WA0007.jpg"
 
 ---
 _Special Relativity:_
