@@ -15,7 +15,7 @@ poster_designed_by: Dikshant Nemi
 
 January, the biggest motivation to start over. To be more precise it's actually the 1st of the month that is the biggest motivation. Yes! We are talking about the new year's resolution. This is one of the funniest things that people do. Because most of the motivations end even before the 31st of January.
 
-New Year’s resolutions are kind of like a drunk uncle. You know you shouldn’t take him too seriously - but you can’t help but laugh and play along when he comes around once a year. So the question is, why do new year's resolution fail? What exactly goes wrong in the process? 
+New Year’s resolutions are kind of like a drunk uncle. You know you shouldn’t take him too seriously - but you can’t help but laugh and play along when he comes around once a year. So the question is, why do new year's resolution fail? What exactly goes wrong in the process?
 
 Uncertainty would be the top answer I say. Uncertainty about your goals creates room for indifference, confusion and distance between your goals and your aspirations. So clarify your goals prior to setting them. Ask yourselves some basic questions regarding your resolution. Like, "Why are they important to you? How would achieving these goals influence your life?"
 
