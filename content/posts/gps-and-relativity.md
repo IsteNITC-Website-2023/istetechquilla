@@ -17,10 +17,9 @@ According to this theory, the gravity of an object creates a curved manifold in 
 _How does satellite navigation system depend on understanding of general relativity?_  
 There are 24 satellites in circular orbits with an orbital period of 12 hours, distributed in 6 orbital planes. Each satellite is provided with an atomic clock. These satellites are distributed such that at least 4 satellites are visible from any point on earth at any given instant.
 
-  
 Relativistic effects which are taken into account are due to:
 
-![](/images/IMG-20200205-WA0007-1.jpg)
+![](/images/IMG-20200205-WA0007.jpg)
 
 1. Different observed clock rates at different altitudes (general relativity)
 2. Different observed rates of clocks in relative motion (special relativity)  
@@ -28,7 +27,7 @@ Relativistic effects which are taken into account are due to:
    If these effects were not properly taken into account, a navigational fix based on the GPS constellation would be false after only 2 minutes, and errors in global positions would continue to accumulate at a rate of about 10 kilometers each day!
 
 _How are GPS signals encoded to allow precise triangulation?_  
-Basically, 3 dimensions are needed to specify a location on earth, namely, east-west (longitude), North-south(latitude) and altitude. Therefore 3 overhead satellites are needed to specify a position on earth. Each satellite emits a signal encoding local time of emission and satellite’s position in global coordinates at the emission event. This position is continually revised using the data uploaded from control stations on the ground. 
+Basically, 3 dimensions are needed to specify a location on earth, namely, east-west (longitude), North-south(latitude) and altitude. Therefore 3 overhead satellites are needed to specify a position on earth. Each satellite emits a signal encoding local time of emission and satellite’s position in global coordinates at the emission event. This position is continually revised using the data uploaded from control stations on the ground.
 
 The local clock that is the handheld GPS receiver records the local time of reception of each signal, subtracts emission time ‘t’ (encoded with the incoming signal) to determine the lapse in t-coordinate and hence how far the signal has travelled at the speed of light in global that can be done precisely by triangulation (intersection of 3 spheres). Even a simple handheld GPS receiver can determine the position precisely up to and accuracy of 5-10 meters in only a few seconds.
 
