@@ -8,6 +8,7 @@ description: January, the biggest motivation to start over. To be more precise i
 poster_design_by: Dikshant Nemi
 fadsgvvdf: cvsdfhgbhfvbfvsd
 cover_image: "/images/why-do-new-year-resolutions-fail-_.png"
+poster_designed_by: Dikshant Nemi
 
 ---
 > Today is your January.
