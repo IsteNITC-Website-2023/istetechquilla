@@ -38,6 +38,8 @@ But Sajan’s favourite movie, and also the one which led to his first major cre
 
 His second Oscar Award was as part of the team working on Toy Story 4. Recounting the origins of the series, he talks about the creation of Woody and the role he played in making the character, who has become as iconic as Mickey Mouse. He also demystified the myth about perfection- “Each movie was hard to make. Things always go wrong. The best way to succeed is to keep failing.”
 
+![](/images/prof-radhakrishnan.jpg)
+
 It may seem hard to believe that someone who walked down the same Rajpath as us has gone on to have such an impact on our world. But Sajan Skaria found his passion, grasped it tight, and gave our world beautiful stories, showing us the tangibility of possibilities. He teaches us that passion is the energy which fuels our visions, and brings us focus and joy. He leaves us with the lesson that each of us holds immense power and potential within ourselves, just like each of his beloved characters.
 
 > _- Shaheen Rafiq & Shreya Manoj_
