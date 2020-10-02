@@ -1,7 +1,7 @@
 +++
 author = "Shaheen Rafiq & Shreya Manoj"
 cover = "/images/article-poster-min.png"
-date = 2020-09-29T19:30:00Z
+date = 2020-09-29T18:30:00Z
 description = "On the first edition of Newton Speaks, NITC alumnus Sajan Skaria brings us along on his journey to and through Pixar, and takes us on a magical tour in the making of our favourite animated movies."
 designer = "Raidha Anwar"
 tags = ["newtonspeaks"]
@@ -37,8 +37,6 @@ Through these stories, Sajan showcases not just Pixar’s meticulous attention t
 But Sajan’s favourite movie, and also the one which led to his first major credit on an Academy Award-winning movie, was Inside Out. A blend of intelligence, emotional sensitivity, and creativity, the narrative plays out within the psyche of a girl named Riley and the trials her feelings Joy, Sadness, Fear, Disgust, and Anger go through. The story beautifully depicts how our childhood memories slowly fade away to make room for fresh new ones, and how sorrow is a valuable component of happiness. The team worked for four years on figuring out how the characters should look, bringing them to life, and making a meaningful masterpiece. To Sajan, the movie also held personal value, because it helped his daughter get over her fears and learn to swim.
 
 His second Oscar Award was as part of the team working on Toy Story 4. Recounting the origins of the series, he talks about the creation of Woody and the role he played in making the character, who has become as iconic as Mickey Mouse. He also demystified the myth about perfection- “Each movie was hard to make. Things always go wrong. The best way to succeed is to keep failing.”
-
-![One of the drawings Sajan did during class while at REC (Prof. Radhakrishnan)](/images/prof-radhakrishnan.jpg "One of the drawings Sajan did during class while at REC (Prof. Radhakrishnan)")
 
 It may seem hard to believe that someone who walked down the same Rajpath as us has gone on to have such an impact on our world. But Sajan Skaria found his passion, grasped it tight, and gave our world beautiful stories, showing us the tangibility of possibilities. He teaches us that passion is the energy which fuels our visions, and brings us focus and joy. He leaves us with the lesson that each of us holds immense power and potential within ourselves, just like each of his beloved characters.
 
