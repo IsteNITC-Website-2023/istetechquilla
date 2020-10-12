@@ -1,6 +1,6 @@
 +++
 author = "Abhishek Jain"
-cover = ""
+cover = "/images/44293f0f-6118-4bb8-8594-01cf896b0d2e.jpeg"
 date = 2020-10-11T18:30:00Z
 description = "A summary of the 2020 Nobel Prizes"
 designer = "Adarsh Tulsyan"
