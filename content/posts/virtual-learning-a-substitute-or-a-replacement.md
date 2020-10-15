@@ -4,7 +4,6 @@ cover = "/images/6e8d7e01-f3af-4de5-aff9-a4b523cc4413.png"
 date = 2020-10-14T18:30:00Z
 description = "The sudden veer of events due to the global pandemic has caused schooling to go digital. Could this predicament possibly become the future?\n"
 designer = ""
-draft = true
 tags = []
 title = "Virtual Learning - A Substitute or a Replacement?"
 
