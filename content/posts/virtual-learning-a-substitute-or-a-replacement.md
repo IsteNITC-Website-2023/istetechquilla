@@ -22,4 +22,4 @@ E-learning via platforms like NPTEL saves time, energy and is an effective metho
 
 So who wins? The anticlimactic truth here is that there’s just no clear winner. Each training approach has its own pros and cons. Though we cannot say for sure whether virtual learning will operate post-pandemic, it is definitely one sector where investment has not dried up yet. The gravity of disseminating education uniformly, across all sections of the society, is definitely something the pandemic has made clear. The question of whether or not virtual learning can play a remarkable role here is contingent on each one of us.
 
-> _Vardhah Anees_
+> _-Vardhah Anees_
