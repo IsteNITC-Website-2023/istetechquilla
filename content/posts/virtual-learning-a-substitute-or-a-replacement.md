@@ -1,9 +1,9 @@
 +++
 author = "Vardhah Anees"
-cover = "/images/6e8d7e01-f3af-4de5-aff9-a4b523cc4413.png"
+cover = "/images/copy-of-world-students-day.png"
 date = 2020-10-15T04:30:00Z
-description = "The sudden veer of events due to the global pandemic has caused schooling to go digital. Could this predicament possibly become the future?\n"
-designer = ""
+description = "The sudden veer of events due to the global pandemic has caused schooling to go digital. Could this predicament possibly become the future?"
+designer = "Raidha Anwar"
 tags = []
 title = "Virtual Learning - A Substitute or a Replacement?"
 
@@ -22,4 +22,4 @@ E-learning via platforms like NPTEL saves time, energy and is an effective metho
 
 So who wins? The anticlimactic truth here is that there’s just no clear winner. Each training approach has its own pros and cons. Though we cannot say for sure whether virtual learning will operate post-pandemic, it is definitely one sector where investment has not dried up yet. The gravity of disseminating education uniformly, across all sections of the society, is definitely something the pandemic has made clear. The question of whether or not virtual learning can play a remarkable role here is contingent on each one of us.
 
-> _-Vardhah Anees_
+> _- Vardhah Anees_
