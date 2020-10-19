@@ -1,6 +1,6 @@
 +++
 author = "Upasana Sasikumar"
-cover = ""
+cover = "/images/1547be6a-c9c7-4c7b-8579-138068bd710b.jpeg"
 date = 2020-10-18T18:30:00Z
 description = "An artistic tool, a weapon, and a scientific wonder"
 designer = "T Likitha"
