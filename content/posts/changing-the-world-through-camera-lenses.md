@@ -14,7 +14,9 @@ An instant caught on camera, combining a mixture of clever skill, ceaseless pati
 
 Some photographers risk their lives daily, capturing moments of war-torn nations and cities, trying to give the world some evidence of the millions who walk on a tightrope between life and death. The photograph of Aylan Kurdi, a three-year-old Syrian refugee washed up ashore on the beaches of Turkey - a raw and harsh depiction of some people’s realities shook the masses and forced world leaders to bring some much-needed change. Similarly, ‘The Afghan Girl,’ which gave a glimpse into the lives of many who lead their lives in dangerous surroundings, was another photograph that resonated with the world for a very long time. The reach and power of a photograph are unmatched. The strangest thing is, we hardly ever give this enough recognition.
 
- ![](/images/img_0869.JPG)![](/images/img_0868.JPG)
+![](/images/img_0869.JPG)
+
+![](/images/img_0868.JPG)
 
 (Above, Left: _The Afghan Girl_ - 1984, photographic portrait by journalist Steve McCurry. Right: _Aylan Kurdi_ - September 2015, by Nilüfer Demir)
 
