@@ -18,7 +18,7 @@ Some photographers risk their lives daily, capturing moments of war-torn nations
 
 ![](/images/img_0868.JPG)
 
-(Above, Left: _The Afghan Girl_ - 1984, photographic portrait by journalist Steve McCurry. Right: _Aylan Kurdi_ - September 2015, by Nilüfer Demir)
+(Above, Top: _Aylan Kurdi_ - September 2015, by Nilüfer Demir Bottom: _The Afghan Girl_ - 1984, photographic portrait by journalist Steve McCurry. )
 
 Studies of animal behaviour in their undomesticated and raw environments have also come from the impending skill of the photographers, who camp out in forests and jungles for days. Their cameras capture the behavioural patterns, feeding and mating cycles, and all other attributes possessed by the animal kingdom, only to be analysed and studied later. Some of these moments are broadcast on channels like National Geographic, Discovery Channel etc. These have not only been for entertainment and educational purposes but have also become a means of spreading awareness and bringing about a mindset that stresses the need for conservation and environmental protection.
 
