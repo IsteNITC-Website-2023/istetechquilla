@@ -14,7 +14,7 @@ Until 1999, the concept of communicating machines was a futuristic vision. Kevin
 
 Until a decade ago, IoT would mean connected devices, networks, and data transfers. The bloom of social media caused a drastic paradigm shift. More than half of Earth’s population is now connected through the internet and has a social media profile. A similar revolution took place a few years back, but here’s the catch - this time, it was the inanimate that got a user profile. It is believed that in just a few years, the products available online will have a profile linked to it which will contain its entire history!
 
-![](https://lh5.googleusercontent.com/cN8Z7pvmeQj7VVKXaabhctpVcAF8l9AMRrSrm3WnjHvK1Y3BFqZJ6M5HbwlU21qGYYygYoCpAKcXLFocemW1-le5kdfgtBR0eSMc2K9ximidLFGRBO-1Zcq-azr6kOFnD95DRZgW =624x327)
+![](/images/top-20-emerging-iot-trends-that-will-shape-your-future-soon.jpeg)
 
 The Internet of Things, or IoT, is a niche technology, which at its fundamental level, shares the same concepts as social media - a gateway that connects all users over a secure connection to share relevant data to build an efficient automated ecosystem. IoT brings us closer to this goal than any other technology ever has, and has numerous applications spanning over a spectrum of fields.
 
@@ -24,28 +24,23 @@ _But what about IoT in a pandemic-stricken world?_
 
 Microsoft released the _IoT signals report_ which described its adoption and performance in the corporate sector. According to the report, IoT adoption surged from 85% to 91% in the past year amidst the pandemic and is expected to hit a whopping 95% in just two more years.
 
-During the current pandemic where businesses struggle to stay afloat, IoT adoption is still following an upward trajectory. IoT has promising potential in its ability to improve efficiency, quality and productivity. However, a few business analysts say that IoT applications have hit a snag. Due to the lack of opportunity to strategically implement the technology, the returns may not be as great as it was once thought. But with advancing technology the returns are expected to improve at a steady pace.
+During the current pandemic where businesses struggle to stay afloat, IoT adoption is still following an upward trajectory. IoT has promising potential in its ability to improve efficiency, quality and productivity. However, a few business analysts say that IoT applications have hit a snag. Due to the lack of opportunity to strategically implement the technology, the returns may not be as great as it was once thought. But with advancing technology the returns are expected to improve at a steady pace.![](/images/internet-of-things-line-two-color-icons-by-icon-valley.png)
 
-  
-![](https://lh6.googleusercontent.com/S5AY5MSrBWT3VFzrrQveBhEaTBk3l9q_XXMHUvqL-Mo2sjBbR52-9ZccvX9pXxjw0yZMbqcRQ8azqQuBuA5IaejF6KDKr5ElNJzePP7eTNo7uVUBb975yYW7x8VEsxyCEMYh7opX =588x406)
+Tech experts have predicted future applications of IoT that would leave us in a state of awe and amazement:        
 
-Tech experts have predicted future applications of IoT that would leave us in a state of awe and amazement:
-
-  
-  
-![](https://lh4.googleusercontent.com/J48z3biOLinyB5nMdw3sLsxDHQ5Mmc-dhvl_Z8kb7ELJp5kUuucNwFqGuCbPeMptCGFgPrEbYUA35ioSp3i4S2sNGI5CM-LG8tXfZFQELEFp7t7IXJ7B9qjP2xWrdSAMFbciTeYA =347x195)
+![](/images/pasted-image-0.png)
 
 _Smart Glass:_
 
-A head-mounted display designed in the shape of a pair of eyeglasses. You could stare into space and browse the internet! Sounds like magic doesn't it?
+A head-mounted display designed in the shape of a pair of eyeglasses. You could stare into space and browse the internet! Sounds like magic doesn't it?  
 
-![](https://lh3.googleusercontent.com/8nNdXqXlV_1MwlIh4HT_oqSq8jl1y2oQnk-ROtwXAvv6alx5jLjzZ5Hz8NwbKjRvIh5f5QWv0T43nwuFQRs3Q92hbEwjatC2VsF7MtuT5jLJDQWot1Mp45d5iRGO_0JOVKzKS59o =331x203)
+![](/images/pasted-image-0-1.png)
 
 _Smart Farming:_
 
 Farming has always been the backbone of the Indian economy. IoT can help farmers assess the quality of soil, humidity & pest infestation to modify the present farming techniques to maximize harvest.
 
-![](https://lh5.googleusercontent.com/CbSij23NhrUhpNxdgTCum8zEiOPs1Rdi-mub-YXZoksxc8zyBrUS9z8wR0lbhPbLTJYv_5Df50wkPkGAOYCHbOSvIxi0Ml1-UaQSnGWEdKsxiMclPOb7lUcIbZcz60xWO6TaNq9r =333x208)
+![](/images/pasted-image-0-2.png)
 
 _Smart Cities:_
 
