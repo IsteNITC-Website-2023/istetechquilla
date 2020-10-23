@@ -16,7 +16,7 @@ Until a decade ago, IoT would mean connected devices, networks, and data transfe
 
 ![](/images/top-20-emerging-iot-trends-that-will-shape-your-future-soon.jpeg)
 
-The Internet of Things, or IoT, is a niche technology, which at its fundamental level, shares the same concepts as social media - a gateway that connects all users over a secure connection to share relevant data to build an efficient automated ecosystem. IoT brings us closer to this goal than any other technology ever has, and has numerous applications spanning over a spectrum of fields.
+The Internet of Things, or IoT, is a niche technology, which at its fundamental level, shares similar concepts as social media - a gateway that connects all users over a secure connection to share relevant data to build an efficient automated ecosystem. IoT brings us closer to this goal than any other technology ever has, and has numerous applications spanning over a spectrum of fields.
 
 Concerning the industrial sector, the introduction of cloud platforms and IPv6 has provided an optimum environment for the connected devices to communicate and harvest real-time data through a secure cloud to increase production efficiency.
 
@@ -26,13 +26,13 @@ Microsoft released the _IoT signals report_ which described its adoption and per
 
 During the current pandemic where businesses struggle to stay afloat, IoT adoption is still following an upward trajectory. IoT has promising potential in its ability to improve efficiency, quality and productivity. However, a few business analysts say that IoT applications have hit a snag. Due to the lack of opportunity to strategically implement the technology, the returns may not be as great as it was once thought. But with advancing technology the returns are expected to improve at a steady pace.![](/images/internet-of-things-line-two-color-icons-by-icon-valley.png)
 
-Tech experts have predicted future applications of IoT that would leave us in a state of awe and amazement:        
+Tech experts have predicted future applications of IoT that would leave us in a state of awe and amazement:
 
 ![](/images/pasted-image-0.png)
 
 _Smart Glass:_
 
-A head-mounted display designed in the shape of a pair of eyeglasses. You could stare into space and browse the internet! Sounds like magic doesn't it?  
+A head-mounted display designed in the shape of a pair of eyeglasses. You could stare into space and browse the internet! Sounds like magic doesn't it?
 
 ![](/images/pasted-image-0-1.png)
 
