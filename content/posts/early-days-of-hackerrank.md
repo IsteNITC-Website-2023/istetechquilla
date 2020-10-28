@@ -27,7 +27,7 @@ Today, Hari’s role as CTO keeps him actively involved in the brainstorming and
 
 One factor that Hari focuses on is constantly evolving the company. He said that HackerRank constantly strives to improve itself and add new features. This is what had helped it change significantly from the survivor state it was in in the beginning. Software is eating the world, and every company needs to be a technology company. Uber, for example, is recognized as a technology company, rather than a taxi company, solving people's problems through technical solutions.
 
-Not only did Hari give us insights into the journey of an entrepreneur, but also gave us key advice he had picked up. Narrating a funny yet sad incident from 2012, while working with Bhavin Thurakia, a major name in the software world, he told us of how one of their co-workers was mistaken to be the founder because of his zeal and work ethic. “Take a place which adds value to you, not money. And stay at a place where you can make an impact”, said Hari.
+Not only did Hari give us insights into the journey of an entrepreneur, but also gave us key advice he had picked up. Narrating a funny yet sad incident from 2012, while working with Bhavin Thurakia, a major name in the software world, he told us of how one of their co-workers was mistaken to be the founder because of his zeal and work ethic. “Take a place which adds value to you, not money. And stay at a place where you can make an impact”, said Hari.![](/images/39.PNG)
 
 He also stressed on upskilling ourselves, and the limitless possibilities that Google and the internet have to offer today. This attitude was also portrayed in how he optimistically faced other hardships with the motto of “I am still learning from this”.
 
