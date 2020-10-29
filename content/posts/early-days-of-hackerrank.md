@@ -1,7 +1,7 @@
 +++
 author = "Sreelakshmi Ranjith & Raidha Anwar"
 cover = "/images/early-days-of-hackerrank-adarsh.jpg"
-date = 2020-10-27T18:30:00Z
+date = 2020-10-28T18:30:00Z
 description = "For the second edition of Newton Speaks, Mr Harishankaran K, co-founder and CTO of HackerRank, took us through a candid and engaging journey of how two NIT-Trichy alumni and their never-say-no spirit took over the software world."
 designer = "Adarsh Tulsyan"
 tags = ["newtonspeaks"]
