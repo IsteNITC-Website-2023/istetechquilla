@@ -6,12 +6,12 @@ description = "For the second edition of Newton Speaks, Mr Harishankaran K, co-f
 designer = "Adarsh Tulsyan"
 draft = true
 tags = []
-title = "EARLY DAYS OF HACKERRANK"
+title = "Early Days of HackerRank"
 
 +++
 From starting off as a dream by two college friends, HackerRank has now taken over the world with over 11 million coders and developers frequenting it. It is the one-stop platform for all software needs - from learning coding to practising software development. Now, HackerRank is a global platform for technical recruitment for major industries like Facebook, Amazon, and other MNCs as well. A company that started as a mere idea is now a major player in its field with offices in London and California.
 
-_For the second edition of Newton Speaks, Mr Harishankaran K, co-founder and CTO of HackerRank, took us through a candid and engaging journey of how two NIT-Trichy alumni and their never-say-no spirit took over the software world._
+> _For the second edition of Newton Speaks, Mr Harishankaran K, co-founder and CTO of HackerRank, took us through a candid and engaging journey of how two NIT-Trichy alumni and their never-say-no spirit took over the software world._
 
 It would be a surprise to many that Hari actually took Biology in high school. However, he understood early on that it was not his forte. He got into NIT Trichy for EEE, and then switched to CSE within the first semester. Having come from a non-coding background, he had to work hard to keep up with his classmates. But this did not deter him from participating actively in clubs and events. It was at one of these that he met the future co-founder of HackerRank, Vivek Ravisankar.
 
@@ -27,7 +27,7 @@ Today, Hari’s role as CTO keeps him actively involved in the brainstorming and
 
 One factor that Hari focuses on is constantly evolving the company. He said that HackerRank constantly strives to improve itself and add new features. This is what had helped it change significantly from the survivor state it was in in the beginning. Software is eating the world, and every company needs to be a technology company. Uber, for example, is recognized as a technology company, rather than a taxi company, solving people's problems through technical solutions.![](/images/13.PNG)
 
-Not only did Hari give us insights into the journey of an entrepreneur, but also gave us key advice he had picked up. Narrating a funny yet sad incident from 2012, while working with Bhavin Thurakia, a major name in the software world, he told us of how one of their co-workers was mistaken to be the founder because of his zeal and work ethic. “Take a place which adds value to you, not money. And stay at a place where you can make an impact”, said Hari.![](/images/39.PNG)
+Not only did Hari give us insights into the journey of an entrepreneur, but also gave us key advice he had picked up. Narrating a funny yet sad incident from 2012, while working with Bhavin Thurakia, a major name in the software world, he told us of how one of their co-workers was mistaken to be the founder because of his zeal and work ethic. “Take a place which adds value to you, not money. And stay at a place where you can make an impact”, said Hari![](/images/39.PNG)
 
 He also stressed on upskilling ourselves, and the limitless possibilities that Google and the internet have to offer today. This attitude was also portrayed in how he optimistically faced other hardships with the motto of “I am still learning from this”.
 
@@ -37,6 +37,6 @@ HackerRank may have been just another start-up dream by two ordinary college stu
 
 _You can read more from Hari at_ [https://sp2hari.com/](https://sp2hari.com/ "https://sp2hari.com/")
 
-_To watch the full talk, click on:_
+_To watch the full talk, click on_ [https://youtu.be/4hEqbWOJghY](https://youtu.be/4hEqbWOJghY "https://youtu.be/4hEqbWOJghY")
 
 > _Sreelakshmi Ranjith & Raidha Anwar_
