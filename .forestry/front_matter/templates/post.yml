@@ -24,6 +24,7 @@ fields:
   name: cover
   label: cover
 pages:
+- content/posts/bermuda-triangle-a-fabricated-mystery.md
 - content/posts/changing-the-world-through-camera-lenses.md
 - content/posts/early-days-of-hackerrank.md
 - content/posts/from-nitc-to-oscar-winning-movies.md
