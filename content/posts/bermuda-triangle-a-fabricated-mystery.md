@@ -4,7 +4,6 @@ cover = "/images/barmuda-triangle-fabricated-mystery-_-dikshant-nemi.jpg"
 date = 2020-10-31T18:30:00Z
 description = "A dive into the origins of the mystery. "
 designer = "Dikshant Nemi"
-draft = true
 tags = []
 title = "Bermuda Triangle: A Fabricated Mystery?"
 
