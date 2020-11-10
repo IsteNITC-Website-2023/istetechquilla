@@ -1,6 +1,6 @@
 +++
 author = "Upasana Sasikumar"
-cover = ""
+cover = "/images/rig-interview.jpg"
 date = 2020-11-09T19:30:00Z
 description = "Take a look into the behind-the-scenes of one of NITC’s main technical teams - the Robotics Interest Group (RIG)."
 designer = ""
@@ -15,9 +15,9 @@ _In this edition of Tech Matrix, we are delving into the behind-the-scenes of on
 
 It all started with Robocon in 2012. A group of students from our college were looking to participate in it. They finalised their designs and did whatever else was required to take part, and approached the college for funds. However, the institute was sceptical as they felt that these students would not be able to compete in a competition of such a large scale. That is when the idea of having a dedicated group for robotics came about.
 
-They approached Professor Sudheer from the Mechanical Engineering Department for his guidance, and he assigned them a few projects. In the initial phases, the students didn’t even have a workplace and would work on them from their hostels. Funding was also done from their own pockets. Around May of 2013, they showed their projects to the Director, who was impressed with their work and granted them permission to use the mechatronics lab 24/7 from that day onwards. Since then, we’ve been receiving funding from the institute to participate in Robocon and for all our other projects as well.
+They approached Professor Sudheer from the Mechanical Engineering Department for his guidance, and he assigned them a few projects. In the initial phases, the students didn’t even have a workplace and would work on them from their hostels. Funding was also done from their own pockets. Around May of 2013, they showed their projects to the Director, who was impressed with their work and granted them permission to use the mechatronics lab 24/7 from that day onwards. Since then, we’ve been receiving funding from the institute to participate in Robocon and for all our other projects as well.![](/images/rig1.png)
 
-Team RIG (_Source:_ [_http://www.rignitc.com_](http://www.rignitc.com "http://www.rignitc.com")_)_
+###### Team RIG (_Source:_ [_http://www.rignitc.com_](http://www.rignitc.com "http://www.rignitc.com")_)_
 
 **What do you think RIG represents? What makes it different from the other technical groups?**
 
@@ -29,15 +29,17 @@ There is no particular team structure, we all work together as a single group. T
 
 **So, how does a day at the lab look like?**
 
-We don’t set a particular date or time to work on a project. Whenever one of us is free, we go to the lab and work on them. Each project is assigned to some members and frequent discussions take place within the group. Each project has a few divided tasks and subsections. We keep sub-goals that we need to achieve within a short amount of time, and work to reach these goals. The team works on electronics, mechanical design, simulations, and also tests the strength of the structure. We try to incorporate different computer learning and machine learning techniques in our robots as well. Sudheer sir is always there to assist us. MTech and PhD students, as well as RIG alumni, also help us whenever we need any guidance.
+We don’t set a particular date or time to work on a project. Whenever one of us is free, we go to the lab and work on them. Each project is assigned to some members and frequent discussions take place within the group. Each project has a few divided tasks and subsections. We keep sub-goals that we need to achieve within a short amount of time and work to reach these goals. The team works on electronics, mechanical design, simulations, and also tests the strength of the structure. We try to incorporate different computer learning and machine learning techniques in our robots as well. Sudheer sir is always there to assist us. MTech and PhD students, as well as RIG alumni, also help us whenever we need any guidance.
 
 **Roughly, how long does it take for a project to be completed?**
 
 There is no specific time. We always try to improve our projects as much as possible. Some of them have taken two or three years, and some of them have taken a year; it depends on the scope of the project. For example, we had a project called Finger Reader, where constant improvements kept being added. So the time we take really depends on the project.
 
-**So no doubt that RIG is very active throughout the year. Could you tell us about the competitions you usually attend, and the prizes you have won in the past?**
+**So no doubt that RIG is very active throughout the year. Could you tell us about the competitions you usually attend and the prizes you have won in the past?**
 
 As I mentioned, this group was formed because of Robocon. We’ve participated in it in 2013, 2014, 2015, 2017, 2018 and 2020. Two years back, we attended AUV in Singapore - AUV Varuna was developed at a low cost of around 1-2 lakhs. Our wall climbing robot won FESTO’s productivity challenge in 2015, and we received the best paper by RSI Goa. We have also taken part in the Swasraya Bharat Innovation Competition. The Smart Stick developed by RIG won Aavishkar 2015 and many of our projects even have research papers.
+
+![](/images/rig2.jpg)
 
 _AUV Singapore 2018_
 
@@ -45,17 +47,19 @@ _AUV Singapore 2018_
 
 Robocon is an Asia-Pacific competition, where we’re assigned tasks that we need to complete in an efficient manner. Robocon is a very important competition for us and we learn a lot from it. Last year, we were one of the better performers in the first round, but unfortunately, we couldn’t carry it to the second round as the college closed. Whenever we visit Robocon, we come to know about better robots and better technology. It is a competition that really brings out the best in us. We haven’t won Robocon till now, but we’ll definitely work towards winning it in the years to come.
 
+![](/images/rig3.jpg)
+
 _Robocon 2013, Pune_
 
 **You’ve conducted many workshops and exhibitions in the past. What have you learnt from these experiences?**
 
 We have learnt a lot from the visitors who come to our exhibitions and workshops, inside as well as outside campus. There is a diverse group of people who attend them, including small children. We had kids of 5-6 years of age visit us during Tathva last year. They seemed to have better ideas than us, and we’ve tried to implement them as well. There were also many esteemed visitors during the Indo Korean summit this year. Professors from other institutes also visit our workplace, check our projects and guide us on how to make them better.
 
-_Exhibition at KMCT college_
+![](/images/rig4.jpg)                _Exhibition at KMCT college_
 
 **All the technical groups conduct highly successful pre-Tathva workshops for first years, which most of us have attended. How do you conduct them in a smooth manner every year?**
 
-The work for them starts during the summer vacation. All the members gather and decide on a project. We understand the project and the concepts needed for it, and utilise this time to learn whatever we are required to teach the first-year students. Each member takes up a topic of his/her interest and makes presentations to show to the first years. We conduct trials to ensure that everything runs smoothly and that our team is equipped to handle any question that comes from the other side. We try to simulate the same kind of environment - of asking and answering questions, so that the members are well prepared for the workshop. All the equipment required for the project is ordered. Other requirements like getting classrooms and microphones are arranged by all of us together. Arranging laptops with apt software downloaded is also a pretty big task that we take up during our first phase.
+The work for them starts during the summer vacation. All the members gather and decide on a project. We understand the project and the concepts needed for it, and utilise this time to learn whatever we are required to teach the first-year students. Each member takes up a topic of his/her interest and makes presentations to show to the first years. We conduct trials to ensure that everything runs smoothly and that our team is equipped to handle any question that comes from the other side. We try to simulate the same kind of environment - of asking and answering questions so that the members are well prepared for the workshop. All the equipment required for the project is ordered. Other requirements like getting classrooms and microphones are arranged by all of us together. Arranging laptops with apt software downloaded is also a pretty big task that we take up during our first phase.![](/images/rig5.jpg)
 
 _Pre-Tathva Workshop_
 
@@ -69,11 +73,13 @@ We search primarily for those who are interested in robotics, more than those wh
 
 **The pandemic must have sadly hindered your activities. How do you keep yourselves motivated during this time?**
 
-We miss being in the lab, but these situations have given us the opportunity to learn new things. We conduct regular talks and meetings. Talks are taken up by us or previous RIG members and MTech students and we learn about various special topics. We hold meetings every now and then, to make sure everyone stays motivated to work. Amongst the team also, each project has a leader who manages the work and distributes it according to each member’s academic schedules, and ensures that none of them are stressed out or overloaded with work, especially now, in this kind of situation.
+We miss being in the lab, but these situations have given us the opportunity to learn new things. We conduct regular talks and meetings. Talks are taken up by us or previous RIG members and MTech students and we learn about various special topics. We hold meetings every now and then, to make sure everyone stays motivated to work. Amongst the team also, each project has a leader who manages the work and distributes it according to each member’s academic schedules and ensures that none of them are stressed out or overloaded with work, especially now, in this kind of situation.
 
 **Apart from technological advancement, RIG also creates projects which aid people. Tell us about those projects.**
 
 We have made an electric wheelchair, which usually cost around 1-2 lakhs. Our aim was to bring down the price as much as possible so that it can be made available for people from low-income families. We also designed a Finger Reader, as mentioned previously, which can be used by blind people to read the text by pointing your finger at it. We are also developing a lower limb exoskeleton which will help children suffering from cerebral palsy to walk.
+
+![](/images/rig6.jpg)
 
 **In your opinion, what do you think will be the next big thing in robotics?**
 
