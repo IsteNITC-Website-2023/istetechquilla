@@ -1,6 +1,6 @@
 +++
 author = "Upasana Sasikumar"
-cover = "/images/rig-interview.jpg"
+cover = ""
 date = 2020-11-09T19:30:00Z
 description = "Take a look into the behind-the-scenes of one of NITC’s main technical teams - the Robotics Interest Group (RIG)."
 designer = ""
@@ -39,15 +39,11 @@ There is no specific time. We always try to improve our projects as much as poss
 
 As I mentioned, this group was formed because of Robocon. We’ve participated in it in 2013, 2014, 2015, 2017, 2018 and 2020. Two years back, we attended AUV in Singapore - AUV Varuna was developed at a low cost of around 1-2 lakhs. Our wall climbing robot won FESTO’s productivity challenge in 2015, and we received the best paper by RSI Goa. We have also taken part in the Swasraya Bharat Innovation Competition. The Smart Stick developed by RIG won Aavishkar 2015 and many of our projects even have research papers.
 
-![](https://lh5.googleusercontent.com/ibCZUA8H7Har7dWR-jOpzUlYiVj77qu1IOpAZt02R9SMcEcfwaO3w4Yp4bG7pn4m9eXQ8jYFp42IOzZV6M391wNIe1y9DgYYCFnLrPsxjm21Dw5lgsdTope_hC06gV9VvLm48ppZ =565x318)
-
 _AUV Singapore 2018_
 
 **Seems like Robocon was more than just a starting point for RIG! Can you tell us more about it?**
 
 Robocon is an Asia-Pacific competition, where we’re assigned tasks that we need to complete in an efficient manner. Robocon is a very important competition for us and we learn a lot from it. Last year, we were one of the better performers in the first round, but unfortunately, we couldn’t carry it to the second round as the college closed. Whenever we visit Robocon, we come to know about better robots and better technology. It is a competition that really brings out the best in us. We haven’t won Robocon till now, but we’ll definitely work towards winning it in the years to come.
-
-![](https://lh4.googleusercontent.com/TOacx7LPP5eCuYfy8fEAOCl7PlJ35-o_7z02bhDXvj20Hc5RaJdB9vrzvFIn_HMTVZsNHXVUPZxH1V2fqGV8ZRnItqbObPwARhW_BoM2rYIgWZFg8n0v3ud_EEqAmIFJpuvohqn- =377x283)
 
 _Robocon 2013, Pune_
 
@@ -55,15 +51,11 @@ _Robocon 2013, Pune_
 
 We have learnt a lot from the visitors who come to our exhibitions and workshops, inside as well as outside campus. There is a diverse group of people who attend them, including small children. We had kids of 5-6 years of age visit us during Tathva last year. They seemed to have better ideas than us, and we’ve tried to implement them as well. There were also many esteemed visitors during the Indo Korean summit this year. Professors from other institutes also visit our workplace, check our projects and guide us on how to make them better.
 
-![](https://lh5.googleusercontent.com/uVptb3uRpYn-Ybi8UYp36XtebBP2SMvTy5hcXH6tY_Frbq6Hp3uCGX90SJX0Sm6pfbDfkSqBupFqmnN_i9Ne5D5NaIsXhEU1SbRWKOrlnGtNmw4XngsMsnyyCmB51YaMNJ5uhu2I =411x310)
-
 _Exhibition at KMCT college_
 
 **All the technical groups conduct highly successful pre-Tathva workshops for first years, which most of us have attended. How do you conduct them in a smooth manner every year?**
 
 The work for them starts during the summer vacation. All the members gather and decide on a project. We understand the project and the concepts needed for it, and utilise this time to learn whatever we are required to teach the first-year students. Each member takes up a topic of his/her interest and makes presentations to show to the first years. We conduct trials to ensure that everything runs smoothly and that our team is equipped to handle any question that comes from the other side. We try to simulate the same kind of environment - of asking and answering questions, so that the members are well prepared for the workshop. All the equipment required for the project is ordered. Other requirements like getting classrooms and microphones are arranged by all of us together. Arranging laptops with apt software downloaded is also a pretty big task that we take up during our first phase.
-
-![](https://lh5.googleusercontent.com/ZMpTiJbpV98Z4sdIgTAbcpC4-ygGVX-xYWFUQVpLQRVxgoO819QN3afkoIMnmpFCxE4laFaD_AsmRa6CvS3lw8gCT3kvH8-mWVCQT9xHcYVo_nu-Lcmkkdi9AKo6NFUM209nxaf5 =603x377)
 
 _Pre-Tathva Workshop_
 
@@ -82,8 +74,6 @@ We miss being in the lab, but these situations have given us the opportunity to 
 **Apart from technological advancement, RIG also creates projects which aid people. Tell us about those projects.**
 
 We have made an electric wheelchair, which usually cost around 1-2 lakhs. Our aim was to bring down the price as much as possible so that it can be made available for people from low-income families. We also designed a Finger Reader, as mentioned previously, which can be used by blind people to read the text by pointing your finger at it. We are also developing a lower limb exoskeleton which will help children suffering from cerebral palsy to walk.
-
-![](https://lh5.googleusercontent.com/njztxRSo9HV9biFlgPhgUdO0KhD8H645hpXc7Iu_0xqToaozR3ISe2FQ03pWzUcUCMSNWwvERrPPEVqbJmnjfa7QE_2-YAJH3tTo2RCSY6nuMywYwGTiWt_e2R9SSF_3AIpJZZOm =480x198)
 
 **In your opinion, what do you think will be the next big thing in robotics?**
 
