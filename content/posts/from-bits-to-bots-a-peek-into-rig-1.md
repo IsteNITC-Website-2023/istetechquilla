@@ -1,7 +1,7 @@
 +++
 author = "Upasana Sasikumar"
 cover = "/images/rig-interview.jpg"
-date = ""
+date = 2020-11-09T18:30:00Z
 description = "Take a look into the behind-the-scenes of one of NITC’s main technical teams - the Robotics Interest Group (RIG)."
 designer = ""
 tags = []
