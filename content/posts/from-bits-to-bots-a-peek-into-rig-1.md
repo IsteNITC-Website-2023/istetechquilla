@@ -86,6 +86,6 @@ Our growth curve is definitely very satisfying. We have shown a lot of improveme
 
 _RIG has always stood for passion, hard work and the constant drive for excellence. A group of dedicated individuals have brought our college glory with their talent and relentless efforts. We hope this gave you a little peek into RIG. Make sure you check out our exclusive interview with Team AeroUnwired up next!_
 
-_To learn more about their projects, check out_ [http://www.rignitc.com/](http://www.rignitc.com/ "http://www.rignitc.com/")
+_To learn more about their projects, check out_ [http://www.rignitc.com/](http://www.rignitc.com/ "http://www.rignitc.com/").
 
 > _Interview by Upasana Sasikumar_
