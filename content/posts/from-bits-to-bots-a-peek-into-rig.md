@@ -11,16 +11,13 @@ title = "From Bits to Bots: A peek into RIG"
 +++
 _In this edition of Tech Matrix, we are delving into the behind-the-scenes of one of NITC’s main technical teams - the Robotics Interest Group (RIG). Dheeraj Reddy, Team Leader at RIG for the year 2020-21 and currently a third-year in CSE, talks to us about their history, the inner workings of the group, projects they’ve done, and everything else you’ve always wanted to know about them._
 
-  
 **So firstly, how did RIG begin?**
 
 It all started with Robocon in 2012. A group of students from our college were looking to participate in it. They finalised their designs and did whatever else was required to take part, and approached the college for funds. However, the institute was sceptical as they felt that these students would not be able to compete in a competition of such a large scale. That is when the idea of having a dedicated group for robotics came about.
 
 They approached Professor Sudheer from the Mechanical Engineering Department for his guidance, and he assigned them a few projects. In the initial phases, the students didn’t even have a workplace and would work on them from their hostels. Funding was also done from their own pockets. Around May of 2013, they showed their projects to the Director, who was impressed with their work and granted them permission to use the mechatronics lab 24/7 from that day onwards. Since then, we’ve been receiving funding from the institute to participate in Robocon and for all our other projects as well.
 
-![](https://lh3.googleusercontent.com/nJo5wtw9lrLWzabDaFzxQYabH2bSe2_N-csw3Ouozp0PWiB2x9FUgMIwm5emTstjJpPIfsySHw02JpS0MT_kp90sUQf1U6mzjOoHuZaHAzVpJkXK3WSPuVzsgXAxts6pI6dkbB32 =369x277)
-
-###### Team RIG (_Source:_ [_http://www.rignitc.com_](http://www.rignitc.com "http://www.rignitc.com")_)_
+Team RIG (_Source:_ [_http://www.rignitc.com_](http://www.rignitc.com "http://www.rignitc.com")_)_
 
 **What do you think RIG represents? What makes it different from the other technical groups?**
 
