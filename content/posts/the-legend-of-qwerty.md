@@ -1,7 +1,7 @@
 +++
 author = "Shreya Manoj and Sreelakshmi Ranjith"
 cover = "/images/the-legend-of-qwerty-geetha.png"
-date = 2020-11-15T11:30:00Z
+date = 2020-11-14T18:30:00Z
 description = "The QWERTY keyboard travelled from early typewriters' era to modern-day phones and laptops. The probability of the first-ever keyboard layout remaining universally accepted, even after 150 years, seems slim; then how did QWERTY prevail?"
 designer = "Geetha"
 tags = []
