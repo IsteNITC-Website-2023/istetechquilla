@@ -4,7 +4,6 @@ cover = "/images/the-imposter-among-us-love-kush-pranu.png"
 date = 2020-11-21T18:30:00Z
 description = "A closer look at the imposter phenomenon"
 designer = "Love Kush Pranu"
-draft = true
 tags = []
 title = "The Imposter Among Us"
 
@@ -27,4 +26,4 @@ There are multiple solutions to this imposter phenomenon recommended by psycholo
 
 It’s true that these feelings might not completely go away but they can be made to feel less burdening. It is crucial for all of us to understand that our hard work and determination shape our future and once we are where we want to be it's important to look back and be confident of the choices we have made, the work we have done and of course be grateful for the people that helped us along the way.
 
-> Midhun Manoj
+> _Midhun Manoj_
