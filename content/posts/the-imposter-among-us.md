@@ -1,6 +1,6 @@
 +++
 author = "Midhun Manoj"
-cover = ""
+cover = "/images/the-imposter-among-us-love-kush-pranu.png"
 date = 2020-11-21T18:30:00Z
 description = "A closer look at the imposter phenomenon"
 designer = "Love Kush Pranu"
@@ -12,6 +12,8 @@ title = "The Imposter Among Us"
 Nowadays, when we hear the word “imposter” we tend to associate it with one particular thing - a small, space suit-wearing, multi-coloured (but usually red, always sus red!) monster that walks around pretending to do tasks but will kill you the first chance it gets. If we rewind the clock a bit further, it would have meant someone that didn’t belong. Someone or something out of place - a ‘fish out of water’ kind of situation. But how often do we look into ourselves and realise that maybe, we ourselves do not belong where we are? That the work we’ve done and the progress we’ve made is incomparable to what others of our own stature and recognition have achieved. That is, we become an imposter to our own world.
 
 Psychologists characterise this condition as imposter syndrome or imposter phenomenon. It is identified by a pattern of behaviour where people tend to doubt their accomplishments and carry an internalised fear of being exposed as a fraud. It was first studied by psychologists Pauline Clance and Suzanne Imes in 1978. Clance observed that a number of her graduate students who were scoring very well felt like they didn’t belong, that their induction into the university was an administrative error. Clance reports that while she was in graduate school, she had had the same feelings. Clance and Imes studied this phenomenon with their female students. But since then, the same condition has been proven across gender, age or level of accomplishment. It is interesting to note that even Albert Einstein thought himself to be undeserving of his many accolades.
+
+![](/images/clance_picture_22.jpg)![](/images/imes_suzanne.jpg)
 
 But to characterise this peculiar phenomenon as a disease or syndrome is misleading. It’s not a disorder nor is it tied to conditions such as depression or anxiety. It’s also misleading to assume that it's prevalent only among the overachievers or the brilliant minds of the world. In reality, these are as common to the average Joe as it is to Einstein.
 
