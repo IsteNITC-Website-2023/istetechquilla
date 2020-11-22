@@ -13,7 +13,11 @@ Nowadays, when we hear the word “imposter” we tend to associate it with one 
 
 Psychologists characterise this condition as imposter syndrome or imposter phenomenon. It is identified by a pattern of behaviour where people tend to doubt their accomplishments and carry an internalised fear of being exposed as a fraud. It was first studied by psychologists Pauline Clance and Suzanne Imes in 1978. Clance observed that a number of her graduate students who were scoring very well felt like they didn’t belong, that their induction into the university was an administrative error. Clance reports that while she was in graduate school, she had had the same feelings. Clance and Imes studied this phenomenon with their female students. But since then, the same condition has been proven across gender, age or level of accomplishment. It is interesting to note that even Albert Einstein thought himself to be undeserving of his many accolades.
 
-![](/images/clance_picture_22.jpg)![](/images/imes_suzanne.jpg)
+![](/images/clance_picture_22.jpg)
+
+![](/images/imes3.jpg)
+
+_(Above, Dr. Pauline Clance and Dr. Suzanne Imes)_
 
 But to characterise this peculiar phenomenon as a disease or syndrome is misleading. It’s not a disorder nor is it tied to conditions such as depression or anxiety. It’s also misleading to assume that it's prevalent only among the overachievers or the brilliant minds of the world. In reality, these are as common to the average Joe as it is to Einstein.
 
@@ -22,3 +26,5 @@ These feelings emerge when hardworking people start to think that others are des
 There are multiple solutions to this imposter phenomenon recommended by psychologists. It’s important for a person having these feelings of self-doubt to understand that it is a very common thing to experience. But as it is difficult for us to know what is going on inside others’ head, this fact remains oblivious to most. So talking about these feelings and fears to peers or mentors can go a long way. Often people experiencing these fears can be comforted by knowing that their mentors also had similar doubts about themselves. This combined with positive feedback is often crucial in limiting the impact it has on one’s work.
 
 It’s true that these feelings might not completely go away but they can be made to feel less burdening. It is crucial for all of us to understand that our hard work and determination shape our future and once we are where we want to be it's important to look back and be confident of the choices we have made, the work we have done and of course be grateful for the people that helped us along the way.
+
+> Midhun Manoj
