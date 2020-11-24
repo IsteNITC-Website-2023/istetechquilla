@@ -4,7 +4,6 @@ cover = "/images/chasing-the-winds-neema.jpg"
 date = ""
 description = "Find out more about NITC’s aerial adventurers - Club Aero Unwired."
 designer = ""
-draft = true
 tags = []
 title = "Chasing the Wind: An Aero Unwired Story"
 
@@ -91,7 +90,7 @@ We are working on five major projects, namely Autonomous Planes, Autogyro, Drone
 
 We are not a stagnant club. Our growth is immensely fulfilling and constructive. Broadening Aviate and focusing on the long term prospect of it by including interesting lectures and exhibitions is something that we are currently working on. We would like to establish ourselves as a platform where people interested in aeronautics can present their ideas. Apart from that, we want to participate in as many competitions as possible so as to gain wonderful experiences and deeper insights. We are also planning to create different groups in the club on the basis of various aeronautical topics and aim to have a fully-fledged Rocket Modeling division in 5 years. Besides that, we also wish to collaborate with different companies and work on various projects that will overall be useful to society and be an unforgettable experience for future inductees.
 
-_A club is driven by the passion to learn, Aero Unwired’s exponential growth shows how determination and perseverance can take you far even when times are hard._
+_A club driven by the passion to learn, Aero Unwired’s exponential growth shows how determination and perseverance can take you far even when times are hard._
 
 _To stay updated on the club’s activities, follow them on_ [_https://instagram.com/club_aerounwired_nitcalicut?igshid=xc08la7y7p3x_](https://instagram.com/club_aerounwired_nitcalicut?igshid=xc08la7y7p3x "https://instagram.com/club_aerounwired_nitcalicut?igshid=xc08la7y7p3x")
 
