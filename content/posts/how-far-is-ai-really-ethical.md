@@ -1,7 +1,7 @@
 +++
 author = "Shaheen Rafiq"
 cover = "/images/how-far-is-ai-really-ethical_-rakesh.jpg"
-date = 2020-11-07T18:30:00Z
+date = 2020-11-08T06:30:00Z
 description = "An insight into the ugly side of the latest fad in the tech industry."
 designer = "G Rakesh"
 tags = []
