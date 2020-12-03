@@ -1,7 +1,7 @@
 +++
 author = "Swathy Suresh"
 cover = "/images/barmuda-triangle-fabricated-mystery-_-dikshant-nemi.jpg"
-date = 2020-10-31T18:30:00Z
+date = 2020-11-01T06:30:00Z
 description = "A dive into the origins of the mystery. "
 designer = "Dikshant Nemi"
 tags = []
