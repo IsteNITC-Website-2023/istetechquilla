@@ -1,7 +1,7 @@
 +++
 author = "Midhun Manoj"
 cover = "/images/the-imposter-among-us-love-kush-pranu.png"
-date = 2020-11-21T18:30:00Z
+date = 2020-11-22T06:30:00Z
 description = "A closer look at the imposter phenomenon"
 designer = "Love Kush Pranu"
 tags = []
