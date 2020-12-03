@@ -1,7 +1,7 @@
 +++
 author = "Rahul Ekkanath"
 cover = "/images/things-go-social.jpg"
-date = 2020-10-22T18:30:00Z
+date = 2020-10-22T06:30:00Z
 description = "A fresh new perspective into the world of IoT\n"
 designer = "M. Jashwanth"
 tags = []
