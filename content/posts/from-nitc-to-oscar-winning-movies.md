@@ -1,7 +1,7 @@
 +++
 author = "Shaheen Rafiq & Shreya Manoj"
 cover = "/images/copy-of-article-poster.png"
-date = 2020-10-01T18:30:00Z
+date = 2020-10-03T06:30:00Z
 description = "On the first edition of Newton Speaks, NITC alumnus Sajan Skaria brings us along on his journey to and through Pixar, and takes us on a magical tour in the making of our favourite animated movies."
 designer = "Raidha Anwar"
 tags = ["newtonspeaks"]
