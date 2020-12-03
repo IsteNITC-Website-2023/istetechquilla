@@ -1,7 +1,7 @@
 +++
 author = "Vardhah Anees"
 cover = "/images/chasing-the-winds-neema.jpg"
-date = 2020-11-23T18:30:00Z
+date = 2020-11-24T06:30:00Z
 description = "Find out more about NITC’s aerial adventurers - Club Aero Unwired."
 designer = ""
 tags = []
