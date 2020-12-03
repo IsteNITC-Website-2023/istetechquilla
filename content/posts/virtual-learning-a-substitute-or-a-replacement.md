@@ -1,7 +1,7 @@
 +++
 author = "Vardhah Anees"
 cover = "/images/copy-of-world-students-day.png"
-date = 2020-10-15T04:30:00Z
+date = 2020-10-15T06:30:00Z
 description = "The sudden veer of events due to the global pandemic has caused schooling to go digital. Could this predicament possibly become the future?"
 designer = "Raidha Anwar"
 tags = []
