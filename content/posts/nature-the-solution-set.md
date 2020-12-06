@@ -4,6 +4,7 @@ date: 01 Dec 2019
 author: Anna Susan Cherian
 description: Perhaps all the answers were always around us.
 cover: "/images/f9f1cf26-39f3-426b-b732-12c14e3b232a.jpeg"
+designer: Love Kush Pranu
 
 ---
 Our world is constantly evolving. This evolution brings with it a cluster of problems awaiting solutions. When our cutting edge technology fails to resolve these issues we require some mechanism to rise above these obstacles. At such times inspiration is drawn from the nature around us.
