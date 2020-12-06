@@ -4,7 +4,6 @@ cover = "/images/polymaths.jpeg"
 date = 2020-12-05T18:30:00Z
 description = "In today’s constant quest for greatness, the answers may lie in the past."
 designer = "Dikshant Nemi"
-draft = true
 tags = []
 title = "Polymaths - A Dying Breed of Humans"
 
