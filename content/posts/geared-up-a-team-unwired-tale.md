@@ -38,7 +38,7 @@ _Team unwired at NATHRAX, 2017_
 
 > **Asif, could you tell us about a normal day at the Baja workshop?**
 
-**Asif:** It depends on the work and the people on it. We may even have to go to various labs to complete the work. But we enjoy doing this because all of us are interested in the field. Everyone puts in their best and it’s really fun to work, especially during the night-outs. Many people think that it’s hectic and tedious, but I feel that it was the most beautiful and wonderful experience of my college life.
+**Asif:** It depends on the work and the people on it. We may even have to go to various labs to complete the work. But we enjoy doing this because all of us are interested in the field. Everyone puts in their best, and it’s really fun to work, especially during the night-outs. Many people think that it’s hectic and tedious, but I feel that it was the most beautiful and wonderful experience of my college life.
 
 > **Definitely, a lot of camaraderies must have been built over the years. What other skills have you picked up since you joined Unwired?**
 
