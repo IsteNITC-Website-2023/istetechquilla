@@ -16,9 +16,9 @@ _Having a vibrant and accomplished ten-year history, Team Unwired is undoubtedly
 
 **Aravind**: The FS team started in 2013, and the first competition we attended was the British Formula Student UK, at Silverstone. We started with international competitions and also branched out to regional competitions. We have attended the Supra events as well.
 
-_Team unwired at NATHRAX, 2017_
-
 ![](/images/unwired1.png)
+
+_Team unwired at NATHRAX, 2017_
 
 > **That’s pretty cool! So what is your team structure like? Is there a hierarchy?**
 
