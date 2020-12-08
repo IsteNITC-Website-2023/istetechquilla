@@ -1,6 +1,6 @@
 +++
 author = "Raidha Anwar"
-cover = "/images/polymaths.jpeg"
+cover = "/images/polymaths_-a-dying-breed-of-humans-dikshanth.jpg"
 date = 2020-12-05T18:30:00Z
 description = "In today’s constant quest for greatness, the answers may lie in the past."
 designer = "Dikshant Nemi"
