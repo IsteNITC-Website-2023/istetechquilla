@@ -4,7 +4,6 @@ cover = "/images/geared-up-rakesh.jpg"
 date = 2020-12-07T18:30:00Z
 description = "A peek into Team Unwired’s workshop and their amazing cars."
 designer = "G Rakesh"
-draft = true
 tags = []
 title = "Geared Up: A Team Unwired Tale"
 
