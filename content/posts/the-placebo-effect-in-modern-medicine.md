@@ -3,7 +3,7 @@ author = "Shaheen Rafiq"
 cover = "/images/placebo-article.jpg"
 date = 2020-12-12T18:30:00Z
 description = "More than just a mere pattern of deceit, the Placebo effect is about a million-dollar industry working its charm."
-designer = ""
+designer = "M. Jashwanth"
 tags = []
 title = "The Placebo Effect in Modern Medicine"
 
