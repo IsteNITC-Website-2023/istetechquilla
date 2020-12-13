@@ -22,6 +22,8 @@ _Courtesy: Sprouts on Youtube_
 
 However, let’s get it straight- It’s not like placebos can magically lower your cholesterol or constrain the growth of a tumour. Placebos work on symptoms modulated by the brain and involve a complex neurobiological reaction that includes feel-good neurotransmitters, like endorphins and dopamine, to activate certain brain regions linked to moods, emotional reactions, and self-awareness. All of it contributes to the healing of the ailment. Further, since the placebo effect depends heavily on how readily and enthusiastically we respond to the treatment, we may also infer that certain personality traits are more likely to experience the placebo effect than others. Optimists are more responsive to certain placebos, while pessimists tend to need more coaxing.
 
+However, let’s get it straight- It’s not like placebos can magically lower your cholesterol or constrain the growth of a tumour. Placebos work on symptoms modulated by the brain and involve a complex neurobiological reaction that includes feel-good neurotransmitters, like endorphins and dopamine, to activate certain brain regions linked to moods, emotional reactions, and self-awareness. All of it contributes to the healing of the ailment. Further, since the placebo effect depends heavily on how readily and enthusiastically we respond to the treatment, we may also infer that certain personality traits are more likely to experience the placebo effect than others. Optimists are more responsive to certain placebos, while pessimists tend to need more coaxing.
+
 ![](/images/plac2.png)
 
 _How attributes of pills contribute to the placebo effect_
