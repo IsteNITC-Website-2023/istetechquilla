@@ -12,15 +12,13 @@ Remember your school days when you would visit your beloved school nurse? She’
 
 Though the title of this article may inflict a pucker between your brows if you've got a medical degree gleaming on your shelf, the placebo effect cannot be denied as a hoax. It is real, effective, and here to stay.
 
-A placebo is basically a substance or a treatment which is designed to have no therapeutic value. They can range from simple sugar pills and saline injections to (believe it or not) fake surgeries. However, the effect does not simply rely on medicine alone. It also entails the carefully curated ritual of having to visit a medical professional in a white coat, the weight checking, urine testing, exchanging of your symptoms and family history, and so on. The process has proven to have quite a profound impact on your mind simply because you feel you are given attention and care.
+A placebo is basically a substance or a treatment which is designed to have no therapeutic value. They can range from simple sugar pills and saline injections to (believe it or not) fake surgeries. However, the effect does not simply rely on the medicine alone. It also entails the carefully curated ritual of having to visit a medical professional in a white coat, the weight checking, urine testing, exchanging of your symptoms and family history, and so on. The process has proven to have quite a profound impact on your mind simply because you feel you are given attention and care.
 
 ![](/images/plac1.png)
 
 _Could surgeries work through placebo effects too?_
 
 _Courtesy: Sprouts on Youtube_
-
-However, let’s get it straight- It’s not like placebos can magically lower your cholesterol or constrain the growth of a tumour. Placebos work on symptoms modulated by the brain and involve a complex neurobiological reaction that includes feel-good neurotransmitters, like endorphins and dopamine, to activate certain brain regions linked to moods, emotional reactions, and self-awareness. All of it contributes to the healing of the ailment. Further, since the placebo effect depends heavily on how readily and enthusiastically we respond to the treatment, we may also infer that certain personality traits are more likely to experience the placebo effect than others. Optimists are more responsive to certain placebos, while pessimists tend to need more coaxing.
 
 However, let’s get it straight- It’s not like placebos can magically lower your cholesterol or constrain the growth of a tumour. Placebos work on symptoms modulated by the brain and involve a complex neurobiological reaction that includes feel-good neurotransmitters, like endorphins and dopamine, to activate certain brain regions linked to moods, emotional reactions, and self-awareness. All of it contributes to the healing of the ailment. Further, since the placebo effect depends heavily on how readily and enthusiastically we respond to the treatment, we may also infer that certain personality traits are more likely to experience the placebo effect than others. Optimists are more responsive to certain placebos, while pessimists tend to need more coaxing.
 
