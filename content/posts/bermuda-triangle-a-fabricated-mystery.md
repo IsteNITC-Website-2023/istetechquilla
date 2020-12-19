@@ -1,7 +1,7 @@
 +++
 author = "Swathy Suresh"
 cover = "/images/barmuda-triangle-fabricated-mystery-_-dikshant-nemi.jpg"
-date = 2020-11-01T06:30:00Z
+date = 2020-11-01T07:30:00Z
 description = "A dive into the origins of the mystery. "
 designer = "Dikshant Nemi"
 tags = []
@@ -18,12 +18,11 @@ Let's go through the actual facts. The most plausible explanation for the flight
 
 Accidents that happened in this region are not more than what happens at other places around the world, considering that it is a particularly busy patch of sea. Moreover, the Bermuda Triangle does not even appear in the world's ten most dangerous waters for shipping, according to a study conducted by WWF. Larre Kusche, a research librarian and author of the book “The Bermuda Triangle Mystery Solved”, says that some disappearances had never even occurred. For example, one plane crash was claimed to have taken place in 1937 off Daytona Beach, Florida (one of the apexes of the Bermuda triangle), in front of hundreds of witnesses, but no such incident was reported in the local newspapers at the time.
 
-  
 ![](/images/images-4.jpeg)  
 The legend could also have been borne in the minds of the poets and novelists. Some of the first descriptions about the infamous Bermuda Triangle was given by the Bard of Avon, Shakespeare, in his famous play 'Tempest'. Later on, many novelists came up with their own versions of the mystery, using their wild imaginations to perpetuate it further. Vincent Gaddis, the author of ‘Invisible Horizons', claimed that the disappearances were part of some paranormal activity in the region. Charles Berlitz’s book sold nearly 20 million copies in 30 languages. These books have never failed to captivate our attention and were, in fact, some of the best selling books of all time.
 
 The Bermuda triangle could be a conspiracy of the writers and the poets who use these legends to lure the audience, or it could be a ruse to keep people away, or it may even be where the ruins of Atlantis lie. Either way, it continues to be an unsolved mystery even in today’s scientifically advanced world.
 
-_To know more about the article, click here-_ [_https://www.bermuda-attractions.com/bermuda2_00004e.htm#:\~:text=Bermuda%20Triangle%20is%20a%20strange%20triangular%20area%20on,wrecks%20could%20be%20found%2C%20the%20crew%20had%20vanished_](https://www.bermuda-attractions.com/bermuda2_00004e.htm#:\~:text=Bermuda%20Triangle%20is%20a%20strange%20triangular%20area%20on,wrecks%20could%20be%20found%2C%20the%20crew%20had%20vanished "https://www.bermuda-attractions.com/bermuda2_00004e.htm#:~:text=Bermuda%20Triangle%20is%20a%20strange%20triangular%20area%20on,wrecks%20could%20be%20found%2C%20the%20crew%20had%20vanished")
+_To know more about the article, click here_ [_Bermuda Triangle facts_](https://www.bermuda-attractions.com/bermuda2_00004e.htm#:\~:text=Bermuda%20Triangle%20is%20a%20strange%20triangular%20area%20on,wrecks%20could%20be%20found%2C%20the%20crew%20had%20vanished)
 
 > _Swathy Suresh_
