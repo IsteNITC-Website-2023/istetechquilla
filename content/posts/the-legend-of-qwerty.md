@@ -1,7 +1,7 @@
 +++
 author = "Shreya Manoj and Sreelakshmi Ranjith"
 cover = "/images/the-legend-of-qwerty-geetha.png"
-date = 2020-11-15T06:30:00Z
+date = 2020-11-15T07:30:00Z
 description = "The QWERTY keyboard travelled from early typewriters' era to modern-day phones and laptops. The probability of the first-ever keyboard layout remaining universally accepted, even after 150 years, seems slim; then how did QWERTY prevail?"
 designer = "Geetha"
 tags = []
@@ -24,7 +24,6 @@ Sholes created another keyboard layout called XPMCHR around the 1890s, just befo
 
 ![](/images/qwerty2.png)
 
-  
 Surprisingly, the answer to that lies in market demand. In early 1873, Sholes approached Remington, owner of a typewriter manufacturing company, who decided to buy the patent for the QWERTY layout from him. The company started selling typewriters with Sholes’ arrangement. During the 1890s, the economic depression forced many companies to merge into trusts that allowed them to fix prices and control markets. The same happened with typewriters when some of the biggest manufacturers came together to form the Union Typewriter Company. Since the biggest share manufacturer in the trust was Remingtons, the trust decided to produce typewriters with the QWERTY arrangement.
 
 To add to this, typists of the time were required to learn to type on the most common keyboard layout. Women would typically get jobs in positions handling communications, and it was essential to attend classes where they would teach the QWERTY layout.
