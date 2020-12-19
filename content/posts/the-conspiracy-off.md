@@ -6,13 +6,13 @@ tags:
 - spectrum_collab
 description: The following is a conspiracy theory/original story submitted by the
   second-place winner, LOVE KUSH PRANU (of NIT Calicut) for our event SLEUTH’S VISION,
-  as part of ‘SPECTRUM- An ISTE Collaboration’.
+  as part of ‘SPECTRUM '20 - An ISTE Collaboration’.
 author: Love Kush Pranu
 designer: M Jashwanth
-cover: "/images/the-conspiracy-off-jashwanth-1.jpg"
+cover: "/images/the-conspiracy-off-jashwanth.jpg"
 
 ---
-> **The following is a conspiracy theory/original story submitted by the second-place winner, LOVE KUSH PRANU (of NIT Calicut) for our event SLEUTH’S VISION, as part of ‘SPECTRUM- An ISTE Collaboration’.**
+> **The following is a conspiracy theory/original story submitted by the second-place winner, LOVE KUSH PRANU (of NIT Calicut) for our event SLEUTH’S VISION, as part of ‘SPECTRUM '20 - An ISTE Collaboration’.**
 
 _The following is a string of texts between 3 people who respect social distancing. Please don’t take the percentages to be exact; that’s approximate of what I recall to be true numbers._
 
@@ -66,6 +66,6 @@ What if conspiracy theorists are part of a conspiracy theory to spread disinform
 
 **Adam:** HE IS THE MESSIAH. I am not following after that you’re the winner… fuck that, I’m going to post this on twitter or Reddit or something. Holy cow you came up with that in 5 mins? Dave, I bet you are going to kill yourself now, lol
 
-_Dave left the group_
+_Dave left the group._
 
-> _- Love Kush Pranu, NIT Calicut_
+> _Love Kush Pranu, NIT Calicut_
