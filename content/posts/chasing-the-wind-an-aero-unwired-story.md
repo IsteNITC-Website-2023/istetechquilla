@@ -30,7 +30,7 @@ As you said, since 2012, we have taken part in several events and competitions. 
 
 We have also participated in numerous other competitions like Boeing National Aero-modeling Competition hosted by IITs. We recall it as one of the most competitive events that we have taken part in. We also went to the event conducted by NIT Trichy. Other events that we participated in outside college include Albatross hosted by TKM, where we bagged the second prize. Within our college, we have taken part in events conducted by Tathva which includes Hovercraft and AquaGT, and have won the first and second prizes there respectively.
 
-![](/images/aero2.jpg)_(At SAE 2018)_
+**![](/images/aero2.jpg)_(At SAE 2018)_**
 
 > **How do you celebrate victories and cope with failures?**
 
@@ -40,9 +40,8 @@ Coming to failures, we never take it in a negative sense. For us, failures are n
 
 > **Every year, the technical groups conduct a pre-Tathva workshop. Would you tell us a bit about behind-the-scenes of that?**
 
-The initial step is to decide on the topic of the workshop. While deciding, what we primarily focus on is to come up with a challenging project that would be an interesting learning experience for the first years. Towards the end of the workshop, we also include a group project that gives the attendees an opportunity to apply all that they have learnt. Last year, we implemented the project of an electric RC aircraft which received a massive audience. This year, we had the idea of implementing a drone that could be controlled via our smartphone. Unfortunately due to Covid19, we were not able to carry it out. 
+The initial step is to decide on the topic of the workshop. While deciding, what we primarily focus on is to come up with a challenging project that would be an interesting learning experience for the first years. Towards the end of the workshop, we also include a group project that gives the attendees an opportunity to apply all that they have learnt. Last year, we implemented the project of an electric RC aircraft which received a massive audience. This year, we had the idea of implementing a drone that could be controlled via our smartphone. Unfortunately due to Covid19, we were not able to carry it out.
 
-  
 ![](/images/aero3.jpg)
 
 ![](/images/aero4.jpg)_(Above, Pre Tathva Workshop 2019)_
@@ -79,7 +78,7 @@ Along with that, we have also started reconnecting with our alumni. Lately, we h
 
 One major lesson that we understood through experience is the difficulty of taking part in competitions conducted in remote places. Finding an accommodation there combined with expenses that we had to incur made the whole task complex. A strong desire to make the process simple and the imposing lockdown motivated us to create an online event. We also wanted it to be accessible to any technical group across the world. This is also the first step to a long term goal of ours to conduct workshops and events along this line.
 
-  ![](/images/aero7.jpg)
+![](/images/aero7.jpg)
 
 > **What are the challenges you encountered while conducting an online event?**
 
