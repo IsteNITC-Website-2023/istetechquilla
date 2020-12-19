@@ -13,7 +13,7 @@ Tathva’19 kicked off with the inauguration ceremony on the eve of the 18th. In
 
 Day 1 of Tathva was marked with lectures from eminent scholars such as Dr. Sinha himself, and also Dr. Jacob Chaco and Dr Ajoy Ghatak. The major events on Day 1 were Hack-a-holic, Project Expo, Blueprint and Boardroom.  Workshops on a variety of topics such as Internet Of Things, Industry Automation, Augmented Reality were also conducted. This year, Wheels exhibited some of the finest metal from the auto industry. Day 1 was capped off with the magical performances of Darshan Raval and The Anand Bhaskar Collective.
 
-![](/images/tathva.jpeg)
+![](/images/WhatsApp-Image-2019-10-27-at-10.52.00.jpeg)
 
 The second day saw the largest turnout as well as the largest attractions. The day included lectures from the ingenious Prof. Lawrence M Krauss, who blew the attendees away with his lecture “Nothing from Something: Black Hole and the Cosmos". The day also saw an enthralling lecture by Dr. Charles H. Lineweaver on Astrobiology, and also a lecture by Dr. Shankar K. Pal. Day 2 was packed with exciting events including Robo Wars, Inquisito Virtuoso, Dirt Race and League of Machines. Motor enthusiasts from around the state came together to see internet personality Strell live at NIT Calicut. The day ended with the EDM night brought before the energized audience by DJ's Kalpanik Bass and Olly Esse.
 
