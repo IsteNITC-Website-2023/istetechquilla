@@ -21,4 +21,4 @@ And then comes acceptance. Or maybe we can also call it dedication. You may thin
 
 The best way to achieve your goals is to look for the opportunities rather than the obligations in everything you do. It's never too late for change. Don't wait for January to start over. Today is your January.
 
-> _- Lalitya Devi_
+> _Lalitya Devi_
