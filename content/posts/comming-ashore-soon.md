@@ -8,8 +8,6 @@ description: The coronavirus pandemic seems to be bigger than we originally thou
   How worried should we be?
 
 ---
-![](/images/spamming.gif)
-
 Within the span of a few days, it seems as though the world has been put on hold. All activities, programs and gatherings have come to a standstill. Across the globe, shops and public places have been deserted and many infected towns have taken on an eerie feel of a ghost town. COVID-19 has hit us with a force we could not have fathomed and the consequences are felt direly in different parts of the world. As lists of Dos and Don’ts are circulated fervently through social media and other platforms, let’s take a step back and look at the evolution and spread of the much-feared ‘Corona Virus’.
 
 We have faced the predecessors of the novel coronavirus in the previous decades. The first one was the SARS-CoV, a severe condition of pneumonia that was discovered in 2003. Later on, there emerged the MERS-CoV prevalent in the Middle East. Both were controlled but with significant deaths. Initially originated in animals, these viruses propagate on to humans. While the origins of COVID-19 are met with much speculation and debate, its discovery and exponential spread in China has put in the country in a questionable position.
