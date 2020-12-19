@@ -3,7 +3,7 @@ title: Voices from the Past
 date: 12 Feb 2020
 author: Lalitya Devi
 description: The remains may be old and decaying, but modern technology lets us discover
-  that which was present thousands of years ago .
+  that which was present thousands of years ago.
 cover: "/images/IMG-20200212-WA0008.jpg"
 
 ---
@@ -21,4 +21,4 @@ ITK-SNAP, which allows a three-dimensional structural representation of human ti
 
 The ‘in death’ vocal tract acoustic output of Nesyamun has been scientifically synthesised. This acoustic output is for the single sound for the extant vocal tract shape; it does not provide a basis for synthesising running speech. To do so would require knowledge of the relevant vocal tract articulations, phonetics and timing patterns of his language. The synthesised vowel sound based on the precise dimensions of his unique vocal tract is here compared to modern vowels as proof of method and to demonstrate future research potential.
 
-> _- Lalitya Devi_
+> _Lalitya Devi_
