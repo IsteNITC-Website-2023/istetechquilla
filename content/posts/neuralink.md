@@ -2,7 +2,7 @@
 title: Neuralink
 date: 22 Dec 2019
 author: Anna Susan Cherian
-cover: ''
+cover: "/images/neuralink-jashwanth-1.jpg"
 designer: M Jashwanth
 description: The reality of being part human, part robot.
 
