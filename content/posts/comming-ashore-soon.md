@@ -2,7 +2,7 @@
 title: Coming Ashore Soon...
 date: 11 Mar 2020
 author: Anna Susan Cherian
-cover: "/images/coming-ashore-soon-rakesh-1.jpg"
+cover: ''
 designer: G Rakesh
 description: The coronavirus pandemic seems to be bigger than we originally thought.
   How worried should we be?
