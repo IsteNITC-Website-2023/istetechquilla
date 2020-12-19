@@ -1,8 +1,8 @@
 +++
 author = "Rahul Ekkanath"
 cover = "/images/things-go-social.jpg"
-date = 2020-10-22T06:30:00Z
-description = "A fresh new perspective into the world of IoT\n"
+date = 2020-10-23T07:30:00Z
+description = "A fresh new perspective into the world of IoT."
 designer = "M. Jashwanth"
 tags = []
 title = "Things Go Social!"
@@ -28,21 +28,21 @@ During the current pandemic where businesses struggle to stay afloat, IoT adopti
 
 Tech experts have predicted future applications of IoT that would leave us in a state of awe and amazement:
 
-![](/images/pasted-image-0.png)
+* _Smart glass:_
 
-_Smart Glass:_
+![](/images/pasted-image-0.png)
 
 A head-mounted display designed in the shape of a pair of eyeglasses. You could stare into space and browse the internet! Sounds like magic doesn't it?
 
-![](/images/pasted-image-0-1.png)
+* _Smart farming:_
 
-_Smart Farming:_
+![](/images/pasted-image-0-1.png)
 
 Farming has always been the backbone of the Indian economy. IoT can help farmers assess the quality of soil, humidity & pest infestation to modify the present farming techniques to maximize harvest.
 
-![](/images/pasted-image-0-2.png)
+* _Smart cities:_
 
-_Smart Cities:_
+![](/images/pasted-image-0-2.png)
 
 A futuristic city with exceedingly high efficiency and amazing connectivity! The ultimate goal of all developed societies has now become a plausible mission.
 
