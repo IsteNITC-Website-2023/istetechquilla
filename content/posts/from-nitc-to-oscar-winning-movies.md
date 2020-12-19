@@ -1,7 +1,7 @@
 +++
 author = "Shaheen Rafiq & Shreya Manoj"
 cover = "/images/copy-of-article-poster.png"
-date = 2020-10-03T06:30:00Z
+date = 2020-10-02T07:30:00Z
 description = "On the first edition of Newton Speaks, NITC alumnus Sajan Skaria brings us along on his journey to and through Pixar, and takes us on a magical tour in the making of our favourite animated movies."
 designer = "Raidha Anwar"
 tags = ["newtonspeaks"]
@@ -42,4 +42,4 @@ His second Oscar Award was as part of the team working on Toy Story 4. Recountin
 
 It may seem hard to believe that someone who walked down the same Rajpath as us has gone on to have such an impact on our world. But Sajan Skaria found his passion, grasped it tight, and gave our world beautiful stories, showing us the tangibility of possibilities. He teaches us that passion is the energy which fuels our visions, and brings us focus and joy. He leaves us with the lesson that each of us holds immense power and potential within ourselves, just like each of his beloved characters.
 
-> _- Shaheen Rafiq & Shreya Manoj_
+> _Shaheen Rafiq & Shreya Manoj_
