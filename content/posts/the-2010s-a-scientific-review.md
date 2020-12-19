@@ -2,7 +2,7 @@
 title: 'The 2010s: A Scientific Review'
 date: 25 Dec 2019
 author: Midhun Manoj
-cover: "/images/the-2010s_-a-scientific-review-geetha.png"
+cover: "/images/the-2010s_a-scientific-review-geetha.png"
 designer: R Geetha
 description: As we race ahead into another decade, let us look back at some of the
   greatest scientific advancements of the past ten years.
@@ -20,4 +20,4 @@ The 2010s also marked significant strides in interstellar exploration. With the 
 
 Humanity has come a long way from our origins as hunters and gatherers. We now live in a world that looks not to our own planet but outwards for the future. We have walked on the moon, eradicated diseases entirely, and even reached beyond our solar system. This past decade has been filled with some truly amazing advances in all the scientific fields. Our curiosity has no end in sight, and as long as that remains so it's certain that we still have a long way to go.
 
-> _- Midhun Manoj_
+> _Midhun Manoj_
