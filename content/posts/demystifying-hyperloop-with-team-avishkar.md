@@ -36,4 +36,4 @@ _Check out more about Team Avishkar Hyperloop at_ [_http://avishkarhyperloop.com
 
 _To watch the full talk, click on:_ [https://youtu.be/RGr_0JA38aY](https://youtu.be/RGr_0JA38aY "https://youtu.be/RGr_0JA38aY")
 
-> _Rahul Ekkanath and Swathy Suresh_
+> _Rahul Ekkanath & Swathy Suresh_
