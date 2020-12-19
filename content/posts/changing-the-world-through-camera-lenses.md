@@ -16,15 +16,11 @@ Some photographers risk their lives daily, capturing moments of war-torn nations
 
 ![](/images/img_0869.JPG)
 
-![](/images/img_0868.JPG)
-
-_(Top: Aylan Kurdi - September 2015, by Nilüfer Demir. Bottom: The Afghan Girl - 1984, photographic portrait by journalist Steve McCurry)_
+![](/images/img_0868.JPG)**_(Top: Aylan Kurdi - September 2015, by Nilüfer Demir. Bottom: The Afghan Girl - 1984, photographic portrait by journalist Steve McCurry)_**
 
 Studies of animal behaviour in their undomesticated and raw environment s have also come from the impending skill of the photographers, who camp out in forests and jungles for days. Their cameras capture the behavioural patterns, feeding and mating cycles, and all other attributes possessed by the animal kingdom, only to be analysed and studied later. Some of these moments are broadcast on channels like National Geographic, Discovery Channel etc. These have not only been for entertainment and educational purposes but have also become a means of spreading awareness and bringing about a mindset that stresses the need for conservation and environmental protection.
 
-![](/images/adjustments-plist.jpg)
-
-_(The Moment - Captured by Yongqing Bao, Wildlife Photographer of the Year 2019)_
+![](/images/adjustments-plist.jpg)**_(The Moment - Captured by Yongqing Bao, Wildlife Photographer of the Year 2019)_**
 
 These are just a few tides in the ocean of change that photography has brought to our world. Whether it’s portraits of people, their tragedies, journeys, habits and lifestyles; pictures of travellers and hitchhikers, animals and wildlife, models and singers; scenes of the sky and sea in all its glory, crime and war, or even just a method of artistic release - every picture tells a deep and profound story. With a few adjustments, lenses and shutters, and the click of a button, we can all unanimously agree that the camera is just as mighty, perhaps if not mightier, than the famed pen or the sword.
 
