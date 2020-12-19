@@ -1,7 +1,7 @@
 +++
 author = "Rahul Ekkanath & Swathy Suresh"
 cover = "/images/demystifying-hyperloop-w_-team-avishkar-raidha.png"
-date = 2020-12-03T06:30:00Z
+date = 2020-12-03T07:30:00Z
 description = "For the third edition of Newton Speaks, Suyash Singh, the founder of Team Avishkar Hyperloop, took us through the interesting journey of how a student group from IIT Madras went all the way to SpaceX, and beyond."
 designer = "Raidha Anwar"
 tags = ["newtonspeaks"]
