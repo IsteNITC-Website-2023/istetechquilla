@@ -1,7 +1,7 @@
 +++
 author = "Vardhah Anees"
 cover = "/images/copy-of-world-students-day.png"
-date = 2020-10-15T06:30:00Z
+date = 2020-10-15T07:30:00Z
 description = "The sudden veer of events due to the global pandemic has caused schooling to go digital. Could this predicament possibly become the future?"
 designer = "Raidha Anwar"
 tags = []
@@ -22,4 +22,4 @@ E-learning via platforms like NPTEL saves time, energy and is an effective metho
 
 So who wins? The anticlimactic truth here is that there’s just no clear winner. Each training approach has its own pros and cons. Though we cannot say for sure whether virtual learning will operate post-pandemic, it is definitely one sector where investment has not dried up yet. The gravity of disseminating education uniformly, across all sections of the society, is definitely something the pandemic has made clear. The question of whether or not virtual learning can play a remarkable role here is contingent on each one of us.
 
-> _- Vardhah Anees_
+> _Vardhah Anees_
