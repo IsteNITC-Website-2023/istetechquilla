@@ -23,6 +23,6 @@ The legend could also have been borne in the minds of the poets and novelists. S
 
 The Bermuda triangle could be a conspiracy of the writers and the poets who use these legends to lure the audience, or it could be a ruse to keep people away, or it may even be where the ruins of Atlantis lie. Either way, it continues to be an unsolved mystery even in today’s scientifically advanced world.
 
-_To know more about the article, click here_ [_Bermuda Triangle facts_](https://www.bermuda-attractions.com/bermuda2_00004e.htm#:\~:text=Bermuda%20Triangle%20is%20a%20strange%20triangular%20area%20on,wrecks%20could%20be%20found%2C%20the%20crew%20had%20vanished)
+> _To know more about the article, click here:_ [_Bermuda Triangle facts_](https://www.bermuda-attractions.com/bermuda2_00004e.htm#:\~:text=Bermuda%20Triangle%20is%20a%20strange%20triangular%20area%20on,wrecks%20could%20be%20found%2C%20the%20crew%20had%20vanished)
 
 > _Swathy Suresh_
