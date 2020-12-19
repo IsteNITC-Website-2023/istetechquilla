@@ -2,7 +2,7 @@
 title: What if quantum physics could be applied to biology?
 date: 10 Nov 2019
 author: Raidha Anwar
-cover: "/images/what-if-quantum-physics-could-be-applied-to-biology_-rakesh.jpg"
+cover: "/images/what-if-quantum-physics-could-be-applied-to-biology-rakesh.jpg"
 description: Ever since the discovery of quantum physics exploded into our world,
   scientists have tried to seek the quantum state everywhere- even so far as to merge
   quantum physics with biology.
@@ -21,6 +21,6 @@ For a long time, the most fascinating study was on the European robin. These bir
 
 Though these have been the biggest breakthroughs in the field of quantum biology as of 2019, scientists are optimistic that this emerging field holds substance. After all, who is to say that life is so simple?
 
-Reference- [_https://thewire.in/the-sciences/what-is-quantum-biology_](https://thewire.in/the-sciences/what-is-quantum-biology)
+_Reference-_ [_https://thewire.in/the-sciences/what-is-quantum-biology_](https://thewire.in/the-sciences/what-is-quantum-biology)
 
-> _- Raidha Anwar_
+> _Raidha Anwar_
