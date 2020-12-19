@@ -3,7 +3,7 @@ author = "Rahul Ekkanath"
 cover = "/images/things-go-social.jpg"
 date = 2020-10-23T07:30:00Z
 description = "A fresh new perspective into the world of IoT."
-designer = "M. Jashwanth"
+designer = "M Jashwanth"
 tags = []
 title = "Things Go Social!"
 
