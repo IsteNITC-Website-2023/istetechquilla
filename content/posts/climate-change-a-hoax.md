@@ -1,8 +1,8 @@
 ---
-title: Climate Change- A Hoax?
+title: 'Climate Change: A Hoax?'
 date: 05 Dec 2019
 author: Raidha Anwar
-cover: "/images/climate-change-a-hoax_-likitha.jpg"
+cover: "/images/climate-change-a-hoax_-likitha.jpeg"
 designer: T Likitha
 description: The earth has been giving us warning signals, yet there are people who
   continue to disbelieve in our global environmental crisis.
@@ -18,4 +18,4 @@ Some economists now suggest that climate change could be fixed by spending just 
 
 The Earth might just have found its Achilles heel- climate change deniers, and those spreading this propaganda. Raising awareness, either as protests or through social media, are vital in not only increasing consciousness to this, but also in bringing humans closer together to take action to save Mother Earth.
 
-> _- Raidha Anwar_
+> _Raidha Anwar_
