@@ -1,7 +1,7 @@
 +++
 author = "Abhishek Jain"
-cover = "/images/44293f0f-6118-4bb8-8594-01cf896b0d2e.jpeg"
-date = 2020-10-11T06:30:00Z
+cover = "/images/humanity-s-finest-adarsh.jpg"
+date = 2020-10-12T07:30:00Z
 description = "A summary of the 2020 Nobel Prizes"
 designer = "Adarsh Tulsyan"
 tags = []
@@ -40,4 +40,6 @@ A good point to note is the number of women who received the accolade this year.
 
 These men and women have broken barriers to help humanity solve challenges for its advancement. Their ingenuity and hard work have us taken one step ahead on the path of greater knowledge. They are an inspiration for all, and a true boon to mankind.
 
-> _- Abhishek Jain_
+_All the images are taken from the official Nobel Prize website_ https://www.nobelprize.org/
+
+> _Abhishek Jain_
