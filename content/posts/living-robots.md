@@ -2,7 +2,7 @@
 title: Living Robots
 date: 19 Jan 2020
 author: Anna Susan Cherian
-cover: "/images/living-robots-adarsh.jpg"
+cover: "/images/living-robots-adarsh-1.jpg"
 designer: Adarsh Tulsyan
 description: The world of science has had a new breakthrough- Xenobots, or living,
   programmable organisms, essentially creating a new lifeform.
@@ -20,6 +20,6 @@ This innovation has been envisioned for a plethora of applications. Scientists b
 
 While the anatomy of these lifeforms is purely biological, the fact that we programmed its design is truly captivating. It shows how far the world of computing has come. Efficient, intelligent, ’evolutionary’ algorithms are providing answers to our unresolved questions on fundamental topics such as life and growth. As we welcome these new inhabitants to our messy world, let us hope they bode well for our existence.
 
-_(To understand more about the algorithm behind this and watch these little bots in action visit_ [https://www.wired.com/story/xenobot/](https://www.wired.com/story/xenobot/ "https://www.wired.com/story/xenobot/")_)_
+_To understand more about the algorithm behind this and watch these little bots in action visit_ [_https://www.wired.com/story/xenobot/_](https://www.wired.com/story/xenobot/ "https://www.wired.com/story/xenobot/")
 
-> _- Anna Susan Cherian_
+> _Anna Susan Cherian_
