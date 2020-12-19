@@ -3,7 +3,7 @@ title: Nature - The Solution Set
 date: 01 Dec 2019
 author: Anna Susan Cherian
 description: Perhaps all the answers were always around us.
-cover: "/images/f9f1cf26-39f3-426b-b732-12c14e3b232a.jpeg"
+cover: "/images/nature-the-solution-set-love-kush-pranu.jpeg"
 designer: Love Kush Pranu
 
 ---
@@ -21,4 +21,4 @@ Hidden within the arms of Mother Earth is an untapped reservoir of knowledge wai
 
 _(If biomimicry fascinates you, here are a few personal favourites to check up on- Armadillo backpacks, Lotus inspired paint and water collection method taught by Stenocara beetle)_
 
-> _- Anna Susan Cherian_
+> _Anna Susan Cherian_
