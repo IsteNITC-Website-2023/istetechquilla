@@ -6,13 +6,13 @@ tags:
 - spectrum_collab
 description: The following is a conspiracy theory/original story submitted by the
   third-place winner, SWATHY SURESH B (of NIT Calicut) for our event SLEUTH’S VISION,
-  as part of ‘SPECTRUM- An ISTE Collaboration’.
+  as part of ‘SPECTRUM '20 - An ISTE Collaboration’.
 author: Swathy Suresh
 designer: Dikshant Nemi
 cover: "/images/divide-et-impera.png"
 
 ---
-> **The following is a conspiracy theory/original story submitted by the third-place winner, SWATHY SURESH B (of NIT Calicut) for our event SLEUTH’S VISION, as part of ‘SPECTRUM- An ISTE Collaboration’.**
+> **The following is a conspiracy theory/original story submitted by the third-place winner, SWATHY SURESH B (of NIT Calicut) for our event SLEUTH’S VISION, as part of ‘SPECTRUM '20 - An ISTE Collaboration’.**
 
 It was a cold and eerie night in the year of 1857. The clouds tried to swallow the moon but the moon fought back valiantly and kept shining more brightly. Even in the quietness of the night, one could hear the mumble of unrest, frustration and anger. Nevertheless, an unknown scent of 'freedom' filled the air. Lord Dalhousie looked out through the window at the moon. Beads of anxiety appeared on his forehead. Some thought seemed to trouble him. He was condemned by the East India Company for failing to notice the signs of the brewing 1857 revolt. He knew that men cannot be kept in shackles forever, sooner or later voices of liberty will solidly arise. If Indians continue fighting for their liberty with the same vigour, then Britain could not stand in India for so long. Britain's much-prized province, India, would slip out of their hands. He turned to the man sitting on the chair and said," Men, women, children without any difference are fighting day and night for their freedom. The Hindus and Muslims have reunited and are fighting side by side and under each other. If this continues, nothing could stop them from attaining their only dream of a 'free state'.
 
@@ -22,4 +22,4 @@ Britain began to work under a carefully devised plan made by Lord Canning. The B
 
 The descendants of Lord Canning followed his policy of divide and rule on numerous occasions. This weapon was notoriously used by Lord Curzon in the form of 'Partition of Bengal' which separated the largely eastern Muslim areas from largely western Hindu areas. The British supported Muslim league, gave them separate electorates to choose Muslim candidates for Muslim seats, empowered them and that resulted in the division of India and Pakistan. The British legacy of 'divide and rule' still holds sway in India and Pakistan today. It was the conspiracy started by Lord Curzon which makes us relate terrorists to Pakistanis. We often forget that the people living in Pakistan are human whose blood is red like ours, and who breathe to live. They have nothing to do with terrorism. Even today some politicians use the same strategy to create communal riots in our nation. We, educated Indians should not fall prey into this vicious trap and should treat everyone with empathy without any discriminations of race, religion and country.
 
-> _- Swathy Suresh B, NIT Calicut_
+> _Swathy Suresh, NIT Calicut_
