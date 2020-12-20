@@ -1,9 +1,9 @@
 +++
 author = "Rahul Ekkanath"
-cover = ""
+cover = "/images/ads-raidha.png"
 date = 2020-12-20T12:00:00Z
 description = "Love them or hate them, here’s why you need them!"
-designer = "Geetha"
+designer = "Raidha Anwar"
 tags = []
 title = "Ads: A Disruption or a Monetization Miracle?"
 
