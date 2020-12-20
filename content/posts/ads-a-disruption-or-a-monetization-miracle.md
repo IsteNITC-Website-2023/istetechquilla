@@ -4,7 +4,6 @@ cover = "/images/ads_a-disruption-or-a-monetization-miracle-geetha.png"
 date = 2020-12-20T12:00:00Z
 description = "Love them or hate them, here’s why you need them!"
 designer = "Geetha"
-draft = true
 tags = []
 title = "Ads: A Disruption or a Monetization Miracle?"
 
