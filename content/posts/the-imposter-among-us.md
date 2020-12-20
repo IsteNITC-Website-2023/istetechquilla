@@ -14,7 +14,7 @@ Psychologists characterise this condition as imposter syndrome or imposter pheno
 
 ![](/images/clance_picture_22.jpg)
 
-![](/images/imes3.jpg)_(Above, Dr. Pauline Clance and Dr. Suzanne Imes)_
+![](/images/imes3.jpg)**_(Above, Dr. Pauline Clance and Dr. Suzanne Imes)_**
 
 But to characterise this peculiar phenomenon as a disease or syndrome is misleading. It’s not a disorder nor is it tied to conditions such as depression or anxiety. It’s also misleading to assume that it's prevalent only among the overachievers or the brilliant minds of the world. In reality, these are as common to the average Joe as it is to Einstein.
 
