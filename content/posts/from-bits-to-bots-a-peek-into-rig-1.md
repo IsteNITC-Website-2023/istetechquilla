@@ -16,7 +16,7 @@ It all started with Robocon in 2012. A group of students from our college were l
 
 They approached Professor Sudheer from the Mechanical Engineering Department for his guidance, and he assigned them a few projects. In the initial phases, the students didn’t even have a workplace and would work on them from their hostels. Funding was also done from their own pockets. Around May of 2013, they showed their projects to the Director, who was impressed with their work and granted them permission to use the mechatronics lab 24/7 from that day onwards. Since then, we’ve been receiving funding from the institute to participate in Robocon and for all our other projects as well.
 
-![](/images/untitled1.png)Team RIG (_Source:_ [_http://www.rignitc.com_](http://www.rignitc.com "http://www.rignitc.com")_)_
+![](/images/untitled1.png)(**Team RIG, 2013)**
 
 > **What do you think RIG represents? What makes it different from the other technical groups?**
 
@@ -38,25 +38,25 @@ There is no specific time. We always try to improve our projects as much as poss
 
 As I mentioned, this group was formed because of Robocon. We’ve participated in it in 2013, 2014, 2015, 2017, 2018 and 2020. Two years back, we attended AUV in Singapore - AUV Varuna was developed at a low cost of around 1-2 lakhs. Our wall climbing robot won FESTO’s productivity challenge in 2015, and we received the best paper by RSI Goa. We have also taken part in the Swasraya Bharat Innovation Competition. The Smart Stick developed by RIG won Aavishkar 2015 and many of our projects even have research papers.
 
-_![](/images/auvsingapore2018.jpg)AUV Singapore 2018_
+_![](/images/auvsingapore2018.jpg)**(AUV Singapore 2018)**_
 
 > **Seems like Robocon was more than just a starting point for RIG! Can you tell us more about it?**
 
 Robocon is an Asia-Pacific competition, where we’re assigned tasks that we need to complete in an efficient manner. Robocon is a very important competition for us and we learn a lot from it. Last year, we were one of the better performers in the first round, but unfortunately, we couldn’t carry it to the second round as the college closed. Whenever we visit Robocon, we come to know about better robots and better technology. It is a competition that really brings out the best in us. We haven’t won Robocon till now, but we’ll definitely work towards winning it in the years to come.
 
-_![](/images/robocon2013.jpg)Robocon 2013, Pune_
+_![](/images/robocon2013.jpg)**(Robocon 2013, Pune)**_
 
 > **You’ve conducted many workshops and exhibitions in the past. What have you learnt from these experiences?**
 
 We have learnt a lot from the visitors who come to our exhibitions and workshops, inside as well as outside campus. There is a diverse group of people who attend them, including small children. We had kids of 5-6 years of age visit us during Tathva last year. They seemed to have better ideas than us, and we’ve tried to implement them as well. There were also many esteemed visitors during the Indo Korean summit this year. Professors from other institutes also visit our workplace, check our projects and guide us on how to make them better.
 
-_![](/images/2k18kmct.jpg)Exhibition at KMCT college_
+**_![](/images/2k18kmct.jpg)(Exhibition at KMCT college)_**
 
 > **All the technical groups conduct highly successful pre-Tathva workshops for first years, which most of us have attended. How do you conduct them in a smooth manner every year?**
 
 The work for them starts during the summer vacation. All the members gather and decide on a project. We understand the project and the concepts needed for it, and utilise this time to learn whatever we are required to teach the first-year students. Each member takes up a topic of his/her interest and makes presentations to show to the first years. We conduct trials to ensure that everything runs smoothly and that our team is equipped to handle any question that comes from the other side. We try to simulate the same kind of environment - of asking and answering questions, so that the members are well prepared for the workshop. All the equipment required for the project is ordered. Other requirements like getting classrooms and microphones are arranged by all of us together. Arranging laptops with apt software downloaded is also a pretty big task that we take up during our first phase.
 
-_![](/images/pretathva_rig.jpg)Pre-Tathva Workshop_
+_![](/images/pretathva_rig.jpg)**(Pre-Tathva Workshop)**_
 
 > **What have you learnt from being a part of RIG?**
 
