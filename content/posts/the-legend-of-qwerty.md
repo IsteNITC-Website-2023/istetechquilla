@@ -1,5 +1,5 @@
 +++
-author = "Shreya Manoj and Sreelakshmi Ranjith"
+author = "Shreya Manoj & Sreelakshmi Ranjith"
 cover = "/images/the-legend-of-qwerty-geetha.png"
 date = 2020-11-15T07:30:00Z
 description = "The QWERTY keyboard travelled from early typewriters' era to modern-day phones and laptops. The probability of the first-ever keyboard layout remaining universally accepted, even after 150 years, seems slim; then how did QWERTY prevail?"
@@ -34,4 +34,4 @@ Today, QWERTY is the basis of several functions on our laptops. For instance, sh
 
 It’s surprising to think that in this technologically advancing world, where every invention can be improved to its next best variant, the original QWERTY layout has survived 150 years with only some minor tweaks. Humans are hardwired to resist change, and it would be quite impossible for such a universally accepted system to change overnight, even if there was a much better version replacing it. For now, we can type away on our phones and laptops with each key’s address engraved in our minds.
 
-> Shreya Manoj and Sreelakshmi Ranjith
+> Shreya Manoj & Sreelakshmi Ranjith
