@@ -1,6 +1,6 @@
 +++
 author = "Rahul Ekkanath"
-cover = "/images/ads-raidha.png"
+cover = "/images/ads-4.png"
 date = 2020-12-20T12:00:00Z
 description = "Love them or hate them, here’s why you need them!"
 designer = "Raidha Anwar"
