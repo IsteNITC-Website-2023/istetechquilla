@@ -16,7 +16,7 @@ _Having a vibrant and accomplished ten-year history, Team Unwired is undoubtedly
 
 **Aravind**: The FS team started in 2013, and the first competition we attended was the British Formula Student UK, at Silverstone. We started with international competitions and also branched out to regional competitions. We have attended the Supra events as well.
 
-![](/images/unwired1.png)_Team unwired at NATHRAX, 2017_
+![](/images/unwired1.png)**(_Team unwired at NATHRAX, 2017_)**
 
 > **That’s pretty cool! So what is your team structure like? Is there a hierarchy?**
 
@@ -48,7 +48,7 @@ _Having a vibrant and accomplished ten-year history, Team Unwired is undoubtedly
 
 **Aravind**: Working hard, taking others’ opinions, helping find solutions to problems, working as a team is an overall development process.
 
-![](/images/unwired3.png)_Kari Motor Speedway, 2015_
+![](/images/unwired3.png)**(_Kari Motor Speedway, 2015)_**
 
 > **Is there any difference between the functioning of Team Unwired compared with the other groups?**
 
@@ -68,7 +68,7 @@ _Having a vibrant and accomplished ten-year history, Team Unwired is undoubtedly
 
 **Asif**: The best thing to do is a project or get some hands-on work. During a theoretical study in the classroom, you will make a lot of assumptions before designing something. But when you come to the design phase and try to integrate it with the rest, there will be a lot of issues with the task. The classroom does give you a fair bit of knowledge to start, but it doesn’t go all the way.
 
-![](/images/unwired5.jpg)_The BAJA team at NATRAX, 2017_
+![](/images/unwired5.jpg)**(_The BAJA team at NATRAX, 2017)_**
 
 > **The sudden outbreak of Covid-19 has been disastrous for many of us. We are locked down by the pandemic and it must have affected the working of your team, which is very dependent on people coming together and building a project. So is there any plan for this year? Is it going to be online?**
 
