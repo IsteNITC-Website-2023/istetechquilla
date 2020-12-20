@@ -3,7 +3,7 @@ author = "Shaheen Rafiq"
 cover = "/images/placebo-article.jpg"
 date = 2020-12-13T07:30:00Z
 description = "More than just a mere pattern of deceit, the Placebo effect is about a million-dollar industry working its charm."
-designer = "M. Jashwanth"
+designer = "M Jashwanth"
 tags = []
 title = "The Placebo Effect in Modern Medicine"
 
@@ -18,13 +18,13 @@ A placebo is basically a substance or a treatment which is designed to have no t
 
 However, let’s get it straight- It’s not like placebos can magically lower your cholesterol or constrain the growth of a tumour. Placebos work on symptoms modulated by the brain and involve a complex neurobiological reaction that includes feel-good neurotransmitters, like endorphins and dopamine, to activate certain brain regions linked to moods, emotional reactions, and self-awareness. All of it contributes to the healing of the ailment. Further, since the placebo effect depends heavily on how readily and enthusiastically we respond to the treatment, we may also infer that certain personality traits are more likely to experience the placebo effect than others. Optimists are more responsive to certain placebos, while pessimists tend to need more coaxing.
 
-![](/images/plac2.png)**_How attributes of pills contribute to the placebo effect_**
+![](/images/plac2.png)**(_How attributes of pills contribute to the placebo effect)_**
 
 This also follows that the warmth and confidence conveyed by the doctor plays a key role in the execution of the placebo. Studies found that subjective pain was lower after a medical procedure when participants thought they’d been paired with a doctor who shared the same values and personal beliefs as them. THIS is the problem with placebo - _we let our perceptions guide us._
 
 However, the placebo effect can’t be explicitly labelled imaginary or fake. Several findings show that there are actual physical changes that occur under placebo. For instance, in terms of athletic abilities, various studies have shown it’s effects on speed, strength, and endurance. Another experiment involved participants receiving “fake” non-invasive brain stimulation and performing a learning task. The placebo group thought their brains had been stimulated by a mild electrical current – in reality, they hadn’t – and they were led to believe that this stimulation would boost their mental function. The placebo participants were subsequently more accurate in the learning task and showed steeper reductions in their reaction times than the control group.
 
-![](/images/plac3.png)**_The placebo sweet spot: Researchers conducted placebo experiments and scanned the participant’s brains with MRI. They noticed greater activity in the middle frontal gyrus brain region, which makes up about one-third of the frontal lobe._**
+![](/images/plac3.png)**(_The placebo sweet spot: Researchers conducted placebo experiments and scanned the participant’s brains with MRI. They noticed greater activity in the middle frontal gyrus brain region, which makes up about one-third of the frontal lobe.)_**
 
 The bottom line is that although we know well that placebos are heavily correlated to psychological factors, we can’t deny that it is effective when it comes to pain relief, fatigue, and even sometimes curing depression. Unfortunately, science and research have still not figured the exact mechanisms in the body that are contributing to this effect. It seems like the more we try to comprehend and control the effect, the more the human body baffles us.
 
