@@ -44,7 +44,7 @@ The initial step is to decide on the topic of the workshop. While deciding, what
 
 ![](/images/aero3.jpg)
 
-![](/images/aero4.jpg)_(Above, Pre Tathva Workshop 2019)_
+![](/images/aero4.jpg)**_(Above, Pre Tathva Workshop 2019)_**
 
 > **In our college, there is a very evident gap between what we learn in class and what we apply in the real world. In what ways can we adequately improve on practical knowledge?**
 
@@ -64,7 +64,7 @@ The most important thing I have learnt is working in and for the team. Enjoying 
 
 More than those who are technically sound, we look for inquisitive minds who are constantly motivated to learn. The ones who are passionate to find solutions through aeronautical means are the students that fit best in our club. The analytical minds that possess the ability to make efficient decisions and are ready to put in their utmost efforts are what we really look for while recruiting inductees every year.
 
-![](/images/aero5.jpg)_(At Albatross, conducted by TKM)_
+![](/images/aero5.jpg)**_(At Albatross, conducted by TKM)_**
 
 > **No doubt Covid-19 must have severely affected your activities. Even though you are losing opportunities and the chance to learn, what do you do to combat that? How do you keep your team motivated during this time?**
 
@@ -72,7 +72,7 @@ I believe one of the unanimous approaches every organization would follow during
 
 Along with that, we have also started reconnecting with our alumni. Lately, we have been having monthly video call meetings with them and we receive their ideas and suggestions on various aspects of the club.
 
-![](/images/aero6.png)_(Alumni meet)_
+**![](/images/aero6.png)_(Alumni meet)_**
 
 > **Speaking of Aviate, would you let us in on the thought process behind it?**
 
