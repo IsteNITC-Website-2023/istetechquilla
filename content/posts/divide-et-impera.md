@@ -9,7 +9,7 @@ description: The following is a conspiracy theory/original story submitted by th
   as part of ‘SPECTRUM '20 - An ISTE Collaboration’.
 author: Swathy Suresh
 designer: Dikshant Nemi
-cover: "/images/divide-et-impera.png"
+cover: "/images/divide-et-impera-dikshant.png"
 
 ---
 > **The following is a conspiracy theory/original story submitted by the third-place winner, SWATHY SURESH B (of NIT Calicut) for our event SLEUTH’S VISION, as part of ‘SPECTRUM '20 - An ISTE Collaboration’.**
