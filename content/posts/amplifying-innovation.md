@@ -100,4 +100,4 @@ _Apart from the advantages and benefits of being a part of IEEE, it's the experi
 
 _Certainly, the real world is not just about books and theory, it’s about the skills and expertise we pick up as part of different clubs. Our series Tech Matrix concludes here, and we hope we left you with a better understanding of NITC’s technical groups and the opportunities provided._
 
-> _Shreya Manoj_
+> _Interview by Shreya Manoj_
