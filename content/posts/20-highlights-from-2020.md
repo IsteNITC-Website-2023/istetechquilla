@@ -8,7 +8,7 @@ tags = []
 title = "20 Highlights from 2020"
 
 +++
-If there was one word to describe the year 2020, it would be “unprecedented”. From rumours of world war III to raging wildfires, from social unrests to hard-hitting deaths, from natural disasters to the dreadful Covid-19 virus tying us down - this year was nothing short of a circus, without the frolic.
+If there was one word to describe the year 2020, it would be “unprecedented”. From rumours of World War III to raging wildfires, from social unrests to hard-hitting deaths, from natural disasters to the dreadful Covid-19 virus tying us down - this year was nothing short of a circus, without the frolic.
 
 But we all managed to push through, together. And despite all the bad stuff, we had moments that we could look back on. Maybe Elon Musk naming his child some random letters brought you joy, or maybe it was the mysterious monoliths which brought out the conspiracy theorists in you. Savouring the small rays of sunshine peeking through the mist, we stayed hopeful and achieved some wonders. Having bid adieu to the gruesome year, here are some highlights of 2020, summarised in 20 points.
 
@@ -33,7 +33,7 @@ But we all managed to push through, together. And despite all the bad stuff, we 
     The biggest sporting event in the world, the Summer Olympics slated to be held in Tokyo, got postponed to 2021, for the first time since World War II.
  6. **_Stock market crash_**
 
-    Our mental health wasn't the only thing in decline this year. Also called "The Coronavirus Crash", the world economy was falling, leading us all to a state similar to the Great Depression of the 1930s. In fact, for the first time in history, oil prices became negative
+    Our mental health wasn't the only thing in decline this year. Also called "The Coronavirus Crash", the world economy was falling, leading us all to a state similar to the Great Depression of the 1930s. In fact, for the first time in history, oil prices became negative.
  7. **_Natural disasters_**
 
     From the deadliest virus mankind has ever seen to wildfires and cyclones, 2020 became synonymous with disaster. A moment of silence for the thousands of lives taken from the world during the Beirut explosion, cyclones Nisarg and Amphan, wildfires in California and Australia, the floods in Hyderabad, and all the rest.
@@ -66,7 +66,7 @@ But we all managed to push through, together. And despite all the bad stuff, we 
     Women won big at the Nobel 2020. Four females received recognition, inspiring women across the world to break the glass ceiling.
 15. **_Fight for social justice and equality_**
 
-    All over the globe, people continued to fight relentlessly for equal rights and opportunities and to end discrimination. Police brutality, minority rights and white supremacy were just the tip of the iceberg of activism we witnessed in 2020.
+    All over the globe, people continued to fight relentlessly for equal rights and opportunities and to end discrimination. Police brutality, white supremacy and minority rights were just the tip of the iceberg of activism we witnessed in 2020.
 
     ![](/images/blm.jpg)![](/images/farmer-protests.jpg)
 16. **_The Great Conjunction_**
