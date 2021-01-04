@@ -8,7 +8,7 @@ tags = []
 title = "Amplifying Innovation"
 
 +++
-_With the motto ‘Advancing Technology for Humanity’, IEEE is one of the most reputed groups on our campus. The NITC Student’s Branch of the internationally recognized organization is constantly conducting events and workshops, and the pandemic has been no deterrent to their spirit. We interview Neha Malcolm, the Technical Secretary for the year 2020-21, and a third-year EEE student. Here she talks about the club from a member’s as well as a student’s perspective._
+_With the motto ‘Advancing Technology for Humanity’, IEEE is one of the most reputed groups on our campus. The NITC Student’s Branch of the internationally recognized organization is constantly conducting events and workshops, and the pandemic has been no deterrent to their spirit. We interview Neha Malcom, the Technical Secretary for the year 2020-21, and a third-year EEE student. Here she talks about the club from a member’s as well as a student’s perspective._
 
 > **To start off, would you tell us about the structure of your group and the different societies under the IEEE NITC Students’ Branch?**
 
