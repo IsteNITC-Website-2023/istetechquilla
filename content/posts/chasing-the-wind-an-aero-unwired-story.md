@@ -4,7 +4,7 @@ cover = "/images/chasing-the-winds-neema.jpg"
 date = 2020-11-24T07:30:00Z
 description = "Find out more about NITC’s aerial adventurers - Club Aero Unwired."
 designer = ""
-tags = []
+tags = ["techmatrix"]
 title = "Chasing the Wind: An Aero Unwired Story"
 
 +++

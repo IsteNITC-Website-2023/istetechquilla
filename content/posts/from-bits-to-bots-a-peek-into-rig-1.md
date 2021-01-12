@@ -4,7 +4,7 @@ cover = "/images/rig-interview.jpg"
 date = 2020-11-10T07:30:00Z
 description = "Take a look into the behind-the-scenes of one of NITC’s main technical teams - the Robotics Interest Group (RIG)."
 designer = ""
-tags = []
+tags = ["techmatrix"]
 title = "From Bits to Bots: A peek into RIG"
 
 +++
