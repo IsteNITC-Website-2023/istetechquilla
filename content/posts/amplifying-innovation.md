@@ -4,7 +4,7 @@ cover = "/images/amplifying-innovation-likitha.jpg"
 date = 2020-12-29T12:30:00Z
 description = "Delve into the running of one of the most active groups at our college - the IEEE NITC Students’ Branch."
 designer = "T Likitha"
-tags = []
+tags = ["techmatrix"]
 title = "Amplifying Innovation"
 
 +++
