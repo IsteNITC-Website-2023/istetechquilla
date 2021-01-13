@@ -10,7 +10,7 @@ title = "Demystifying Hyperloop with Team Avishkar"
 +++
 It all started in the year 2013, when Elon Musk unveiled his idea of hyperloop to the world. Little did Suyash Singh, then a mechanical engineering student, know how this would change his life.
 
-> _The third edition of Newton Speaks saw Suyash Singh, the founder of Team Avishkar Hyperloop and an alumnus from IIT-Madras, carry us through the the team's journey to builidng a scaled, functioning model of a hyperloop pod. It is more than just a story of invention and innovation; it's a story of perseverance, hardwork, and commitment._
+> _The third edition of Newton Speaks saw Suyash Singh, the founder of Team Avishkar Hyperloop and an alumnus from IIT-Madras, carry us through the team's journey to building a scaled, functioning model of a hyperloop pod. It is more than just a story of invention and innovation; it's a story of perseverance, hardwork, and commitment._
 
 Commonly referred to as the fifth mode of transportation, the hyperloop is a futuristic technology which is a blend of all the advantages of the existing modes of transport. Leading the charge in the race to realizing the concept in India is Team Avishkar Hyperloop. Founded by Suyash Singh, the group of students from IIT Madras began the journey with a vision in mind – to make a global mark in the field of hyperloop technology, while offering an affordable and efficient medium of transport to a populous country such as ours.
 
