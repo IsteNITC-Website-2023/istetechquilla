@@ -4,7 +4,6 @@ cover = "/images/towardsaffordabledigitalagriculturetechnologies-rakesh.jpg"
 date = 2021-01-15T04:00:00Z
 description = "With over 80 patents and 100 papers under his name, Ranveer Chandra is a true engineer, constantly seeking solutions to the world’s problems. On the fourth edition of Newton Speaks, he talked to us about some of his technologies, and his passion for data-driven agriculture.\n"
 designer = "G Rakesh"
-draft = true
 tags = []
 title = "Toward Affordable Digital Agriculture Technologies"
 
