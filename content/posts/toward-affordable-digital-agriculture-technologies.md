@@ -1,7 +1,7 @@
 +++
 author = "Vardhah Anees & Abhishek Jain"
 cover = "/images/towardsaffordabledigitalagriculturetechnologies-rakesh.jpg"
-date = 2021-01-15T04:30:00Z
+date = 2021-01-15T04:00:00Z
 description = "With over 80 patents and 100 papers under his name, Ranveer Chandra is a true engineer, constantly seeking solutions to the world’s problems. On the fourth edition of Newton Speaks, he talked to us about some of his technologies, and his passion for data-driven agriculture.\n"
 designer = "G Rakesh"
 draft = true
@@ -11,7 +11,7 @@ title = "Toward Affordable Digital Agriculture Technologies"
 +++
 One small experience can leave you humbled; one small spark can inspire you for a lifetime. This is the story of how Dr Ranveer Chandra, Chief Scientist at Microsoft Azure Global, is making agriculture more sustainable and fruitful, all while having a PhD in Computer Science.
 
-_With over 80 patents and 100 papers under his name, Ranveer Chandra is a true engineer, constantly seeking solutions to the world’s problems. On the fourth edition of Newton Speaks, he talked to us about some of his technologies, and his passion for data-driven agriculture._
+> _With over 80 patents and 100 papers under his name, Ranveer Chandra is a true engineer, constantly seeking solutions to the world’s problems. On the fourth edition of Newton Speaks, he talked to us about some of his technologies, and his passion for data-driven agriculture._
 
 Having made his way into IIT Kharagpur, Ranveer was quite the all-rounder, participating in various events, contesting for elections, and still ranking 3rd in his batch. Like most university toppers, he went on to do a PhD despite his wishes to study MBA. But the independence he received, the freedom to go where not many wander, motivated him to think outside the box.
 
@@ -25,11 +25,11 @@ One of the things he is currently working on is a project called FarmBeats. Star
 
 ![](/images/ns4-3.png)
 
-Being aware of the high prices that the farmers would have to incur, the team made a bold statement - that they would make new tech to reduce costs by halves. One of the ways they devised was the use of TV WhiteSpaces. Using UHV and VHV spectrum to increase the effective area under Wi-Fi connectivity, a signal can be sent over twelve times the standard coverage area, without affecting any current broadcast. Another idea developed by them was to use balloons mounted with a phone to act as drones, and applying AI tech to check for properties like soil moisture, temperature, wind speed etc. Yet another method was to have Edge computers on each farm to handle the processing of data before sending them to the cloud.
+Being aware of the high prices that the farmers would have to incur, the team made a bold statement - that they would make new tech to reduce costs by halves. One of the ways they devised was the use of TV WhiteSpaces. Using UHV and VHV spectrum to increase the effective area under Wi-Fi connectivity, a signal can be sent over twelve times the standard coverage area, without affecting any current broadcast. Another idea developed by them was to use balloons mounted with a phone to act as drones and applying AI tech to check for properties like soil moisture, temperature, wind speed etc. Yet another method was to have Edge computers on each farm to handle the processing of data before sending them to the cloud.
 
 ![](/images/ns4-4.jpg)
 
-Ranveer’s passion and excitement towards data-driven agriculture was evident when he mentioned a paper that he was currently working on. As titled by Bill Gates in his blog “Can the Wifi chip in your phone help feed the world?”, this ingenious research primarily aims to reduce the cost of sensors so as to make it affordable to farmers in India and Africa. It deploys the use of the Wifi chip in the farmers’ phones and exploits the duration of the Wifi signal to calculate the moisture content and electrical conductivity of the soil. This innovative and out of the box idea has received several awards and secured global recognition.
+Ranveer’s passion and excitement towards data-driven agriculture were evident when he mentioned a paper that he was currently working on. As titled by Bill Gates in his blog “Can the Wifi chip in your phone help feed the world?”, this ingenious research primarily aims to reduce the cost of sensors so as to make it affordable to farmers in India and Africa. It deploys the use of the Wifi chip in the farmers’ phones and exploits the duration of the Wifi signal to calculate the moisture content and electrical conductivity of the soil. This innovative and out of the box idea has received several awards and secured global recognition.
 
 ![](/images/ns4-5.jpg)
 
