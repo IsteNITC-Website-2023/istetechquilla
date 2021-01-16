@@ -22,7 +22,7 @@ It all started when Sajan was in the 6th grade- he had fractured his leg and was
 
 During the current pandemic, while most of us are stuck at home brooding over what to do, Sajan enjoys, and even endorses the boredom. Even an act seemingly as boring as standing in a queue brought him joy, as he was able to observe the people and the world around him. He says, “Every moment is an opportunity, even the ones you think are the worst moments of your life”, for they bring with them a chance to grow. When asked for his advice to artists on staying inspired during the pandemic, he encouraged it as an opportunity to improve ourselves and build on our skills.
 
-![](/images/prof-neelakantan.jpg)**(One of the drawings Sajan did during class while at REC (Prof. Neelakantan)**
+![](/images/prof-neelakantan.jpg)**_(One of the drawings Sajan did during class while at REC; Prof. Neelakantan)_**
 
 Currently a Character Supervisor at Pixar Animation Studios, he has worked on several remarkable projects including Finding Nemo, Wall-E, Bao, the Cars series, and the Toy Story series. It was while working on these movies that Sajan realized the secret behind the magic of Pixar’s films- intense research and dedication. According to him, art and science should go hand-in-hand. The right blend of creativity and intelligence yields masterpieces.
 
@@ -38,7 +38,7 @@ But Sajan’s favourite movie, and also the one which led to his first major cre
 
 His second Oscar Award was as part of the team working on Toy Story 4. Recounting the origins of the series, he talks about the creation of Woody and the role he played in making the character, who has become as iconic as Mickey Mouse. He also demystified the myth about perfection- “Each movie was hard to make. Things always go wrong. The best way to succeed is to keep failing.”
 
-![](/images/prof-radhakrishnan.jpg)**(It's clear to see that Sajan was meant to go on and join the world of animation (Prof. Radhakrishnan)**
+![](/images/prof-radhakrishnan.jpg)**_(It's clear to see that Sajan was meant to go on and join the world of animation; Prof. Radhakrishnan)_**
 
 It may seem hard to believe that someone who walked down the same Rajpath as us has gone on to have such an impact on our world. But Sajan Skaria found his passion, grasped it tight, and gave our world beautiful stories, showing us the tangibility of possibilities. He teaches us that passion is the energy which fuels our visions, and brings us focus and joy. He leaves us with the lesson that each of us holds immense power and potential within ourselves, just like each of his beloved characters.
 
