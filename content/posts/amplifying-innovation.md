@@ -26,7 +26,7 @@ I am not a very technical person, so when I first joined the group, I came acros
 
 There is a network of all the IEEE chapters from colleges and organizations in the Malabar region. We update each other frequently on what is happening in each of our chapters. We promote their events and they do the same if we host one. So it's a pretty solid relationship among us, where we help each other out and collaborate as well.
 
-![](/images/ieee2.jpg)_ML workshop conducted in collaboration with IEEE VIT, 2019_
+![](/images/ieee2.jpg)(_ML workshop conducted in collaboration with IEEE VIT, 2019)_
 
 > **What are the advantages of being in a group like IEEE?**
 
