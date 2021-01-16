@@ -16,7 +16,7 @@ It all started with Robocon in 2012. A group of students from our college were l
 
 They approached Professor Sudheer from the Mechanical Engineering Department for his guidance, and he assigned them a few projects. In the initial phases, the students didn’t even have a workplace and would work on them from their hostels. Funding was also done from their own pockets. Around May of 2013, they showed their projects to the Director, who was impressed with their work and granted them permission to use the mechatronics lab 24/7 from that day onwards. Since then, we’ve been receiving funding from the institute to participate in Robocon and for all our other projects as well.
 
-![](/images/untitled1.png)(**Team RIG, 2013)**
+![](/images/untitled1.png)_(**Team RIG, 2013)**_
 
 > **What do you think RIG represents? What makes it different from the other technical groups?**
 
