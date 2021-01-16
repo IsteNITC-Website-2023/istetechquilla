@@ -40,6 +40,6 @@ A good point to note is the number of women who received the accolade this year.
 
 These men and women have broken barriers to help humanity solve challenges for its advancement. Their ingenuity and hard work have us taken one step ahead on the path of greater knowledge. They are an inspiration for all, and a true boon to mankind.
 
-_All the images are taken from the official Nobel Prize website_ [https://www.nobelprize.org/]()
+_All the images have been taken from the official Nobel Prize website_ [https://www.nobelprize.org/]()
 
 > _Abhishek Jain_
