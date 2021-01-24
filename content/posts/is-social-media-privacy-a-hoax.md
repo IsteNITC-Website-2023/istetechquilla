@@ -4,7 +4,6 @@ cover = "/images/is-social-media-privacy-a-hoax_-raidha.png"
 date = 2021-01-24T12:00:00Z
 description = "Who knows you best? Yourself, or Facebook?\n"
 designer = "Raidha Anwar"
-draft = true
 tags = []
 title = "IS SOCIAL MEDIA PRIVACY A HOAX?"
 
