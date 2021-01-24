@@ -5,7 +5,7 @@ date = 2021-01-24T05:31:00Z
 description = "Who knows you best? Yourself, or Facebook?\n"
 designer = "Raidha Anwar"
 tags = []
-title = "IS SOCIAL MEDIA PRIVACY A HOAX?"
+title = "Is Social Media Privacy A Hoax?"
 
 +++
 Years before corona, there was another pandemic that seized the world and continues to do so today. Technology has evolved from being a luxury to a need to now being a necessity for survival. To say the world is at the touch of our fingertips is an understatement.
