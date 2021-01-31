@@ -5,7 +5,7 @@ date = 2021-01-30T19:33:00Z
 description = " Exploring the tales behind this priceless sixteenth-century artwork"
 designer = "Adarsh Tulsyan"
 tags = []
-title = "What is so Intriguing about the Mona Lisa?"
+title = "Why is the Mona Lisa so Intriguing ?"
 
 +++
 The Louvre museum in Paris, despite containing some of the greatest masterpieces known to man, still brings only one name to mind - the Mona Lisa.
