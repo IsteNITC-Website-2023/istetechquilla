@@ -29,7 +29,6 @@ Appearances rule the world, and in a world where customers can easily fall prey 
 
 Though we can't avoid all the mobile data industry traps, we could save a fair amount of our money and data by following the above methods. With business taking up new devious forms, the day we will be charged for the exact amount of data we consume still lies far away.
 
-  
 _To watch the video by 2Degree, check out:_ [_https://youtu.be/LjbbCl6AuQQ_](https://youtu.be/LjbbCl6AuQQ "https://youtu.be/LjbbCl6AuQQ")
 
 > _Swathy Suresh_
