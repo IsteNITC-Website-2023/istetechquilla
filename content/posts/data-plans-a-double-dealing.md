@@ -1,7 +1,7 @@
 +++
 author = "Swathy Suresh"
 cover = "/images/b8fd688a-0b40-4721-aa3b-63d3e6fa87d5.png"
-date = 2021-02-06T20:30:00Z
+date = 2021-02-07T08:30:00Z
 description = "Uncovering the truth behind the mobile data business. \n"
 designer = "R Geetha "
 tags = []
