@@ -1,9 +1,9 @@
 +++
 author = "Swathy Suresh"
-cover = ""
+cover = "/images/f91ed8de-cd3c-44d4-a806-5c26f43065cd.png"
 date = 2021-02-06T20:30:00Z
 description = "Uncovering the truth behind the mobile data business. \n"
-designer = ""
+designer = "Geetha "
 draft = true
 tags = []
 title = "Data Plans: A Double-dealing?"
