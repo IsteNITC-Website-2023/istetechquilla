@@ -1,10 +1,9 @@
 +++
 author = "Abhishek Jain"
-cover = "/images/can-min.jpg"
+cover = "/images/can.jpg"
 date = 2021-02-13T19:30:00Z
 description = "Predicting the type of a particle using a classification algorithm."
 designer = "M. Jashwanth"
-draft = true
 tags = []
 title = "Can data tell us stories?"
 
