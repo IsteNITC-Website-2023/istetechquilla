@@ -1,6 +1,6 @@
 +++
 author = "Abhishek Jain"
-cover = "/images/can1-1.png"
+cover = "/images/can-min.jpg"
 date = 2021-02-13T19:30:00Z
 description = "Predicting the type of a particle using a classification algorithm."
 designer = "M. Jashwanth"
