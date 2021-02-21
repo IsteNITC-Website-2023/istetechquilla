@@ -1,7 +1,7 @@
 +++
 author = "Rahul Ekkanath"
 cover = "/images/21st-the-enigma-of-the-butterfly-effect-ujwal-karthikeya.jpg"
-date = 2021-02-20T19:30:00Z
+date = 2021-02-21T10:30:00Z
 description = "An interpretation of the chaotic nature of the universe. \n"
 designer = "Ujwal Karthikeya"
 draft = true
