@@ -24,7 +24,7 @@ Science depends on a level of predictability of events in order to make observat
 
 Numerous authors and other personalities have urged us to do better in life by stating the fact that if we strive to do just 1% better every day, then at the end of the year, we would be an entirely different person as compared to if we had done nothing. As trivial as it may sound, they are not wrong! The math involved is pretty simple - doing nothing would mean that you are the same person you started off as:
 
-(1)365 = 1
+(1)^365 = 1
 
 But take a look at what happens when you do 1% better every day:
 
@@ -32,4 +32,4 @@ But take a look at what happens when you do 1% better every day:
 
 One could argue that great personalities such as Rosa Parks and Mahatma Gandhi were all cogs in a gigantic system that made substantial change with small but meaningful actions. Everything we do, irrespective of the size of the action, is capable of altering the future. As Mahatma Gandhi once said, “Be the change you wish to see in the world”.
 
-_Rahul Ekkanath_
+> _Rahul Ekkanath_
