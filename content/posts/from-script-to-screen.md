@@ -5,7 +5,7 @@ date = 2021-03-09T07:30:00Z
 description = "The fifth edition of Newton Speaks saw Pete Michels, the Supervising Director of popular shows like Rick and Morty, Family Guy, and The Simpsons, take us on a tour of the animations and behind-the-scenes of our favourite sitcoms."
 designer = "Raidha Anwar"
 draft = true
-tags = []
+tags = ["newtonspeaks"]
 title = "From Script to Screen"
 
 +++
