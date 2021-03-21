@@ -20,7 +20,7 @@ Our memories are constantly accumulating information to figure out what's useful
 
 Some hypothesize that deja vu is a survival instinct. Our brains are persistently scanning our senses to determine if what we are experiencing is familiar and later play back memories to prepare for a flight or fight response. Scientists claim that deja vu might also be a hiccup in the process of memory consolidation. Instead of sending a memory to long-term storage, the brain shuttles it to a different destination and we are left with the feeling that we have seen this before.
 
-Yet another theory states that deja vu is associated with [false memorie](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4268540/)s. This would be similar to the feeling when you can’t differentiate between something that really happened versus a dream. While some suggest that deja vu is an experience you might have had in a parallel universe, others think it could be a sign that you are recalling an experience from a past life. Spooky, isn’t it?
+Yet another theory states that deja vu is associated with false memories. This would be similar to the feeling when you can’t differentiate between something that really happened versus a dream. While some suggest that deja vu is an experience you might have had in a parallel universe, others think it could be a sign that you are recalling an experience from a past life. Spooky, isn’t it?
 
 ![](/images/dejavu2.png)
 
