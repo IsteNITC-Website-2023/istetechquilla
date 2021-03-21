@@ -4,7 +4,6 @@ cover = "/images/dejavu-rakesh.jpg"
 date = 2021-03-20T19:30:00Z
 description = "Next time you experience something you think you’ve experienced before, think again!\n"
 designer = "G Rakesh"
-draft = true
 tags = []
 title = "Deja vu: Our brain's fact-checker!"
 
