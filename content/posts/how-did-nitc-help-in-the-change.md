@@ -4,7 +4,6 @@ cover = "/images/365-days-of-pandemic-jashwanth.png"
 date = 2021-03-27T07:30:00Z
 description = "Read all about NITC’s contributions to help fight the Covid-19 pandemic and the people who spearheaded these projects."
 designer = "M Jashwanth"
-draft = true
 tags = ["365DaysOfPandemic"]
 title = "How did NITC help in the change?"
 
