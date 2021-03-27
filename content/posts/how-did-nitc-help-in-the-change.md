@@ -1,11 +1,11 @@
 +++
 author = ""
 cover = "/images/365-days-of-pandemic-jashwanth.png"
-date = 2021-03-27T19:30:00Z
-description = "Read all about NITC’s contributions to help fight the Covid-19 pandemic and the people who spearheaded these projects.\n"
-designer = ""
+date = 2021-03-27T07:30:00Z
+description = "Read all about NITC’s contributions to help fight the Covid-19 pandemic and the people who spearheaded these projects."
+designer = "M Jashwanth"
 draft = true
-tags = []
+tags = ["365DaysOfPandemic"]
 title = "How did NITC help in the change?"
 
 +++
@@ -130,7 +130,7 @@ Additionally, it doesn't require any electricity to operate, making it a clean i
 
 ![](/images/pasted-image-0-11.png)
 
-**Some of the other contributions made by our college in the past year of lockdown include:**
+#### **Some of the other contributions made by our college in the past year of lockdown include:**
 
 * Development of a nasal air filter, which can be used to disinfect the air (inhale/exhale) containing the coronavirus.
 * UV Disinfection Towers were developed internally; these can be used for disinfecting classrooms and offices.
