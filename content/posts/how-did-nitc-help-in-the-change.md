@@ -15,7 +15,7 @@ NITC did not lag behind in accepting these, and also contributed positively to t
 
 ![](/images/for-artice-madhukumar-sir.png)
 
-# **1. HOSTELS TURNED INTO COVID CARE CENTRES**
+## **1. HOSTELS TURNED INTO COVID CARE CENTRES**
 
 One of the major contributions to help in the pandemic was lending out the Mega Boys Hostel and MBA hostels, comprising 550+ rooms with two-bed facilities, as Covid Care Centres, which were later turned to Covid First-Line Treatment Centres (FLTC).
 
@@ -25,7 +25,7 @@ FLTCs act as the primary-level healthcare centre for treating all mild and moder
 
 All of the student’s belongings were shifted and the hostel was handed over to the District Administration. Doctors and health staff were available regularly, and food was supplied by volunteers on duty at our centre. This ensured that COVID hospitals were not over-crowded and people with mild symptoms were getting the care and treatment they need without having to visit the hospitals. This also turned out to be a great support for people returning from overseas.
 
-# **2. AUTOMATIC BAGGAGE UV SANITIZATION MACHINE**
+## **2. AUTOMATIC BAGGAGE UV SANITIZATION MACHINE**
 
 During the early days of the COVID-19 lockdown, NIT Calicut along with other premier technical institutes, took initiative to develop various equipment and devices designed to combat the pandemic. The need for an effective mechanism to disinfect the baggage of students and staff who would return to campus once the lockdown was lifted was sensed by the authorities. A team of faculties and students led by Dr. R Manu, Mechanical Engineering Dept., proposed a project to design, fabricate and install automatic baggage sanitization machines at all entry points in the campus which would effectively prevent the transmission of the virus through bags.
 
@@ -45,7 +45,7 @@ The team consisted of:
 * EMU Staff: Mr. Prajith
 * Graphic Artist: Mr. Chandramohanan
 
-# **3. SANITIZER**
+## **3. OUR OWN HAND SANITIZERS**
 
 The pandemic caused the health centre to move from its role of reactive help provided to the student community, to proactively working for the prevention of the spread of disease by ensuring strict adherence to COVID protocol in day to day activities of the institute. One of the initial steps that the NITC Health Centre recommended was the provision of handwashing facilities, temperature scanning machines and an adequate supply of sanitisers at all entry points of the institute.
 
@@ -61,7 +61,7 @@ In the words of Dr. Anu Mary Chacko (Assistant Professor at the CSE Dept & Facul
 
 ![](/images/pasted-image-0-6.png)
 
-# **4. 3D-PRINTED FACE SHIELDS AND MASKS**
+## **4. 3D-PRINTED REUSABLE FACE SHIELDS AND MASKS**
 
 Dr. P K Rajendrakumar (Professor), Akhil V M and Ambika P S (Research Scholars) at the Design Innovation Centre of the Mechanical Engineering Department, have developed 3D-printed reusable PLA face shields and masks for medical purposes. 3D printing, commonly referred to as additive manufacturing, creates three-dimensional parts from computer-aided design (CAD) models by successively adding material layer by layer until the physical object is created. These face shield frames and face masks have been manufactured using PLA material on the Raise3D machine available at NIT Calicut.
 
@@ -75,7 +75,7 @@ Face Mask: The team has developed a prototype for a durable, lightweight, reusab
 
 ![](/images/pasted-image-0-9.png)
 
-# **5. UV DISINFECTION CHAMBERS**
+## **5. UV DISINFECTION CHAMBERS**
 
 The UV disinfection chambers were built on the suggestion of the previous Director of NIT Calicut, Prof. Shivaji Chakravorty, to reduce the spread of microorganisms by sanitizing medium-sized objects, such as paper files coming to offices, being handled by the officials.
 
@@ -96,7 +96,7 @@ The team consisted of:
 * Mr. Arun R, Research Scholar, Department of Physics
 * Mr. Sreenath, M. Tech
 
-# **6. EMERGENCY VENTILATOR**
+## **6. EMERGENCY VENTILATOR**
 
 Dr. Sajith V (Head of School of Materials Science and Engineering), Mr. Arun Kumar (Incubatee of TBI) and Mr. Ananadan K R (Senior Mechanic, Dept. of Electronics and Communication Engineering) developed the "emergency ventilator with exhale disinfector". It is a reusable respiratory device used to provide positive pressure ventilation to patients who face difficulty in breathing. Conventionally, this bag is operated manually. But in the present model, the operation of the AMBU (Artificial Manual Breathing Unit) bag has been made automatic using the Wiper motor of automobiles.
 
@@ -106,7 +106,7 @@ Another unique feature of the ventilator is that it filters the infectious exhal
 
 ![](/images/c-szv2umdl5dph3umgucj9qowm0z3uhxzq2cxdifqqjgxirv52wd51onohxsxs1djy7rhohakr8tggr3ecqoynisuxhfxfchmvohkjfcg1z2nxwggm_j67yt1o5fe-uybrkkh9sx.png)
 
-# **7. REUSABLE AEROSOL BOXES**
+## **7. REUSABLE AEROSOL BOXES**
 
 The aerosol containment boxes are primarily used for protecting doctors, especially anesthesiologists, by protecting them from aerosols and droplets containing virus during intubation of patients. The material used to design the box is a sheet of clear acrylic, readily available in the market; the total cost comes to be around Rs. 3500. Advanced cutting machines, like LASER cutting instruments, are used to achieve precision and dimensional accuracy while fabricating the boxes.
 
@@ -120,7 +120,7 @@ As these boxes are made of acrylic, they can be sanitised and reused easily. The
 
 ![](/images/pasted-image-1.jpg)
 
-# **8. IRIS LOWT**
+## **8. IRIS LOWT**
 
 This is a product straight from the TBI at NITC. The leg-operated water taps, or “LOWT” for short, is an innovation brewed up in IRIS Alternative solutions, which is led by Mr Babu Mathew. With the vision of helping out nature by saving water, it is a patented, pedal-operated, water-saving device for faucets. Widely used during the pandemic, the LOWT offered a cheap, sustainable solution to a very common problem.
 
