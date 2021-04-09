@@ -4,7 +4,7 @@ cover = "/images/unraveling-ribosomes-ns-w_-ada-yonath-raidha.png"
 date = 2021-04-08T19:30:00Z
 description = "The sixth edition of Newton Speaks saw Dr. Ada E. Yonath - Israeli protein crystallographer who was awarded the 2009 Nobel Prize in Chemistry -  take us through an engaging conversation about ribosomes and new generation antibiotics. Not only was she the first woman from the Middle East to win a Nobel Prize, but she was also the first woman in 45 years to win the award in Chemistry."
 designer = "Raidha Anwar"
-tags = []
+tags = ["#newtonspeaks"]
 title = "UNRAVELING RIBOSOMES AND BREAKING BARRIERS"
 
 +++
