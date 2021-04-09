@@ -30,8 +30,7 @@ Just after her fascinating talk about her research, Yonath shared with the audie
 
 Many would consider Yonath’s voice a refreshing addition to the STEM community, one which has largely been dominated by men. One prominent question asked during the event was about her opinion on the lack of women in the field of STEM. She believes that one of the reasons for this could be because women are not encouraged to become scientists. However she pushed herself to pursue her scientific career and while she was within the field, never felt a victim of gender discrimination. Her experiments and techniques were constantly questioned, not because she was a woman, but because of the scepticism that came with the feat.
 
-  
-![](/images/ada5.jpg)**_(A caricature of Dr. Ada Yonath drawn by the artist _____ )_**
+![](/images/ada5.jpg)**_(A caricature of Dr. Ada Yonath )_**
 
 A heartwarming moment in the talk was when she proudly presented her granddaughter’s certificate painting that said ‘The grama of the year is Ada Yonath!’. While society questions the ability of women to have a healthy home life along with a successful career, Yonath has demonstrated through her life that women do not have to choose one over the other.
 
