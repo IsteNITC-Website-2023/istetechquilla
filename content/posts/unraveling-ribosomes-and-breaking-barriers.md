@@ -11,7 +11,7 @@ title = "Unraveling Ribosomes and Breaking Barriers"
 +++
 Prof. Ada Yonath is a true pioneer - discovering, spearheading and constantly challenging the boundaries of what we know. Not only was she the first woman from the Middle East to win a Nobel Prize, but she was also the first woman in 45 years to win the award in Chemistry.
 
-> The sixth edition of Newton Speaks saw Dr. Ada E. Yonath - Israeli protein crystallographer who was awarded the 2009 Nobel Prize in Chemistry - take us through an engaging conversation about ribosomes and new generation antibiotics.
+> _The sixth edition of Newton Speaks saw Dr. Ada E. Yonath - Israeli protein crystallographer who was awarded the 2009 Nobel Prize in Chemistry - take us through an engaging conversation about ribosomes and new generation antibiotics._
 
 Born in Jerusalem in 1939 to a poor family, Yonath’s childhood was not without its challenges. However, her curiosity knew no bounds, and she grew up questioning everything she saw and experienced. A true testimony to her curiosity was her first experiment which she conducted enthusiastically at the young age of five. She set out to find the height of the ceiling of their family’s apartment by stacking the furniture in the house. The experiment was short-lived and concluded with a broken arm. But her mind refused to stop questioning and, if anything, made her more curious of the world around her.
 
@@ -33,11 +33,11 @@ Her subsequent research discovered the mechanism of action of five antibiotic dr
 
 ![](/images/ada4.png)
 
-Just after her fascinating talk about her research, Yonath shared with the audience her latest discoveries and developments in this field, post-Nobel. The Q&A session at the end of the talk included a wide range of questions on ribosome structure, modern techniques and antibiotics resistance. Her passion for this subject was made more evident by her detailed and energetic responses to the questions. What was most striking was her willingness to say _“I don’t know”_, when questions fell outside her area of expertise. Given her life story and work, it is not surprising that her advice to excel in this domain is to simply _“Be curious”_. 
+Just after her fascinating talk about her research, Yonath shared with the audience her latest discoveries and developments in this field, post-Nobel. The Q&A session at the end of the talk included a wide range of questions on ribosome structure, modern techniques and antibiotics resistance. Her passion for this subject was made more evident by her detailed and energetic responses to the questions. What was most striking was her willingness to say _“I don’t know”_, when questions fell outside her area of expertise. Given her life story and work, it is not surprising that her advice to excel in this domain is to simply _“Be curious”_.
 
 Many would consider Yonath’s voice a refreshing addition to the STEM community, one which has largely been dominated by men. One prominent question asked during the event was about her opinion on the lack of women in the field of STEM. She believes that one of the reasons for this could be because women are not encouraged to become scientists. However she pushed herself to pursue her scientific career and while she was within the field, never felt a victim of gender discrimination. Her experiments and techniques were constantly questioned, not because she was a woman, but because of the skepticism that came with the feat.
 
-![](/images/ada-yonath-caricature-by-michel-kichka.jpg)**_(A caricature of Dr. Ada Yonath drawn by the Israeli artist Michel Kichka)_**
+**_![](/images/ada-yonat-nobel-prize-2009.jpg)(A caricature drawn by the Israeli artist MICHEL KICHKA, as a present to Ada Yonath when she won the Nobel Prize in 2009. His works can be found here-_** [Michel Kichka | mon blog-note](https://fr.kichka.com/)**_)_**
 
 A heartwarming moment in the talk was when she proudly presented her granddaughter’s certificate painting that said ‘The grama of the year is Ada Yonath!’. While society questions the ability of women to have a healthy home life along with a successful career, Yonath has demonstrated through her life that women do not have to choose one over the other.
 
