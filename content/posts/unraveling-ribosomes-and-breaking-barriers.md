@@ -2,13 +2,14 @@
 author = "Anna Susan Cherian and Gauri Nair V"
 cover = "/images/unraveling-ribosomes-ns-w_-ada-yonath-raidha.png"
 date = 2021-04-08T19:30:00Z
-description = "The sixth edition of Newton Speaks saw Dr. Ada E. Yonath - Israeli protein crystallographer who was awarded the 2009 Nobel Prize in Chemistry -  take us through an engaging conversation about ribosomes and new generation antibiotics. Not only was she the first woman from the Middle East to win a Nobel Prize, but she was also the first woman in 45 years to win the award in Chemistry."
+description = "The sixth edition of Newton Speaks saw Dr. Ada E. Yonath - Israeli protein crystallographer who was awarded the 2009 Nobel Prize in Chemistry -  take us through an engaging conversation about ribosomes and new generation antibiotics."
 designer = "Raidha Anwar"
-tags = ["#newtonspeaks"]
-title = "Unraveling Ribosomes and breaking barriers"
+draft = true
+tags = ["newtonspeaks"]
+title = "Unraveling Ribosomes and Breaking Barriers"
 
 +++
-The sixth edition of Newton Speaks saw Dr Ada E. Yonath - Israeli protein crystallographer who was awarded the 2009 Nobel Prize in Chemistry - take us through an engaging conversation about ribosomes and new generation antibiotics. Not only was she the first woman from the Middle East to win a Nobel Prize, but she was also the first woman in 45 years to win the award in Chemistry.
+> The sixth edition of Newton Speaks saw Dr Ada E. Yonath - Israeli protein crystallographer who was awarded the 2009 Nobel Prize in Chemistry - take us through an engaging conversation about ribosomes and new generation antibiotics.
 
 Born in Jerusalem in 1939 to a poor family, Yonath’s childhood was not without its challenges. However, her curiosity knew no bounds, and she grew up questioning everything she saw and experienced. A true testimony to her curiosity was her first experiment which she conducted enthusiastically at the young age of five. She set out to find the height of the ceiling of their family’s apartment by stacking the furniture in the house. The experiment was short-lived and concluded with a broken arm. But her mind refused to stop questioning and, if anything, made her more curious of the world around her.
 
