@@ -12,7 +12,7 @@ _The old-fashioned radio with its big antenna has neither the convenience of a B
 
 ![](/images/3fe7e150-ea07-4794-9f61-408bce87bdf3.png)
 
-In this rapidly-changing, temporary world, holding on to sentimental pieces of our past, to a different time, has become an innovative commodity. Nostalgia plays a big part in the popularity of retro-tech. Nostalgia brings back the memories and emotions connected to our past experiences, which build the foundations of our present selves. In other words, nostalgia sells!
+In this rapidly changing, temporary world, holding on to sentimental pieces of our past, to a different time, has become an innovative commodity. Nostalgia plays a big part in the popularity of retro-tech. Nostalgia brings back the memories and emotions connected to our past experiences, which build the foundations of our present selves. In other words, nostalgia sells!
 
 Youngsters follow trends not just to fit in, but also perhaps to find their own identity or a sense of individuality. This is why even vintage fashion has made a comeback in recent years. The youth of today love playing with styles that are comfortable but also deemed ‘quirky.’ All of these things have led to the infusion of retro-tech and styles into pop culture.
 
@@ -30,12 +30,12 @@ The unparalleled artistry and the vintage vibe that the older gadgets offer are 
 
 ![](/images/2e4b2727-7d4e-489d-be31-a7f00afb16c3.png)![](/images/fe12a5a8-624c-4eff-9b92-6efb563f7435.png)
 
-The thrill that the rasping mono cassette player and the rotary dial telephone elicits is directly linked to the aesthetic familiarity it provides. The happiness that sparkles with the coffee printed photos that give the vintage vibe of an old camera is another pleasure in itself. A pixel on a cathode ray-tube monitor is far more artistically appealing with its soft low-resolution quality than a modern-day display.
+The thrill that the rasping mono cassette player and the rotary dial telephone elicits is directly linked to the aesthetic familiarity it provides. The happiness that sparkles with the coffee printed photos that give the vintage vibe of an old camera is another pleasure in itself. A pixel on a cathode-ray-tube monitor is far more artistically appealing with its soft low-resolution quality than a modern-day display.
 
 Even Sony celebrated its revolutionary Walkman's anniversary by releasing a modern audio player styled identically to its 1979 cousin. Compared to a practical individual, the ones seeking aesthetics are willing to pay more for higher quality or for a more authentic experience.
 
-In today's world, with advancements in technology inching towards a new peak every day, we still yearn for the nostalgia, for our innocent childhood when technology was as young as we were. The "outdated" tech is undoubtedly making a comeback, and the reason lies in the simple truth that humans want the excitement of something new and the familiarity of something old, and retro-tech provides it to us on a silver platter, waiting to be relished.
-
 ![](/images/2031bb4c-b065-4753-8f7c-0aeb65662975.jpeg)
 
-> _Sreelakshmi Ranjit_
+In today's world, with advancements in technology inching towards a new peak every day, we still yearn for the nostalgia, for our innocent childhood when technology was as young as we were. The "outdated" tech is undoubtedly making a comeback, and the reason lies in the simple truth that humans want the excitement of something new and the familiarity of something old, and retro-tech provides it to us on a silver platter, waiting to be relished.
+
+> _Sreelakshmi Ranjith_
