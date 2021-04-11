@@ -4,7 +4,6 @@ cover = "/images/c45d556a-1cce-4ffe-8233-ebca6fd58166.jpeg"
 date = 2021-04-10T19:30:00Z
 description = "They say old is gold - here’s why."
 designer = "Neema Biju"
-draft = true
 tags = []
 title = "The Comeback of Retro-Tech"
 
@@ -36,5 +35,7 @@ The thrill that the rasping mono cassette player and the rotary dial telephone e
 Even Sony celebrated its revolutionary Walkman's anniversary by releasing a modern audio player styled identically to its 1979 cousin. Compared to a practical individual, the ones seeking aesthetics are willing to pay more for higher quality or for a more authentic experience.
 
 In today's world, with advancements in technology inching towards a new peak every day, we still yearn for the nostalgia, for our innocent childhood when technology was as young as we were. The "outdated" tech is undoubtedly making a comeback, and the reason lies in the simple truth that humans want the excitement of something new and the familiarity of something old, and retro-tech provides it to us on a silver platter, waiting to be relished.
+
+![](/images/d5583b0c-fcf2-443c-9c78-44afbea58321.jpeg)![](/images/250acf10-8069-4c33-b684-5dc4ce9753b8.jpeg)![](/images/e7635ea0-7a84-4536-a927-ee31036aa920.jpeg)![](/images/a0f817a5-a96c-4df7-a498-ca149cd36f71.jpeg)![](/images/c15a7b2c-cda1-456e-a4a6-367cd9818ab0.jpeg)![](/images/9ba19f49-7c5c-4fb3-a2f0-017849a1bbb5.jpeg)
 
 > _Sreelakshmi Ranjit_
