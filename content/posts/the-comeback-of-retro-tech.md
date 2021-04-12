@@ -16,6 +16,8 @@ In this rapidly changing, temporary world, holding on to sentimental pieces of o
 
 Youngsters follow trends not just to fit in, but also perhaps to find their own identity or a sense of individuality. This is why even vintage fashion has made a comeback in recent years. The youth of today love playing with styles that are comfortable but also deemed ‘quirky.’ All of these things have led to the infusion of retro-tech and styles into pop culture.
 
+![](/images/retro1.png)
+
 Technology companies are able to bridge the generation gap by pulling on the heartstrings of their consumers and making them yearn for an experience that they emotionally connect to. Millennials have fallen prey to the nostalgia trap caused by the familiarity of the unplugged _real_ world. Reaching out to older devices with basic functions such as alarm clocks, cameras, gramophone, DVD players seems like an escape from the constant "tied-up" world of smartphones and computers.
 
 Even with applications such as Grammarly that aid in the development of writing skills, some still prefer to hone their skills on an age-old typewriter. The film camera that should have become obsolete in this digital age has made quite a spectacular comeback with Fujifilm seeing an unexpected rise in the sales of Polaroid cameras in recent years. The music industry first went digital in the 1990s with the advent of MP3-players and later, iPods. Today, even with streaming applications like Spotify which study your favourite music and recommend songs and curate playlists for you, people still seek out vinyl records. This medium of listening to music is so popular that even the artists on the Billboard Hot 100 Chart release their music both digitally and pressed to vinyl.
