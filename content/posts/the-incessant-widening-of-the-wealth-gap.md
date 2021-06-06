@@ -3,7 +3,7 @@ author = "Shaheen Rafiq"
 cover = "/images/wealthgap-likitha.jpg"
 date = 2021-06-06T10:30:00Z
 description = "Why do the rich stay rich and the poor remain poor?"
-designer = "Likitha"
+designer = "T Likitha"
 tags = []
 title = "The Incessant Widening of the Wealth Gap"
 
