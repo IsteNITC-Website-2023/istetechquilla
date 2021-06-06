@@ -1,10 +1,9 @@
 +++
 author = "Shaheen Rafiq"
 cover = "/images/wealthgap-likitha.jpg"
-date = 2021-06-05T19:30:00Z
+date = 2021-06-06T10:30:00Z
 description = "Why do the rich stay rich and the poor remain poor?"
 designer = "Likitha"
-draft = true
 tags = []
 title = "The Incessant Widening of the Wealth Gap"
 
@@ -29,9 +28,8 @@ The presented situation is in stark contrast to the other end of the economic sp
 
 > _But how can this predicament be resolved?_
 
-In order to build economies that work for *all* sections of society, governments must prioritize care as being as important as all other sectors. Females are often the ones who have to suffer most as they are forced into a spiral of cooking, cleaning and other chores even at a tender age, and are rarely considered worthy of education. It is estimated that women and girls put in a whopping 3.26 billion hours of unpaid care work each and every day.
+In order to build economies that work for _all_ sections of society, governments must prioritize care as being as important as all other sectors. Females are often the ones who have to suffer most as they are forced into a spiral of cooking, cleaning and other chores even at a tender age, and are rarely considered worthy of education. It is estimated that women and girls put in a whopping 3.26 billion hours of unpaid care work each and every day.
 
-  
 ![](/images/w3.png)**_![](/images/w4.png)(The substandard living conditions of the poor in India)_**
 
 Direct public investments in water and sanitation, electricity, childcare, and healthcare could save women a lot of time and improve their quality of life. For example, providing access to an improved water source would mean women wouldn’t have to walk miles in order to collect a few liters of water.
