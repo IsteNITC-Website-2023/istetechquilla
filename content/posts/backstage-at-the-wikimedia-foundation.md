@@ -4,7 +4,6 @@ cover = "/images/ns-7-toby-negrin-raidha.png"
 date = 2021-06-22T19:30:00Z
 description = "The seventh edition of Newton Speaks saw Toby Negrin, Chief Product Officer for the Wikimedia Foundation, share his decades of experience in integrating data, research, and design to produce popular products that we all love and admire. His cheerfulness and passion for his work, well conveyed through his talk about what goes behind the curtains at the Wikimedia Foundation, gave the audience an insightful evening."
 designer = "Raidha Anwar"
-draft = true
 tags = ["newtonspeaks"]
 title = "Backstage at the Wikimedia Foundation"
 
@@ -23,7 +22,7 @@ On January 15, 2021, Wikipedia celebrated its 20th anniversary. Toby describes t
 
 With team members in several parts of the world, including India and Bangladesh, Toby also addressed the importance of the work done at Wikimedia - providing people information in times of crisis, when they need it the most. “We especially know how important this is during the current pandemic situation. Our team thinks of technology in a way that aligns with our social values.” Essentially, it’s product development with a mission - trying to build tools that align with the foundation’s core values, making sure that everyone is involved, and taking transparent decisions. Ethical product development helps the developers think about biases that may creep into the tools they build and make sure that any product created aligns with our fundamental social and human values.
 
-**![](/images/asia-wiki.png)A snapshot of Wikimedia education activities in Asia**
+**![](/images/asia-wiki.png)    A snapshot of Wikimedia education activities in Asia**
 
 So what does a day in the life of the Chief Product Officer at Wikimedia look like? It’s pretty simple - starting the day out with some kind of a plan and sticking to it. “As a Chief Product Officer, I have to be responsible for thinking about the strategy, the future, our operations and how we actually do the work, and finally, our culture - how we treat each other,” he says.
 
