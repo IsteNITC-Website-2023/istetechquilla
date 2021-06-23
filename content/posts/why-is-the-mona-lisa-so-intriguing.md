@@ -2,7 +2,7 @@
 author = "Upasana Sasikumar"
 cover = "/images/8be6545f-a1a2-4395-866d-a4925ffa9420.png"
 date = 2021-01-30T19:30:00Z
-description = " Exploring the tales behind this priceless sixteenth-century artwork."
+description = "Exploring the tales behind this priceless sixteenth-century artwork."
 designer = "Adarsh Tulsyan"
 tags = []
 title = "Why is the Mona Lisa so Intriguing ?"
