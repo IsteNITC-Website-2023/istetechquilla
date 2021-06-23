@@ -1,7 +1,7 @@
 +++
 author = "Upasana Sasikumar and Sreelaksmi Ranjith"
 cover = "/images/ns-7-toby-negrin-raidha.png"
-date = 2021-06-23T17:30:00Z
+date = 2021-06-23T10:30:00Z
 description = "The seventh edition of Newton Speaks saw Toby Negrin, Chief Product Officer for the Wikimedia Foundation, share his decades of experience in integrating data, research, and design to produce popular products that we all love and admire. His cheerfulness and passion for his work, well conveyed through his talk about what goes behind the curtains at the Wikimedia Foundation, gave the audience an insightful evening."
 designer = "Raidha Anwar"
 tags = ["newtonspeaks"]
