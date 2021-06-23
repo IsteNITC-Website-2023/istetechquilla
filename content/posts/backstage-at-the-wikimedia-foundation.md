@@ -48,4 +48,6 @@ For many technologists, not blurring the boundaries between what’s objectively
 
 And true to its name, Wikipedia has remained everything that it stands for.
 
+To watch a full video of the talk, check out: [https://youtu.be/ml9CmDHlyvs](https://youtu.be/ml9CmDHlyvs "https://youtu.be/ml9CmDHlyvs")
+
 > _Upasana Sasikumar & Sreelaksmi Ranjith_
