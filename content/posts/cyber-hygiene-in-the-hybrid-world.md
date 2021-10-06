@@ -1,5 +1,5 @@
 +++
-author = "Sneha Mary Biju and Adarsh"
+author = "Sneha Mary Biju and Aadarsh J"
 cover = "/images/whatsapp-image-2021-10-06-at-5-27-01-pm.jpeg"
 date = 2021-10-05T18:30:00Z
 description = "The eighth edition of Newton Speaks witnessed Rahul Tyagi, a cybersecurity expert and the co-founder of Safe Security, take us through his real-world encounters in dealing with cyber security breaches."
@@ -34,9 +34,10 @@ Recurring ransomware threats push the need to safely store confidential data in 
 
 The key takeaway from the session was knowing what SAFE Me, an application offered by Safe Securities Inc., entails. Rahul developed it in response to noticing the lack of awareness surrounding cyber security. The application focuses on three prime areas: dark web exposure, cybersecurity awareness and device security. Short video lessons on different aspects of cyber security are also available on the platform.
 
-  
 ![](/images/ns3.jpg)**The SAFE Me application- ‘Predicting cyber-breaches in real-time’**
 
 When asked about the best advice he would give to budding entrepreneurs, Rahul recollected his college days, wherein he developed a habit of giving his 100% to every task assigned to him - big or small. He alludes to working at a start-up before launching a venture to learn the corporate culture and experience its potential highs and lows.
 
 While cybersecurity continues to be Rahul’s passion, he is also exploring other technological areas. Throughout his career, he has inspired young people to take note of what it takes to rise as a prominent figure in a thriving, yet fiercely competitive industry, and continue to pass on its legacy to future generations.
+
+> Sneha Mary Biju and Aadarsh J
