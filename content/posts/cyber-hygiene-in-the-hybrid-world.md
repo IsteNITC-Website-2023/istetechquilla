@@ -4,7 +4,6 @@ cover = "/images/whatsapp-image-2021-10-06-at-5-27-01-pm.jpeg"
 date = 2021-10-05T18:30:00Z
 description = "The eighth edition of Newton Speaks witnessed Rahul Tyagi, a cybersecurity expert and the co-founder of Safe Security, take us through his real-world encounters in dealing with cyber security breaches."
 designer = "Irfan Muhammed Sageer"
-draft = true
 tags = []
 title = "Cyber Hygiene in the Hybrid World"
 
