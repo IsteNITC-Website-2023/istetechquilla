@@ -4,7 +4,6 @@ cover = "/images/mind-uploading.jpg"
 date = 2021-10-18T18:30:00Z
 description = "Can consciousness be transferred?"
 designer = "Sai Dath"
-draft = true
 tags = [""]
 title = "MIND UPLOADING – CAN CONSCIOUSNESS BE TRANSFERRED?"
 
@@ -17,7 +16,6 @@ Although the idea may seem quite surreal, we already have the majority of tools 
 
 The information and processes in mind have no “death” and hence, if separated from a biological body, can exist alone. If consciousness is transferred into the internet, it can potentially live forever, accessible to anyone who desires it. Transferring a mind into a simulated human body might give one a second chance at life. The simulated human however, would still be naïve to the real world, experiencing everything for the first time.
 
-  
 ![](/images/m1.jpg)
 
 Although it is a futuristic idea, mind – uploading does have many advantages. It can be implemented in lieu of cryonics, which is the low temperature freezing of human corpses with the hopes of resurrecting it. A computer based version of the mind can think faster. This could also serve as a means to preserve human society and its culture in case of global disasters. Not just that, these mind – files can help us assist in long and arduous space exploration.
@@ -28,12 +26,10 @@ Finally, we come to the question: Is mind uploading really possible?
 
 Moore’s law states that the computing power of technology doubles nearly every 1.5 years. Research is already underway involving new forms of memory storage that are exponentially more efficient than current technologies. Some futurists and scientists already claim that by 2045, mind uploading might actually become a reality.
 
-  
 ![](/images/m2.jpg)
 
 People's tendencies to separate mind and matter becomes especially relevant in this context, when the implications of such a revolutionary concept is being discussed. Soon enough, we can all choose to be immortal. We can digitize ourselves, making our minds accessible to anyone - breaking the barriers of any real privacy we have now .
 
 What would you choose?
 
->   
-> Natasha Das
+> _Natasha Das_
