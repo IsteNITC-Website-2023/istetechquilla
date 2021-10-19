@@ -4,7 +4,7 @@ cover = "/images/mind-uploading.jpg"
 date = 2021-10-18T18:30:00Z
 description = "Can consciousness be transferred?"
 designer = "Sai Dath"
-tags = [""]
+tags = []
 title = "MIND UPLOADING – CAN CONSCIOUSNESS BE TRANSFERRED?"
 
 +++
