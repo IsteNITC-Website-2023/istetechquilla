@@ -18,7 +18,7 @@ Spotify uses the stream counts of the tracks that people listen to as well as ot
 
 ![](/images/spot1.png)
 
-Just like other social media platforms, Spotify’s algorithm is driven by statistics. Spotify, unlike Netflix, does not have a star rating for its songs. Instead, Spotify is driven by implicit feedback, i.e., it isn't based on ratings but on the user’s interaction with its software. The main innards in Discover Weekly, it turns out, are other people. Spotify begins by looking at the 4 billion or so playlists created by its users—each one a reflection of some music fan’s tastes and sensibilities. Those human selections and the array of anthems form the core of Discover Weekly’s recommendations
+Just like other social media platforms, Spotify’s algorithm is driven by statistics. Spotify, unlike Netflix, does not have a star rating for its songs. Instead, Spotify is driven by implicit feedback, i.e., it isn't based on ratings but on the user’s interaction with its software. The main innards in Discover Weekly, it turns out, are other people. Spotify begins by looking at the 4 billion or so playlists created by its users - each one a reflection of some music fan’s tastes and sensibilities. Those human selections and the array of anthems form the core of Discover Weekly’s recommendations.
 
 #### **_The 30-second Spotify-friendly rule:_**
 
