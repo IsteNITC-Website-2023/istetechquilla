@@ -4,7 +4,6 @@ cover = "/images/techquilla-draft-spotify.jpg"
 date = 2021-11-27T19:30:00Z
 description = "Inside the magic behind Spotify’s recommendation algorithm."
 designer = "G M Himalatha "
-draft = true
 tags = []
 title = "Decoding Spotify's Recommendation Algorithm"
 
