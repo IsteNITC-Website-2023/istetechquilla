@@ -21,15 +21,15 @@ Spotify uses the stream counts of the tracks that people listen to as well as ot
 
 Just like other social media platforms, Spotify’s algorithm is driven by statistics. Spotify, unlike Netflix, does not have a star rating for its songs. Instead, Spotify is driven by implicit feedback, i.e., it isn't based on ratings but on the user’s interaction with its software. The main innards in Discover Weekly, it turns out, are other people. Spotify begins by looking at the 4 billion or so playlists created by its users—each one a reflection of some music fan’s tastes and sensibilities. Those human selections and the array of anthems form the core of Discover Weekly’s recommendations
 
-##### **_The 30-second Spotify-friendly rule:_**
+#### **_The 30-second Spotify-friendly rule:_**
 
 Spotify’s sweet spot for comprehending whether a user relishes a song seems to be 30 seconds. If a listener gets past the 30-second mark of the track - that’s a positive hint of data. Plus, that’s the point at which a stream is monetized. The spike in listeners, truncated skip times and listening to tracks just after release trigger the engine to drive other patrons to recommend these based on the experience of other listeners on the same tenet.
 
-![](/images/spot2.png)
+#### ![](/images/spot2.png)
 
 In a 2015 interview with Quartz, Spotify's Product Director, **Matthew Ogle,** who has since resigned from the company, mentioned that skipping before the 30-second mark is the equivalent of a thumbs down for the Discover Weekly playlist. The algorithm seems to be working very well for the streaming giant among other competitors.
 
-##### **OKAY, IT’S POPULAR. BUT WHY?**
+#### **OKAY, IT’S POPULAR. BUT WHY?**
 
 The first contrivance one notices on Spotify is on the home screen, where the computation starts and is governed by an AI system called _BaRT - Bandits for Recommendations as Treatments_. BaRT is the reason why one doesn’t go on searching for an appropriate playlist to listen to on Spotify. BaRT’s outcome totally depends on whether one listens to the tracks recommended in the ‘shelves’ or ‘rows’ on their home screen_. Collaborative filtering i_s one of the basic techniques for building recommender systems. In terms of Spotify, Discover Weekly and other playlists are created using collaborative filtering, based on the user’s listening history, in tandem with songs enjoyed by users who seem to have a similar history. Additionally, Spotify uses “Taste Analysis Data” to establish a Taste Profile. This technology, developed by Echo Nest, groups music users who frequently listen to into clusters and not genres, as the human categorization of music is largely dependent and are evident in Spotify’s Discover Weekly and Daily Mix playlists intimation, clustering algorithms that agnate to Spotify’s group data based on their resemblance.
 
