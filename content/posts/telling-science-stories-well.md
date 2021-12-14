@@ -17,11 +17,11 @@ One of the stalwarts of Indian science communication, Subhra has been instrument
 
 “Inspiring the next generation of researchers”, is how she describes the incredible work that Nature India has been doing since its inception. As one of the leading science magazines of the country, Nature India is responsible for curating and publishing research highlights, journalistic stories, opinion and comments around rigorously peer-reviewed science and issues of importance to India’s scientific community. Subhra calls the magazine, “the storytellers of Indian science for the world”.
 
-With years of experience as a science journalist, Subhra is a strong advocate of the art of story-telling. Explaining the power of story-telling, she emphasizes the relevance of a story to its readers. “Unusual, astounding and amusing” stories capture attention. Unique and topical stories keep the readers engaged and informed. Eliminating the jargon and converting science stories to understandable, impactful stories is at the heart of communicating science. 
+With years of experience as a science journalist, Subhra is a strong advocate of the art of story-telling. Explaining the power of story-telling, she emphasizes the relevance of a story to its readers. “Unusual, astounding and amusing” stories capture attention. Unique and topical stories keep the readers engaged and informed. Eliminating the jargon and converting science stories to understandable, impactful stories is at the heart of communicating science.
 
 It is no wonder that the ongoing pandemic has left its footprints on science communication. It has put communication and public trust in science to the test. Given the obscure and rapid-paced nature of the pandemic, the unknowns need to be conveyed to the public as much as the known. Calling it “communicating hope with limitations,” Subhra re-emphasizes Nature India’s role by talking about their special coverage on engineering solutions on COVID.
 
-![](/images/index1.jpg) 
+![](/images/index1.jpg)
 
 As stated by Subhra, switching from being verbose and eloquent to being simple and effective requires a copious amount of practice and style tweaking. According to her, ample reading of good prose in science communication can also help achieve this. Answering a question on her viewpoint on the scientific growth of India, she compliments the work done towards expanding the social impact of science, despite the lack of availability of resources and infrastructure.
 
