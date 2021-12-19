@@ -4,7 +4,6 @@ cover = "/images/img-20211219-wa0028.jpg"
 date = 2021-12-18T18:30:00Z
 description = "AI-powered marketing.\n"
 designer = "Bandi Tharun and Geddam Vivek"
-draft = true
 tags = []
 title = "Can AI help in achieving marketing goals?"
 
