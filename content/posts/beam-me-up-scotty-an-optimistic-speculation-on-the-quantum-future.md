@@ -42,3 +42,5 @@ From where we stand now, it's not possible to predict what the quantum future re
 If we are to ascend to a world of greatness, and have the remotest chance to clear up the mess we’ve gotten ourselves into, Quantum technology seems the only possible way. However, it's going to be a while before we can actually say “Beam me up, Scotty” and get instantly transported to our docked Starship and go on adventures using Quantum warp drives.
 
 ![](/images/tc4.jpg)
+
+> _S Likhith_
