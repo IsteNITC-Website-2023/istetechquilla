@@ -15,7 +15,6 @@ Never could the dreamers and the tinkerers of the 19th century predict the storm
 
 Today, we stand at the very cusp of such a revolution that could potentially allow us to transcend to the ultimate beings. Hints of the very same could be heard in the whisperings of the late 1900s. Quantum technology, as it is called, is simply bizarre, exciting and more importantly _mysterious_.
 
-  
 ![](/images/unnamed2.jpg)
 
 A completely counterintuitive concept that defies logic, quantum tech has the power to impact the world in such a way that it can be compared to the emergence of a God or an all-powerful entity. The world we live in is deep rooted in its belief of cause and effect with the former preceding the latter. All such notions are completely upended in the quantum world.
