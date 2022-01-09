@@ -1,7 +1,7 @@
 +++
 author = "S Likhith"
 cover = "/images/img-20220105-wa0088.jpg"
-date = 2022-01-09T10:30:00Z
+date = 2022-01-09T09:51:00Z
 description = "P.S: No physics equations involved. Promise."
 designer = "Jaljith S"
 tags = []
