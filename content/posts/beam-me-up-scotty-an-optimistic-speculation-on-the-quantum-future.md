@@ -4,7 +4,6 @@ cover = "/images/img-20220105-wa0088.jpg"
 date = 2022-01-09T10:30:00Z
 description = "P.S: No physics equations involved. Promise."
 designer = "Jaljith S"
-draft = true
 tags = []
 title = "“BEAM ME UP, SCOTTY”: An optimistic speculation on the quantum future"
 
