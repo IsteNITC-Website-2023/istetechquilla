@@ -43,4 +43,4 @@ If we are to ascend to a world of greatness, and have the remotest chance to cle
 
 ![](/images/tc4.jpg)
 
-> **S Likhith**
+> _S Likhith_
