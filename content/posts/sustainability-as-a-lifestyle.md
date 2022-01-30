@@ -9,7 +9,7 @@ tags = []
 title = "Sustainability As A Lifestyle"
 
 +++
-**“_Sustainable development meets the needs of the present without compromising the ability of future generations to meet their own needs.”_**                                  
+**“_Sustainable development meets the needs of the present without compromising the ability of future generations to meet their own needs.”_**                             
 
                                                                         Brundtland Commission Report, 1987
 
