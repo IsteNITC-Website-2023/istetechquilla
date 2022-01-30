@@ -11,7 +11,7 @@ title = "Sustainability As A Lifestyle"
 +++
 _"Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs."_
 
-                                                                                   -The Brundtland Report, 1987.
+\-The Brundtland Report, 1987.
 
 Sustainable development, as a concept, came into being at the start of the 20th century. Over the years, it made its way into textbooks, conferences, environmental summits, vision, and mission of institutional ventures and developed into an overarching paradigm of the United Nations - Sustainable Development Goals 2030. Needless to say, we as a global community have not yet realized the need, depth, and span of a sustainable lifestyle, even at the expense of a human-borne global pandemic.
 
