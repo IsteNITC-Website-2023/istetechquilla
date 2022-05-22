@@ -4,7 +4,6 @@ cover = "/images/lifi.png"
 date = 2022-05-21T18:30:00Z
 description = "Flash news:While WiFi is a household name now, we can’t use it forever."
 designer = "Jibran V"
-draft = true
 tags = []
 title = "Will Li-Fi replace Wi-Fi?"
 
@@ -24,3 +23,5 @@ A LiFi network can be created when each light source in a room is driven by a Li
 Currently, LiFi is still under testing and development. Given its potential, this technology can reach our homes in just a few years. The _Global Market for LiFi Technology Analysis and Forecast 2018-2028_ estimates that the global market will reach a value of near $36 billion in 2028_._ LiFi can scale up wireless communication anywhere globally, from aircraft to underwater ecosystems. Scientists have proven that a speed of 224 Gbit/s can be achieved with optimization. Since light does not penetrate walls, unlike radio waves, it ensures secure data transmission in a localized network. LiFi alleviates problems of interference with other systems and saturation of bandwidth. It also supports the vision of an environmentally sustainable future by consuming less power and providing accessibility even in remote locations. With LiFi, the Internet of Things can become a transcending phenomenon when proper lighting is all it takes to carry data. _“In the future, we will not only have 14 billion light bulbs, but we may also have 14 billion LiFis deployed worldwide for a cleaner, greener, and even brighter future,”_  Haas said.
 
 However, LiFi faces hurdles to commercialization even though there are arguments that it is a fifth-generation technology. LiFi demands line of sight and hence has limited coverage. It might not be effective to deploy LiFi outdoors with sunlight. Therefore, LiFi can be expected to complement WiFi to overcome bandwidth limitations and not replace it in a more realistic scenario shortly. However, with research, a future run by LiFi can become a reality.
+
+> Sneha Mary 
