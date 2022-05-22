@@ -5,7 +5,7 @@ date = 2022-05-21T18:30:00Z
 description = "Flash news:While WiFi is a household name now, we can’t use it forever."
 designer = "Jibran V"
 tags = []
-title = "Will Li-Fi replace Wi-Fi?"
+title = "Can Li-Fi replace Wi-Fi?"
 
 +++
 Gen Z is the luckiest of all generations to witness the most extensive integration of technology into the smallest of human needs and activities. We have come a long way from dial-up internet connections to taking _Alexa_ and _Siri_ as companions in daily life. It is surprising that before the concepts of internet and artificial intelligence were discussed, seeds of WiFi (Wireless Fidelity) were sown by Hedy Lamarr, a Hollywood star cum passionate engineer in 1942. But here is some flash news - while WiFi is a household name now, we can’t use it forever.
