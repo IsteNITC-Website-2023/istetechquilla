@@ -30,8 +30,6 @@ These theories are just the tip of the iceberg. Given the nature of the problems
 
 It's good to know that multiple social media platforms are doing their fair bit to limit the damage. However it's impossible for them to regulate the amount of content coming out of them. It is up to us to look beyond the imaginatively creative theories and examine them to ascertain its factualness.
 
-![](/images/28-4.png)
-
 The simple questions like - is there a plausible reason , has it been in line with the scientific evidence , and how practical is this- can allow us to separate reality from fiction. Given the enormity of the situation , there's a pressing need for us to become “truth detectives” and try to sort propaganda from reality. Despite everything ,the credit goes out for the person who came up with the monkey theory . It's simply ingenious.
 
 > S Likhith
