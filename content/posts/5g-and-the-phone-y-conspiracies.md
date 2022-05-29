@@ -20,11 +20,9 @@ One of the more popular theories is that the coronavirus was in fact a bioweapon
 
 The easiest victim for the conspiracy theorists was the rollout of 5G. With these two global phenomena happening simultaneously, the speculation about the link between them was quite natural. Radio waves spread computer viruses. Not biological viruses. The theory got so much traction that widespread destruction of the 5G infrastructure was reported at multiple locations worldwide. Quite ironically, one of the protesters spit on a London network engineer who was later believed to have contracted the coronavirus.
 
-None of the theories on 5G and its link to the pandemic stands the test of scientific evidence. Especially when we examine countries with no such technology battling against the disease, the whole correlation crumbles down. The whole issue seems to be a way for “certain” entities to exploit the ongoing crisis to advance geopolitical interests.
+Another such crazy idea revolves around our friendly neighborhood Microsoft guy- Bill Gates. All the billionaire did was fund a global vaccine research out of public goodwill and what he got in return was a custom curated theory on his secret goals to control the world through microchips in the vaccine. Quite the - Thank you Mr.Gates for your contribution. Here's a theory on how we think you are the evil Lord trying to create your own ‘Storm troopers’ via the vaccines.
 
 ![](/images/28-1.png)
-
-Another such crazy idea revolves around our friendly neighborhood Microsoft guy- Bill Gates. All the billionaire did was fund a global vaccine research out of public goodwill and what he got in return was a custom curated theory on his secret goals to control the world through microchips in the vaccine. Quite the - Thank you Mr.Gates for your contribution. Here's a theory on how we think you are the evil Lord trying to create your own ‘Storm troopers’ via the vaccines.
 
 These theories are just the tip of the iceberg. Given the nature of the problems that the world is battling today, such beliefs are extremely disastrous and dangerous as they take the spotlight away from actual concerns that need to be addressed. The crux of a conspiracy theory is that it appeals to the human tendency to believe that huge and era-defining events need to have a much bigger dramatic cause.
 
