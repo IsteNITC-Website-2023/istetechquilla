@@ -1,6 +1,6 @@
 +++
 author = "Sparsh Kumar Agarwal and Deepika Reddy"
-cover = ""
+cover = "/images/untitled-2.jpg"
 date = 2022-02-12T18:30:00Z
 description = ""
 designer = "Karanam Jyotsna"
