@@ -1,6 +1,6 @@
 +++
 author = "Sparsh Kumar Agarwal and Deepika Reddy"
-cover = "/images/untitled-2.jpg"
+cover = "/images/multiverse-cover.jpeg"
 date = 2022-02-12T18:30:00Z
 description = ""
 designer = "Karanam Jyotsna"
