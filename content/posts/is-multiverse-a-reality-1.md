@@ -4,6 +4,7 @@ cover = "/images/multiverse-cover.jpeg"
 date = 2022-06-05T18:30:00Z
 description = "Somewhere in the quantum form of existence, amongst the very building blocks of reality there is a universe where you are......"
 designer = "Karanam Jyotsna"
+draft = true
 tags = []
 title = "Is Multiverse A Reality?"
 
