@@ -1,6 +1,6 @@
 +++
 author = "Jibran V"
-cover = ""
+cover = "/images/3.png"
 date = 2022-06-26T18:30:00Z
 description = ""
 designer = "Irfan "
