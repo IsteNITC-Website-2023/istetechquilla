@@ -1,5 +1,5 @@
 +++
-author = "Natasha and Vishnu "
+author = "Natasha Das and Vishnu Radhakrishnan "
 cover = "/images/whatsapp-image-2022-12-04-at-09-32-35.jpg"
 date = 2022-12-03T18:30:00Z
 description = "What it means to be human."
@@ -17,7 +17,7 @@ You’re flowing through all terrains. The brown rocky hills, the slippery plain
 
 Along the way you make _small beautiful achievements_. These are all the small steps to merge with the ocean. It’s all you’ve ever wanted. And that's everything you'll become, if not yet. The happiness of your accomplishments, make your life radiant in colors full of possibilities.
 
-Just like how the autumn sheds its past and springs into something beautifully green and new, you grow. You shed. You _learn_. But most of all, you become _better_. The happiness of being better lasts forever, like how the rocks remember the rivers that flow above them. It's not others that you compare with. It's _you_. And it's you making yourself better than the better. 
+Just like how the autumn sheds its past and springs into something beautifully green and new, you grow. You shed. You _learn_. But most of all, you become _better_. The happiness of being better lasts forever, like how the rocks remember the rivers that flow above them. It's not others that you compare with. It's _you_. And it's you making yourself better than the better.
 
 You make changes. Changes that matter. You’ve learnt to be you. Everyone has different learning levels, hopes, talents, and dreams. And you’ve learnt to identify yours. That is what being a human means. That is what makes you happy. _You_.
 
@@ -32,3 +32,5 @@ Surreal calmness enameled in guilt. My breath found a new hue. Emerald fumes and
 Eyes sunken, I somehow stay afloat. A stone’s throw away from rock bottom. Shattered vanity as I pick the pieces up. Revealing incisions a valley for unrelenting brackish rain. My reflection a silhouette. Shadows dancing with bloodshot apparitions. Ivory horns find home on an angel that once was.
 
 Wilted wildfires, withered away wit, eyes a widow. Eye of the storm brewing new lessons, replacing old scars. Finding my way back home, through muddled streets of noise and renounce, nobody said this journey would be easy so I persist.
+
+> _Natasha Das and Vishnu Radhakrishnan_
