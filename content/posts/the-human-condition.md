@@ -22,14 +22,4 @@ You make changes. Changes that matter. You’ve learnt to be you. Everyone has d
 
                                               **-x-x-x-**
 
-_You_. Lakeview, new hues, stranger blues. Old pieces, remnants. Reminiscing redshifts. An accomplice from weathered pages, onto new lands now - drifter.
-
-Solace inhabits elsewhere. A dear friend once chased, lay in the palm of my hands, a ghost. Knees bruised, palms caressing my soiled cheek yet hands tied. A stranger held the door open; for my beloved to depart in haste and welcomed secondary aches. And I stood and watched.
-
-Surreal calmness enameled in guilt. My breath found a new hue. Emerald fumes and bronzed glasses mirrored pieces of someone that once was. Eyes to the sky, assuage astray. Echoing enamour, sultry streaks of sun and genuine glimmers of something too great to gauge; all mainstays in the back of the mind of the all unforgiving deity of time. The hands that tick backwards point to a time without unrest in the face of trials.
-
-Eyes sunken, I somehow stay afloat. A stone’s throw away from rock bottom. Shattered vanity as I pick the pieces up. Revealing incisions a valley for unrelenting brackish rain. My reflection a silhouette. Shadows dancing with bloodshot apparitions. Ivory horns find home on an angel that once was.
-
-Wilted wildfires, withered away wit, eyes a widow. Eye of the storm brewing new lessons, replacing old scars. Finding my way back home, through muddled streets of noise and renounce, nobody said this journey would be easy so I persist.
-
 > _Natasha Das and Vishnu Radhakrishnan_
