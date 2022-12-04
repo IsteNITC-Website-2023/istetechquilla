@@ -8,7 +8,7 @@ tags = []
 title = "The Deep Web, and Why It’s Not as Scary as You Think"
 
 +++
-Ever since the internet has become a part of humanity, a particular urban legend has thrived. Rumors about a virtual space far greater than the internet we know, containing the darkest and scariest of human activities, one which ensures anyone who enters it is never the same again. Yes, we’re talking about the Deep Web, often wrongly referred to as the Dark Web.
+ver since the internet has become a part of humanity, a particular urban legend has thrived. Rumors about a virtual space far greater than the internet we know, containing the darkest and scariest of human activities, one which ensures anyone who enters it is never the same again. Yes, we’re talking about the Deep Web, often wrongly referred to as the Dark Web.
 
 ![](/images/1-1.jpg)
 
@@ -20,7 +20,6 @@ However, it would be a lie to say it is entirely peaceful. Sure, most of it is i
 
 Hollywood tropes and YouTube clickbait have led to the belief that the Deep Web is the overarching adversary of the internet under which all the bad guys thrive, often exaggerating the level of horror way beyond the truth. Though this is still accurate on some levels, it is surprising that sites and pages just as disturbing are easily found even on the surface web. There are forum pages and imageboards filled with things you could consider dangerous (I’m looking at you, Reddit), where most “scary dark web” videos on YouTube get their content.
 
-  
 Surprisingly, the Deep Web is not very difficult to access. The Tor (short for The Onion Router) network, usable via the Tor Browser, is an example of a simple deep web network. It relays your queries through a concealed network of relays, encrypting it and allowing for anonymous surfing of sites inaccessible via conventional browsers, often called onion sites. Your ISP or any surveillance protocols cannot read these queries.
 
 ![](/images/2.jpg)
