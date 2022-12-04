@@ -4,6 +4,7 @@ cover = "/images/whatsapp-image-2022-12-04-at-09-32-35.jpg"
 date = 2022-12-03T18:30:00Z
 description = "What it means to be human."
 designer = ""
+draft = true
 tags = []
 title = "The Human Condition"
 
