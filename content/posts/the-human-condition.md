@@ -1,6 +1,6 @@
 +++
 author = "Natasha Das and Vishnu Radhakrishnan "
-cover = "/images/whatsapp-image-2022-12-04-at-09-32-35.jpg"
+cover = "/images/whatsapp-image-2023-01-04-at-22-38-56.jpeg"
 date = 2022-12-03T18:30:00Z
 description = "What it means to be human"
 designer = ""
