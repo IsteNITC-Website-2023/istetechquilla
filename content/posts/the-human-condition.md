@@ -22,6 +22,6 @@ You make changes. Changes that matter. You’ve learnt to be you. Everyone has d
 
                                               **-x-x-x-**
 
-Check out Vishnu from ISTE NITK's blog [here](https://istenitk.wordpress.com/2022/12/09/the-human-condition/)
+**Check out Vishnu from ISTE NITK's blog** [**here**](https://istenitk.wordpress.com/2022/12/09/the-human-condition/)
 
 > _Natasha Das and Vishnu Radhakrishnan_
