@@ -4,7 +4,6 @@ cover = "/images/quantum-dots-iste-final_page-0001.jpg"
 date = 2023-01-30T18:30:00Z
 description = "The brand-new field of Quantum Dots holds great promise. So what are Quantum Dots and how do they work?"
 designer = "Abhishek Singh"
-draft = true
 tags = []
 title = "Quantum Dots - Will it succeed the Semiconductor Transistor?"
 
@@ -47,5 +46,6 @@ In a situation like this, Quantum dots may have great potential for faster devic
 
 Quantum dots is still a developing field, with many facts about the subject still being unknown or uncertain. But new applications and discoveries in the field are coming up every day, with each being more fascinating than before. As this topic continues to create ripples in the world of science, many believe that Quantum Dots can pave the way for the future of electronics.
 
-  
 ![](/images/picture7.png)
+
+> Sreevatsa Murthy
