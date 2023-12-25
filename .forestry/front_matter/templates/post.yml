@@ -24,6 +24,7 @@ fields:
   name: cover
   label: cover
 pages:
+- content/posts/gta-and-its-impact.md
 - content/posts/20-highlights-from-2020.md
 - content/posts/5g-and-the-phone-y-conspiracies.md
 - content/posts/ads-a-disruption-or-a-monetization-miracle.md

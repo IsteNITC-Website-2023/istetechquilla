@@ -8,7 +8,7 @@ tags = []
 title = "The Deep Web, and Why It’s Not as Scary as You Think"
 
 +++
-ver since the internet has become a part of humanity, a particular urban legend has thrived. Rumors about a virtual space far greater than the internet we know, containing the darkest and scariest of human activities, one which ensures anyone who enters it is never the same again. Yes, we’re talking about the Deep Web, often wrongly referred to as the Dark Web.
+Ever since the internet has become a part of humanity, a particular urban legend has thrived. Rumors about a virtual space far greater than the internet we know, containing the darkest and scariest of human activities, one which ensures anyone who enters it is never the same again. Yes, we’re talking about the Deep Web, often wrongly referred to as the Dark Web.
 
 ![](/images/1-1.jpg)
 
