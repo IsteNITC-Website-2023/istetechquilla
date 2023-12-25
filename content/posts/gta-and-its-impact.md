@@ -1,6 +1,6 @@
 +++
 author = "Sreevatsa Murthy"
-cover = "/images/gta-and-its-impact-1png"
+cover = "/images/gta-and-its-impact-1.png"
 date = 2023-12-25T18:30:00Z
 description = "For a video game, the graphics and background score are not the only factors that stimulate the dopamine of the player."
 designer = "Abhishek Singh"
